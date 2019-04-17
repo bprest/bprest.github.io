@@ -14,6 +14,5 @@ layout: default
 |ECON 530: Resource and Environmental Economics | TA | Fall 2015
 
 
-
 [back](./)
 
