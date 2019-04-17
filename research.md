@@ -6,7 +6,7 @@ layout: default
 
 ## Publications
 
-1. [“The Unconventional Oil Supply Boom: Aggregate Price Response from Microdata”](http://bit.ly/Newell_Prest_2018_Unconventional_Oil_Boom) with Richard Newell (2019). [_The Energy Journal_](https://www.iaee.org/energyjournal/article/3350) (40, no. 3) July 2019.
+1. [“The Unconventional Oil Supply Boom: Aggregate Price Response from Microdata”](http://bit.ly/Newell_Prest_2018_Unconventional_Oil_Boom) with Richard Newell (2019). [_The Energy Journal_](https://www.iaee.org/energyjournal/article/3350) (40, no. 3) May 2019.
 
 1. [“Trophy Hunting vs. Manufacturing Energy: The Price-Responsiveness of Shale Gas”](http://bit.ly/NPV_ShaleGas_Forthcoming), with Richard Newell & Ashley Vissing (2019). [_Journal of the Association of Environmental and Resource Economists_](https://www.journals.uchicago.edu/doi/full/10.1086/701531) (6, no. 2) March 2019: 177-217.
 
