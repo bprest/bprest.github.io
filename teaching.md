@@ -12,4 +12,16 @@ layout: default
 | ECON 690: Applied Big Data Science | TA | Spring 2016
 | ENV 635: Energy Economics and Policy | TA | Fall 2015
 |ECON 530: Resource and Environmental Economics | TA | Fall 2015
+
+
+
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
 [back](./)
+
