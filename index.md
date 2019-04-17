@@ -8,7 +8,7 @@ Before joining RFF, I earned my Ph.D. at Duke University, before which I worked 
 
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-85597225-3/welcome-page)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-85597225-3/welcome-page?pixel)](https://github.com/igrigorik/ga-beacon)
 
 
 
