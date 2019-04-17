@@ -6,6 +6,5 @@ github_username: bprest
 logo: /assets/img/prest_headshot.png
 description: Economist, Resources for the Future
 show_downloads: false
-google_analytics:
-
+google_analytics: UA-85597225-2
 theme: jekyll-theme-minimal
