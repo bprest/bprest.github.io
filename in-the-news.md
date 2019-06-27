@@ -4,6 +4,12 @@ layout: default
 
 # In the News
 
+* E&E News, Dylan Brown, June 11, 2019, ["Dems attack tax credit that may not cut pollution"](https://www.eenews.net/eedaily/stories/1060545257/)
+
+* S&P Global Market Intelligence (SNL), Taylor Kuykendall, June 10, 2019, ["3 Senate Democrats call on IRS to review refined coal credit program"](https://www.snl.com/web/client?auth=inherit\#news/article?id=52291733)
+
+* [New York Times](https://www.nytimes.com/reuters/2019/06/10/us/10reuters-usa-coal-subsidy.html), [U.S. News and World Report](https://money.usnews.com/investing/news/articles/2019-06-10/us-senators-target-1-billion-a-year-coal-subsidy-ask-irs-for-test-results), [Reuters](https://www.reuters.com/article/us-usa-coal-subsidy/u-s-senators-target-1-billion-a-year-coal-subsidy-ask-irs-for-test-results-idUSKCN1TB21U), Tim McLaughlin, June 10, 2019, "U.S. Senators Target $1 Billion a Year Coal Subsidy, Ask IRS for Test Results"
+
 * Utility Dive, Gavin Bade, August 22, 2018 ["EPA's new ACE rule is a coal lifeline 'disguised as a GHG regulation,' critics say"](https://www.utilitydive.com/news/epas-new-ace-rule-is-a-coal-lifeline-disguised-as-a-ghg-regulation-crit/530696/)
 
 * RTO Insider, Rich Heidorn Jr., June 11, 2018, ["Five Questions on Trump’s Coal, Nuke Bailout"](https://www.rtoinsider.com/trump-rick-perry-coal-and-nuclear-plant-retirements-94186/)
