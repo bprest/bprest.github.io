@@ -16,7 +16,7 @@ layout: default
 
 ## Work in Progress
 
-1. “How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”, with Alan Krupnick, (in progress)
+1. “How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”, with Alan Krupnick, (under review)
 
 1. “A Discounting Rule for the Social Cost of Carbon”, with Richard Newell and Billy Pizer, (in progress)
 
