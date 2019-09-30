@@ -6,7 +6,9 @@ layout: default
 
 ## Peer-Reviewed Publications
 
-1. [“Peaking Interest: How awareness drives the effectiveness of time-of-use electricity pricing”](http://bit.ly/Prest_Peaking_Interest), accepted at the _Journal of the Association of Environmental and Resource Economists_.
+1. [“Prices versus Quantities with Policy Updating”](http://www.nber.org/papers/w22379), with Billy Pizer conditionally accepted at the _Journal of the Association of Environmental and Resource Economists_.
+
+1. [“Peaking Interest: How awareness drives the effectiveness of time-of-use electricity pricing”](https://www.journals.uchicago.edu/doi/abs/10.1086/705798), accepted at the _Journal of the Association of Environmental and Resource Economists_.
 
 1. [“The Unconventional Oil Supply Boom: Aggregate Price Response from Microdata”](http://bit.ly/Newell_Prest_2018_Unconventional_Oil_Boom) with Richard Newell (2019). [_The Energy Journal_](https://www.iaee.org/energyjournal/article/3350) (40, no. 3) May 2019.
 
@@ -16,11 +18,9 @@ layout: default
 
 ## Work in Progress
 
-1. “How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”, with Alan Krupnick, (under review)
+1. [“How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”](https://www.rff.org/publications/reports/how-clean-is-refined-coal/), with Alan Krupnick, (under review)
 
 1. “A Discounting Rule for the Social Cost of Carbon”, with Richard Newell and Billy Pizer, (in progress)
-
-1. [“Prices versus Quantities with Policy Updating”](http://www.nber.org/papers/w22379), with Billy Pizer (revisions requested and resubmitted)
 
 1. [“The GDP-Temperature Relationship: Implications for Climate Change Damages”](https://www.rff.org/publications/working-papers/the-gdp-temperature-relationship-implications-for-climate-change-damages/), with Richard Newell & Steven Sexton (under review)
 
