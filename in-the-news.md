@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* Resources Magazine, October 9, 2019, ["How Clean is 'Refined Coal'? The billion-dollar subsidy you've never heard of"](https://www.resourcesmag.org/archives/how-clean-is-refined-coal/)
+
 * E&E News, Dylan Brown, June 11, 2019, ["Dems attack tax credit that may not cut pollution"](https://www.eenews.net/eedaily/stories/1060545257/)
 
 * S&P Global Market Intelligence (SNL), Taylor Kuykendall, June 10, 2019, ["3 Senate Democrats call on IRS to review refined coal credit program"](https://www.snl.com/web/client?auth=inherit\#news/article?id=52291733)
