@@ -8,7 +8,7 @@ layout: default
 
 1. [“Prices versus Quantities with Policy Updating”](http://www.nber.org/papers/w22379), with Billy Pizer, conditionally accepted at the _Journal of the Association of Environmental and Resource Economists_.
 
-1. [“Peaking Interest: How awareness drives the effectiveness of time-of-use electricity pricing”](https://www.journals.uchicago.edu/doi/abs/10.1086/705798),  _Journal of the Association of Environmental and Resource Economists_ 7, no. 1 (January 2020): 103-143.
+1. [“Peaking Interest: How awareness drives the effectiveness of time-of-use electricity pricing”](https://www.journals.uchicago.edu/doi/abs/10.1086/705798), (2020).  _Journal of the Association of Environmental and Resource Economists_ 7, no. 1 (January 2020): 103-143.
 
 1. [“The Unconventional Oil Supply Boom: Aggregate Price Response from Microdata”](https://www.iaee.org/energyjournal/article/3350) with Richard Newell (2019). _The Energy Journal_ 40, no. 3 (May 2019).
 
