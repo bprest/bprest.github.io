@@ -6,15 +6,15 @@ layout: default
 
 ## Peer-Reviewed Publications
 
-1. [“Prices versus Quantities with Policy Updating”](http://www.nber.org/papers/w22379), with Billy Pizer conditionally accepted at the _Journal of the Association of Environmental and Resource Economists_.
+1. [“Prices versus Quantities with Policy Updating”](http://www.nber.org/papers/w22379), with Billy Pizer, conditionally accepted at the _Journal of the Association of Environmental and Resource Economists_.
 
-1. [“Peaking Interest: How awareness drives the effectiveness of time-of-use electricity pricing”](https://www.journals.uchicago.edu/doi/abs/10.1086/705798), accepted at the _Journal of the Association of Environmental and Resource Economists_.
+1. [“Peaking Interest: How awareness drives the effectiveness of time-of-use electricity pricing”](https://www.journals.uchicago.edu/doi/abs/10.1086/705798),  _Journal of the Association of Environmental and Resource Economists_ 7, no. 1 (January 2020): 103-143.
 
-1. [“The Unconventional Oil Supply Boom: Aggregate Price Response from Microdata”](http://bit.ly/Newell_Prest_2018_Unconventional_Oil_Boom) with Richard Newell (2019). [_The Energy Journal_](https://www.iaee.org/energyjournal/article/3350) (40, no. 3) May 2019.
+1. [“The Unconventional Oil Supply Boom: Aggregate Price Response from Microdata”](https://www.iaee.org/energyjournal/article/3350) with Richard Newell (2019). _The Energy Journal_ 40, no. 3 (May 2019).
 
-1. [“Trophy Hunting vs. Manufacturing Energy: The Price-Responsiveness of Shale Gas”](http://bit.ly/NPV_ShaleGas_Forthcoming), with Richard Newell & Ashley Vissing (2019). [_Journal of the Association of Environmental and Resource Economists_](https://www.journals.uchicago.edu/doi/full/10.1086/701531) (6, no. 2) March 2019: 177-217.
+1. [“Trophy Hunting vs. Manufacturing Energy: The Price-Responsiveness of Shale Gas”](https://www.journals.uchicago.edu/doi/full/10.1086/701531), with Richard Newell & Ashley Vissing (2019). _Journal of the Association of Environmental and Resource Economists_ 6, no. 2 (March 2019): 177-217.
 
-1. [“Explanations for the 2014 Oil Price Decline: Supply or Demand?”](http://bit.ly/Prest_Oil_Price_Decline) (2018). [_Energy Economics_](https://www.sciencedirect.com/science/article/pii/S0140988318302020) (74) August 2018: 63-75.
+1. [“Explanations for the 2014 Oil Price Decline: Supply or Demand?”](https://www.sciencedirect.com/science/article/pii/S0140988318302020) (2018). _Energy Economics_ 74 (August 2018): 63-75.
 
 ## Work in Progress
 
