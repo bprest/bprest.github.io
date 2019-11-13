@@ -6,7 +6,7 @@ layout: default
 
 ## Peer-Reviewed Publications
 
-1. [“Prices versus Quantities with Policy Updating”](http://www.nber.org/papers/w22379), with Billy Pizer, conditionally accepted at the _Journal of the Association of Environmental and Resource Economists_.
+1. [“Prices versus Quantities with Policy Updating”](https://www.journals.uchicago.edu/doi/abs/10.1086/707142), with Billy Pizer. _Journal of the Association of Environmental and Resource Economists_, Forthcoming.
 
 1. [“Peaking Interest: How awareness drives the effectiveness of time-of-use electricity pricing”](https://www.journals.uchicago.edu/doi/abs/10.1086/705798), (2020).  _Journal of the Association of Environmental and Resource Economists_ 7, no. 1 (January 2020): 103-143.
 
