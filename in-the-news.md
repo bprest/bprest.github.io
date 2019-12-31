@@ -4,6 +4,15 @@ layout: default
 
 # In the News
 
+
+* E&E News, Dylan Brown, December 27, 2019, ["Dems demand audit of 'clean coal' tax credit"](https://www.eenews.net/greenwire/2019/12/27/stories/1061923089)
+
+* S&P Global Market Intelligence (SNL), Taylor Kuykendall, December 24, 2019, 
+["US senators call for probe into tax credit for refined coal"](https://platform.marketintelligence.spglobal.com/web/client?auth=inherit\#news/article?id=56310973)
+
+* Reuters, Tim McLaughlin, December 23, 2019, ["U.S. senators ask for government investigation
+of coal tax credit program"](https://www.reuters.com/article/us-usa-coal-investigation-idUSKBN1YR1R6)
+
 * Resources Magazine, October 9, 2019, ["How Clean is 'Refined Coal'? The billion-dollar subsidy you've never heard of"](https://www.resourcesmag.org/archives/how-clean-is-refined-coal/)
 
 * E&E News, Dylan Brown, June 11, 2019, ["Dems attack tax credit that may not cut pollution"](https://www.eenews.net/eedaily/stories/1060545257/)
