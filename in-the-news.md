@@ -4,6 +4,7 @@ layout: default
 
 # In the News
 
+* Forbes, Ken Silverstein, January 6, 2020, ["The Giving Season May Be Over — But Not For Coal And Fossil Fuels"](https://www.forbes.com/sites/kensilverstein/2020/01/06/the-giving-season-may-be-over---but-not-for-coal-and-fossil-fuels)
 
 * E&E News, Dylan Brown, December 27, 2019, ["Dems demand audit of 'clean coal' tax credit"](https://www.eenews.net/greenwire/2019/12/27/stories/1061923089)
 
