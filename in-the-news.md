@@ -4,6 +4,13 @@ layout: default
 
 # In the News
 
+* E&E News, Dylan Brown, Dylan Brown, March 2, 2020, ["Report: 'Clean coal' credit fails emissions, cost tests"](https://www.eenews.net/eedaily/stories/1062492365/)
+
+* S&P Global Market Intelligence (SNL), Taylor Kuykendall, March 2, 2020, ["Study says US refined coal tax credit boosts CO2 emissions by propping up plants"](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/study-says-us-refined-coal-tax-credit-boosts-co2-emissions-by-propping-up-plants-57357901)
+
+* RFF Blog, with Alan Krupnick, March 2, 2020, ["'Refined Coal' is Still No Bargain"](https://www.resourcesmag.org/common-resources/refined-coal-is-still-no-bargain/)
+
+
 * Forbes, Ken Silverstein, January 6, 2020, ["The Giving Season May Be Over — But Not For Coal And Fossil Fuels"](https://www.forbes.com/sites/kensilverstein/2020/01/06/the-giving-season-may-be-over---but-not-for-coal-and-fossil-fuels)
 
 * E&E News, Dylan Brown, December 27, 2019, ["Dems demand audit of 'clean coal' tax credit"](https://www.eenews.net/greenwire/2019/12/27/stories/1061923089)
