@@ -8,9 +8,6 @@ layout: default
 
 * S&P Global Market Intelligence (SNL), Taylor Kuykendall, March 2, 2020, ["Study says US refined coal tax credit boosts CO2 emissions by propping up plants"](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/study-says-us-refined-coal-tax-credit-boosts-co2-emissions-by-propping-up-plants-57357901)
 
-* RFF Blog, with Alan Krupnick, March 2, 2020, ["'Refined Coal' is Still No Bargain"](https://www.resourcesmag.org/common-resources/refined-coal-is-still-no-bargain/)
-
-
 * Forbes, Ken Silverstein, January 6, 2020, ["The Giving Season May Be Over — But Not For Coal And Fossil Fuels"](https://www.forbes.com/sites/kensilverstein/2020/01/06/the-giving-season-may-be-over---but-not-for-coal-and-fossil-fuels)
 
 * E&E News, Dylan Brown, December 27, 2019, ["Dems demand audit of 'clean coal' tax credit"](https://www.eenews.net/greenwire/2019/12/27/stories/1061923089)
@@ -21,8 +18,6 @@ layout: default
 * Reuters, Tim McLaughlin, December 23, 2019, ["U.S. senators ask for government investigation
 of coal tax credit program"](https://www.reuters.com/article/us-usa-coal-investigation-idUSKBN1YR1R6)
 
-* Resources Magazine, October 9, 2019, ["How Clean is 'Refined Coal'? The billion-dollar subsidy you've never heard of"](https://www.resourcesmag.org/archives/how-clean-is-refined-coal/)
-
 * E&E News, Dylan Brown, June 11, 2019, ["Dems attack tax credit that may not cut pollution"](https://www.eenews.net/eedaily/stories/1060545257/)
 
 * S&P Global Market Intelligence (SNL), Taylor Kuykendall, June 10, 2019, ["3 Senate Democrats call on IRS to review refined coal credit program"](https://www.snl.com/web/client?auth=inherit\#news/article?id=52291733)
@@ -32,8 +27,6 @@ of coal tax credit program"](https://www.reuters.com/article/us-usa-coal-investi
 * Utility Dive, Gavin Bade, August 22, 2018 ["EPA's new ACE rule is a coal lifeline 'disguised as a GHG regulation,' critics say"](https://www.utilitydive.com/news/epas-new-ace-rule-is-a-coal-lifeline-disguised-as-a-ghg-regulation-crit/530696/)
 
 * RTO Insider, Rich Heidorn Jr., June 11, 2018, ["Five Questions on Trump’s Coal, Nuke Bailout"](https://www.rtoinsider.com/trump-rick-perry-coal-and-nuclear-plant-retirements-94186/)
-
-* RFF Blog, with Karen L. Palmer, June 7, 2018, ["A Strategic Electricity Generating Reserve: Not Enticing Enough to Add to the Menu"](http://www.rff.org/blog/2018/strategic-electricity-generating-reserve-not-enticing-enough-add-menu)
 
 * Forbes, Ryan Kellogg, June 7, 2018, ["If Oil Prices Climb, The U.S. Is Less Able To Play The Role Of Swing Producer Than Some Think"](https://www.forbes.com/sites/ucenergy/2018/06/07/if-oil-prices-climb-the-u-s-is-less-able-to-play-the-role-of-swing-producer-than-some-think/\#2d5e592f73bd)
 

@@ -26,6 +26,19 @@ layout: default
 
 1. [“Informing SPR Policy Through Oil Futures and Inventory Dynamics”](http://www.nber.org/papers/w23974), with Richard Newell (in progress). [Working version](http://bit.ly/Newell_Prest_SPR_Draft).
 
- 
+## Other Reports and Articles
+
+* RFF Blog, with Alan Krupnick, March 2, 2020, ["'Refined Coal' is Still No Bargain"](https://www.resourcesmag.org/common-resources/refined-coal-is-still-no-bargain/)
+
+* Resources Magazine, October 9, 2019, ["How Clean is 'Refined Coal'? The billion-dollar subsidy you've never heard of"](https://www.resourcesmag.org/archives/how-clean-is-refined-coal/)
+
+* RFF Blog, with Karen L. Palmer, June 7, 2018, ["A Strategic Electricity Generating Reserve: Not Enticing Enough to Add to the Menu"](http://www.rff.org/blog/2018/strategic-electricity-generating-reserve-not-enticing-enough-add-menu)
+
+* Contributing author, ["Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES)GLobal Assessment Report on Biodiversity and Ecosystem Services"](https://ipbes.net/global-assessment). 2019.
+
+* Congressional Budget Office report, with Terry Dinan, 2011, ["The Effects of Renewable or Clean Electricity Standards"](http://www.cbo.gov/sites/default/files/cbofiles/ftpdocs/121xx/doc12166/07-26-energy.pdf)
+
+* Congressional Budget Office report, with Paige Piper-Bach, 2010, ["Immigration Policy in the United States: An Update"](http://www.cbo.gov/sites/default/files/cbofiles/ftpdocs/119xx/doc11959/12-03-immigration_chartbook.pdf)
+
 
 [back](./)
