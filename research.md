@@ -6,29 +6,35 @@ layout: default
 
 ## Peer-Reviewed Publications
 
-1. [“Prices versus Quantities with Policy Updating”](https://www.journals.uchicago.edu/doi/abs/10.1086/707142), with Billy Pizer. _Journal of the Association of Environmental and Resource Economists_, Forthcoming.
+1. [“Prices versus Quantities with Policy Updating”](https://www.journals.uchicago.edu/doi/abs/10.1086/707142), with Billy Pizer, (2020).  _Journal of the Association of Environmental and Resource Economists_ 7, no. 3 (May 2020): 483-518.
 
 1. [“Peaking Interest: How awareness drives the effectiveness of time-of-use electricity pricing”](https://www.journals.uchicago.edu/doi/abs/10.1086/705798), (2020).  _Journal of the Association of Environmental and Resource Economists_ 7, no. 1 (January 2020): 103-143.
 
-1. [“The Unconventional Oil Supply Boom: Aggregate Price Response from Microdata”](https://www.iaee.org/energyjournal/article/3350) with Richard Newell (2019). _The Energy Journal_ 40, no. 3 (May 2019).
-
 1. [“Trophy Hunting vs. Manufacturing Energy: The Price-Responsiveness of Shale Gas”](https://www.journals.uchicago.edu/doi/full/10.1086/701531), with Richard Newell & Ashley Vissing (2019). _Journal of the Association of Environmental and Resource Economists_ 6, no. 2 (March 2019): 177-217.
+ 
+1. [“The Unconventional Oil Supply Boom: Aggregate Price Response from Microdata”](https://www.iaee.org/energyjournal/article/3350) with Richard Newell (2019). _The Energy Journal_ 40, no. 3 (May 2019).
 
 1. [“Explanations for the 2014 Oil Price Decline: Supply or Demand?”](https://www.sciencedirect.com/science/article/pii/S0140988318302020) (2018). _Energy Economics_ 74 (August 2018): 63-75.
 
 ## Work in Progress
 
+1. [“The GDP-Temperature Relationship: Implications for Climate Change Damages”](https://www.rff.org/publications/working-papers/the-gdp-temperature-relationship-implications-for-climate-change-damages/), with Richard Newell & Steven Sexton (revisions requested)
+
 1. [“How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”](https://www.rff.org/publications/reports/how-clean-is-refined-coal/), with Alan Krupnick, (under review)
 
-1. “A Discounting Rule for the Social Cost of Carbon”, with Richard Newell and Billy Pizer, (in progress)
+1. “A Discounting Rule for the Social Cost of Carbon”, with Richard Newell and Billy Pizer, (under review)
 
-1. [“The GDP-Temperature Relationship: Implications for Climate Change Damages”](https://www.rff.org/publications/working-papers/the-gdp-temperature-relationship-implications-for-climate-change-damages/), with Richard Newell & Steven Sexton (under review)
+1. “Supply side reforms to oil and gas production on federal lands: Modeling the implications for climate emissions, revenues, and production shifts”, (in progress)
 
 1. [“Informing SPR Policy Through Oil Futures and Inventory Dynamics”](http://www.nber.org/papers/w23974), with Richard Newell (in progress). [Working version](http://bit.ly/Newell_Prest_SPR_Draft).
 
 ## Other Reports and Articles
 
+* RFF Report, with Richard Newell, Daniel Raimi, and Seth Villanueva, May 20, 2020, ["The Global Energy Outlook 2020: Energy Transition or Energy Addition?"](https://www.rff.org/publications/reports/global-energy-outlook-2020/)
+
 * RFF Blog, with Alan Krupnick, March 2, 2020, ["'Refined Coal' is Still No Bargain"](https://www.resourcesmag.org/common-resources/refined-coal-is-still-no-bargain/)
+
+* RFF Explainer, January 16, 2020, ["Discounting 101"](https://www.rff.org/publications/explainers/discounting-101/)
 
 * Resources Magazine, October 9, 2019, ["How Clean is 'Refined Coal'? The billion-dollar subsidy you've never heard of"](https://www.resourcesmag.org/archives/how-clean-is-refined-coal/)
 
