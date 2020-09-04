@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* Yale Climate Connections podcast, September 2, 2020, ["A costly subsidy for 'refined coal' is failing to achieve air pollution goals, researcher finds"](https://yaleclimateconnections.org/2020/09/costly-subsidy-for-refined-coal-failing-to-achieve-air-pollution-goals/)
+
 * E&E News, Dylan Brown, Dylan Brown, March 2, 2020, ["Report: 'Clean coal' credit fails emissions, cost tests"](https://www.eenews.net/eedaily/stories/1062492365/)
 
 * S&P Global Market Intelligence (SNL), Taylor Kuykendall, March 2, 2020, ["Study says US refined coal tax credit boosts CO2 emissions by propping up plants"](https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/study-says-us-refined-coal-tax-credit-boosts-co2-emissions-by-propping-up-plants-57357901)
