@@ -24,11 +24,13 @@ layout: default
 
 1. “A Discounting Rule for the Social Cost of Carbon”, with Richard Newell and Billy Pizer, (under review)
 
-1. “Supply side reforms to oil and gas production on federal lands: Modeling the implications for climate emissions, revenues, and production shifts”, (in progress)
+1. [“Supply side reforms to oil and gas production on federal lands: Modeling the implications for climate emissions, revenues, and production shifts”](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/)
 
 1. [“Informing SPR Policy Through Oil Futures and Inventory Dynamics”](http://www.nber.org/papers/w23974), with Richard Newell (in progress). [Working version](http://bit.ly/Newell_Prest_SPR_Draft).
 
 ## Other Reports and Articles
+
+* RFF Blog, September 16, 2020, ["The Economic and Emissions Consequences of Supply-Side Reforms to Oil and Gas Production on Federal Lands"](https://www.resourcesmag.org/common-resources/economic-and-emissions-consequences-supply-side-reforms-oil-and-gas-production-federal-lands)
 
 * RFF Report, with Richard Newell, Daniel Raimi, and Seth Villanueva, May 20, 2020, ["The Global Energy Outlook 2020: Energy Transition or Energy Addition?"](https://www.rff.org/publications/reports/global-energy-outlook-2020/)
 

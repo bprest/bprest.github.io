@@ -4,6 +4,10 @@ layout: default
 
 # In the News
 
+* E&E News, Dylan Brown, Carlos Anchondo, September 18, 2020, ["Report: Federal drilling ban not enough to meet CO2 goals"](https://www.eenews.net/energywire/2020/09/18/stories/1063714085)
+
+* S&P Global Market Intelligence (SNL), Bill Holland, September 17, 2020, ["Carbon charge on federal leases could balance CO2 cuts, revenue needs – study"](https://platform.mi.spglobal.com/web/client?auth=inherit&overridecdc=1&#news/article?id=60369971&KeyProductLinkType=23)
+
 * Yale Climate Connections podcast, September 2, 2020, ["A costly subsidy for 'refined coal' is failing to achieve air pollution goals, researcher finds"](https://yaleclimateconnections.org/2020/09/costly-subsidy-for-refined-coal-failing-to-achieve-air-pollution-goals/)
 
 * E&E News, Dylan Brown, Dylan Brown, March 2, 2020, ["Report: 'Clean coal' credit fails emissions, cost tests"](https://www.eenews.net/eedaily/stories/1062492365/)
