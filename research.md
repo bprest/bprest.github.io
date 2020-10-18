@@ -30,6 +30,9 @@ layout: default
 
 ## Other Reports and Articles
 
+* RFF Blog, October 1, 2020, ["Examining the Effects of a Federal Leasing Ban: Drilling into an Industry Study
+"](https://www.resourcesmag.org/common-resources/examining-effects-federal-leasing-ban-drilling-industry-study/)
+
 * RFF Blog, September 16, 2020, ["The Economic and Emissions Consequences of Supply-Side Reforms to Oil and Gas Production on Federal Lands"](https://www.resourcesmag.org/common-resources/economic-and-emissions-consequences-supply-side-reforms-oil-and-gas-production-federal-lands)
 
 * RFF Report, with Richard Newell, Daniel Raimi, and Seth Villanueva, May 20, 2020, ["The Global Energy Outlook 2020: Energy Transition or Energy Addition?"](https://www.rff.org/publications/reports/global-energy-outlook-2020/)
