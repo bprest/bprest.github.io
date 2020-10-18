@@ -20,7 +20,7 @@ layout: default
 
 1. [“The GDP-Temperature Relationship: Implications for Climate Change Damages”](https://www.rff.org/publications/working-papers/the-gdp-temperature-relationship-implications-for-climate-change-damages/), with Richard Newell & Steven Sexton (revisions requested)
 
-1. [“How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”](https://www.rff.org/publications/reports/how-clean-is-refined-coal/), with Alan Krupnick, (under review)
+1. [“How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”](https://www.rff.org/publications/reports/how-clean-is-refined-coal/), with Alan Krupnick, (revisions requested)
 
 1. “A Discounting Rule for the Social Cost of Carbon”, with Richard Newell and Billy Pizer, (under review)
 
