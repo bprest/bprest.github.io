@@ -15,7 +15,7 @@ layout: default
 
 1. [“Trophy Hunting vs. Manufacturing Energy: The Price-Responsiveness of Shale Gas”](https://www.journals.uchicago.edu/doi/full/10.1086/701531), with Richard Newell & Ashley Vissing (2019). _Journal of the Association of Environmental and Resource Economists_ 6, no. 2 (March 2019): 177-217.
  
-1. [“The Unconventional Oil Supply Boom: Aggregate Price Response from Microdata”](https://www.iaee.org/energyjournal/article/3350) with Richard Newell (2019). _The Energy Journal_ 40, no. 3 (May 2019).
+1. [“The Unconventional Oil Supply Boom: Aggregate Price Response from Microdata”](https://www.iaee.org/energyjournal/article/3350), with Richard Newell (2019). _The Energy Journal_ 40, no. 3 (May 2019).
 
 1. [“Explanations for the 2014 Oil Price Decline: Supply or Demand?”](https://www.sciencedirect.com/science/article/pii/S0140988318302020) (2018). _Energy Economics_ 74 (August 2018): 63-75.
 
