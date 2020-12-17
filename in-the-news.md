@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* LA Times, Sammy Roth, December 17, 2020, Paper cited in ["Boiling Point: Obama wouldn’t keep fossil fuels in the ground. But Biden says he will"](https://www.latimes.com/environment/newsletter/2020-12-17/biden-fossil-fuels-in-the-ground-public-land-boiling-point)
+
 * E&E News, Dylan Brown, Carlos Anchondo, September 18, 2020, ["Report: Federal drilling ban not enough to meet CO2 goals"](https://www.eenews.net/energywire/2020/09/18/stories/1063714085)
 
 * S&P Global Market Intelligence (SNL), Bill Holland, September 17, 2020, ["Carbon charge on federal leases could balance CO2 cuts, revenue needs – study"](https://platform.mi.spglobal.com/web/client?auth=inherit&overridecdc=1&#news/article?id=60369971&KeyProductLinkType=23)

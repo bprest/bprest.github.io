@@ -6,7 +6,7 @@ layout: default
 
 ## Peer-Reviewed Publications
 
-1. [“How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”](https://www.rff.org/publications/reports/how-clean-is-refined-coal/), with Alan Krupnick, accepted at _Energy Economics_.
+1. [“How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”](https://www.sciencedirect.com/science/article/pii/S0140988320303637), with Alan Krupnick, forthcoming at _Energy Economics_. Working version available at [RFF]((https://www.rff.org/publications/reports/how-clean-is-refined-coal/)).
 
 1. [“Prices versus Quantities with Policy Updating”](https://www.journals.uchicago.edu/doi/abs/10.1086/707142), with Billy Pizer, (2020).  _Journal of the Association of Environmental and Resource Economists_ 7, no. 3 (May 2020): 483-518.
 
@@ -20,13 +20,11 @@ layout: default
 
 ## Work in Progress
 
-1. [“The GDP-Temperature Relationship: Implications for Climate Change Damages”](https://www.rff.org/publications/working-papers/the-gdp-temperature-relationship-implications-for-climate-change-damages/), with Richard Newell & Steven Sexton (revisions requested)
+1. [“The GDP-Temperature Relationship: Implications for Climate Change Damages”](https://www.rff.org/publications/working-papers/the-gdp-temperature-relationship-implications-for-climate-change-damages/), with Richard Newell & Steven Sexton (Conditionally accepted at the _Journal of Environmental Economics and Management_)
 
-1. “A Discounting Rule for the Social Cost of Carbon”, with Richard Newell and Billy Pizer, (under review)
+1. “A Discounting Rule for the Social Cost of Carbon”, with Richard Newell and Billy Pizer, (revisions requested)
 
 1. [“Supply side reforms to oil and gas production on federal lands: Modeling the implications for climate emissions, revenues, and production shifts”](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/), (under review)
-
-1. [“Informing SPR Policy Through Oil Futures and Inventory Dynamics”](http://www.nber.org/papers/w23974), with Richard Newell (in progress). [Working version](http://bit.ly/Newell_Prest_SPR_Draft).
 
 ## Other Reports and Articles
 
