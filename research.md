@@ -14,17 +14,27 @@ layout: default
 
 1. [“Trophy Hunting vs. Manufacturing Energy: The Price-Responsiveness of Shale Gas”](https://www.journals.uchicago.edu/doi/full/10.1086/701531), with Richard Newell & Ashley Vissing (2019). _Journal of the Association of Environmental and Resource Economists_ 6, no. 2 (March 2019): 177-217.
  
-1. [“The Unconventional Oil Supply Boom: Aggregate Price Response from Microdata”](https://www.iaee.org/energyjournal/article/3350) with Richard Newell (2019). _The Energy Journal_ 40, no. 3 (May 2019).
+1. [“The Unconventional Oil Supply Boom: Aggregate Price Response from Microdata”](https://www.iaee.org/energyjournal/article/3350), with Richard Newell (2019). _The Energy Journal_ 40, no. 3 (May 2019).
 
 1. [“Explanations for the 2014 Oil Price Decline: Supply or Demand?”](https://www.sciencedirect.com/science/article/pii/S0140988318302020) (2018). _Energy Economics_ 74 (August 2018): 63-75.
 
-## Work in Progress
+## Working Papers and Research in Progress
 
 1. [“The GDP-Temperature Relationship: Implications for Climate Change Damages”](https://www.rff.org/publications/working-papers/the-gdp-temperature-relationship-implications-for-climate-change-damages/), with Richard Newell & Steven Sexton (Conditionally accepted at the _Journal of Environmental Economics and Management_)
 
 1. “A Discounting Rule for the Social Cost of Carbon”, with Richard Newell and Billy Pizer, (revisions requested)
 
 1. [“Supply side reforms to oil and gas production on federal lands: Modeling the implications for climate emissions, revenues, and production shifts”](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/), (under review)
+
+<!-- 
+1. Counterfactual prediction methods as a substitute for randomized-control trials: Evidence from high-frequency energy data, with Karen Palmer and Casey Wichman, (in progress)
+
+1. Probablistic energy intensity projections for the social cost of carbon, with Cora Kingdon, (in progress)
+
+1. [“Informing SPR Policy Through Oil Futures and Inventory Dynamics”](http://www.nber.org/papers/w23974), with Richard Newell. [Working version](http://bit.ly/Newell_Prest_SPR_Draft).
+
+1. Option value??? Maybe under other reports & articles
+-->
 
 ## Other Reports and Articles
 
