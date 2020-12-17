@@ -6,7 +6,7 @@ layout: default
 
 ## Peer-Reviewed Publications
 
-1. [“How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”](https://www.sciencedirect.com/science/article/pii/S0140988320303637), with Alan Krupnick, forthcoming at _Energy Economics_. Working version available at [RFF]((https://www.rff.org/publications/reports/how-clean-is-refined-coal/)).
+1. [“How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”](https://www.sciencedirect.com/science/article/pii/S0140988320303637), with Alan Krupnick, (2020), forthcoming at _Energy Economics_. Working version available at [RFF]((https://www.rff.org/publications/reports/how-clean-is-refined-coal/)).
 
 1. [“Prices versus Quantities with Policy Updating”](https://www.journals.uchicago.edu/doi/abs/10.1086/707142), with Billy Pizer, (2020).  _Journal of the Association of Environmental and Resource Economists_ 7, no. 3 (May 2020): 483-518.
 
@@ -29,7 +29,7 @@ layout: default
 <!-- 
 1. Counterfactual prediction methods as a substitute for randomized-control trials: Evidence from high-frequency energy data, with Karen Palmer and Casey Wichman, (in progress)
 
-1. Probablistic energy intensity projections for the social cost of carbon, with Cora Kingdon, (in progress)
+1. Probabilistic energy intensity projections for the social cost of carbon, with Cora Kingdon, (in progress)
 
 1. [“Informing SPR Policy Through Oil Futures and Inventory Dynamics”](http://www.nber.org/papers/w23974), with Richard Newell. [Working version](http://bit.ly/Newell_Prest_SPR_Draft).
 
