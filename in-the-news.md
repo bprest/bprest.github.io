@@ -4,7 +4,7 @@ layout: default
 
 # In the News
 
-* LA Times, *Boiling Point* Sammy Roth, January 28, 2021, ["Oil and gas companies say they support climate action. Are they serious?"](https://www.latimes.com/environment/newsletter/2021-01-28/oil-and-gas-companies-say-they-support-climate-action-are-they-serious-boiling-point)
+* LA Times, *Boiling Point*, Sammy Roth, January 28, 2021, ["Oil and gas companies say they support climate action. Are they serious?"](https://www.latimes.com/environment/newsletter/2021-01-28/oil-and-gas-companies-say-they-support-climate-action-are-they-serious-boiling-point)
 
 * Colorado Public Radio, Sam Brasch and Miguel Otárola, January 27, 2021, ["What Biden’s Pause On Oil And Gas Leases On Federal Lands Means For Colorado"](https://www.cpr.org/2021/01/27/what-bidens-pause-on-oil-and-gas-leases-on-federal-lands-means-for-colorado/)
 
