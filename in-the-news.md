@@ -4,6 +4,11 @@ layout: default
 
 # In the News
 
+
+* E&E News, Miranda Wilson, March 24, 2021, ["Carbon tax could ease Biden's oil troubles — report"](https://www.eenews.net/energywire/2021/03/24/stories/1063728301)
+
+* Gizmodo Earther, Molly Taft, March 18, 2021, ["The Myth of ‘Clean Coal’ Might Finally Die"](https://earther.gizmodo.com/the-myth-of-clean-coal-might-finally-die-1846496159)
+
 * Associated Press, Mead Gruver and Matthew Brown, March 11, 2021, ["As climate fight shifts to oil, Biden faces a formidable foe"](https://apnews.com/article/joe-biden-donald-trump-technology-climate-climate-change-cbfb975634cf9a6395649ecaec65201e)
 
 * LA Times, *Boiling Point*, Sammy Roth, January 28, 2021, ["Oil and gas companies say they support climate action. Are they serious?"](https://www.latimes.com/environment/newsletter/2021-01-28/oil-and-gas-companies-say-they-support-climate-action-are-they-serious-boiling-point)
