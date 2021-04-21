@@ -4,7 +4,10 @@ layout: default
 
 # In the News
 
+* Politico, Lorraine Woellert, April 21, 2021, ["What’s the cost of carbon? There's no consensus"](https://www.politico.com/news/2021/04/21/whats-the-cost-of-carbon-theres-no-consensus-483938)
 
+* E&E News, Heather Richards, April 7, 2021, ["Nada Culver shakes up BLM, oil and climate policy"](https://www.eenews.net/energywire/2021/04/07/stories/1063729361)
+ 
 * E&E News, Miranda Wilson, March 24, 2021, ["Carbon tax could ease Biden's oil troubles — report"](https://www.eenews.net/energywire/2021/03/24/stories/1063728301)
 
 * Gizmodo Earther, Molly Taft, March 18, 2021, ["The Myth of ‘Clean Coal’ Might Finally Die"](https://earther.gizmodo.com/the-myth-of-clean-coal-might-finally-die-1846496159)

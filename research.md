@@ -24,7 +24,7 @@ layout: default
 
 1. “A Discounting Rule for the Social Cost of Carbon”, with Richard Newell and Billy Pizer, (revisions requested)
 
-1. [“Supply side reforms to oil and gas production on federal lands: Modeling the implications for CO2 emissions, revenues, and production shifts”](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/), (under review)
+1. [“Supply side reforms to oil and gas production on federal lands: Modeling the implications for CO2 emissions, revenues, and production shifts”](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/), (revision requested)
 
 1. [“Climate Royalty Surcharges”](https://www.rff.org/publications/working-papers/climate-royalty-surcharges/), also available at (https://www.nber.org/papers/w28564)[NBER], with James Stock
 
@@ -35,12 +35,16 @@ layout: default
 
 1. [“Informing SPR Policy Through Oil Futures and Inventory Dynamics”](http://www.nber.org/papers/w23974), with Richard Newell. [Working version](http://bit.ly/Newell_Prest_SPR_Draft).
 
-1. Option value??? Maybe under other reports & articles
 -->
 
 ## Other Reports and Articles
 
-1.  _Resources Magazine_, December 21, 2020, ["Policy Options for Oil and Gas Leasing Reform on Federal Lands and Waters"](https://www.resourcesmag.org/archives/policy-options-oil-and-gas-leasing-reform-federal-lands-and-waters/)
+
+* RFF Explainer, April 21, 2021, ["Federal Climate Policy 108: The Oil and Gas Industry"](https://www.rff.org/publications/explainers/federal-climate-policy-108-the-oil-and-gas-industry/)
+
+* RFF Report, with Dallas Burtraw and Karen Palmer, April 13, 2021, ["Waiting for Clarity: How a Price on Carbon Can Inspire Investment"](https://www.rff.org/publications/reports/waiting-for-clarity-how-a-price-on-carbon-can-inspire-investment/)
+
+* _Resources Magazine_, December 21, 2020, ["Policy Options for Oil and Gas Leasing Reform on Federal Lands and Waters"](https://www.resourcesmag.org/archives/policy-options-oil-and-gas-leasing-reform-federal-lands-and-waters/)
 
 * RFF Blog, October 1, 2020, ["Examining the Effects of a Federal Leasing Ban: Drilling into an Industry Study"](https://www.resourcesmag.org/common-resources/examining-effects-federal-leasing-ban-drilling-industry-study/)
 
