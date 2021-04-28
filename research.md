@@ -6,15 +6,9 @@ layout: default
 
 ## Peer-Reviewed Publications
 
-<<<<<<< HEAD
 1. [“The GDP-Temperature Relationship: Implications for Climate Change Damages”](https://www.sciencedirect.com/science/article/abs/pii/S0095069621000280), with Richard Newell and Steven Sexton, _Journal of Environmental Economics and Management_, 108, (July 2021), 102445. Working paper available at [RFF](https://www.rff.org/publications/working-papers/the-gdp-temperature-relationship-implications-for-climate-change-damages/).
 
 1. [“How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”](https://www.sciencedirect.com/science/article/pii/S0140988320303637), with Alan Krupnick, _Energy Economics_, 97, (May 2021), 105023. Working paper available at [RFF](https://www.rff.org/publications/reports/how-clean-is-refined-coal/).
-=======
-1. [“The GDP-Temperature Relationship: Implications for Climate Change Damages”](https://www.rff.org/publications/working-papers/the-gdp-temperature-relationship-implications-for-climate-change-damages/), with Richard Newell & Steven Sexton (Accepted at the _Journal of Environmental Economics and Management_)
-
-1. [“How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”](https://www.sciencedirect.com/science/article/pii/S0140988320303637), with Alan Krupnick, forthcoming at _Energy Economics_. Working version available at [RFF]((https://www.rff.org/publications/reports/how-clean-is-refined-coal/)).
->>>>>>> f1f251c4649e95dfea6785fb018e1774a3f857d2
 
 1. [“Prices versus Quantities with Policy Updating”](https://www.journals.uchicago.edu/doi/abs/10.1086/707142), with Billy Pizer.  _Journal of the Association of Environmental and Resource Economists_, 7, no. 3 (May 2020): 483-518.
 
@@ -30,7 +24,7 @@ layout: default
 
 1. “A Discounting Rule for the Social Cost of Carbon”, with Richard Newell and Billy Pizer, (revisions requested)
 
-<<<<<<< HEAD
+
 1. [“Supply side reforms to oil and gas production on federal lands: Modeling the implications for CO2 emissions, revenues, and production shifts”](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/), (revisions requested)
 
 1. ["Climate Royalty Surcharges"](https://www.nber.org/papers/w28564), with James Stock. Also available at ["RFF"](https://www.rff.org/publications/working-papers/climate-royalty-surcharges/)
@@ -56,22 +50,16 @@ layout: default
 
 ## Other Reports and Articles
 
-<<<<<<< HEAD
-=======
-
->>>>>>> f1f251c4649e95dfea6785fb018e1774a3f857d2
 * RFF Explainer, April 21, 2021, ["Federal Climate Policy 108: The Oil and Gas Industry"](https://www.rff.org/publications/explainers/federal-climate-policy-108-the-oil-and-gas-industry/)
 
 * RFF Report, with Dallas Burtraw and Karen Palmer, April 13, 2021, ["Waiting for Clarity: How a Price on Carbon Can Inspire Investment"](https://www.rff.org/publications/reports/waiting-for-clarity-how-a-price-on-carbon-can-inspire-investment/)
 
-<<<<<<< HEAD
 * RFF Blog, October 1, 2020, ["Examining the Effects of a Federal Leasing Ban: Drilling into an Industry Study
 "](https://www.resourcesmag.org/common-resources/examining-effects-federal-leasing-ban-drilling-industry-study/)
-=======
+
 * _Resources Magazine_, December 21, 2020, ["Policy Options for Oil and Gas Leasing Reform on Federal Lands and Waters"](https://www.resourcesmag.org/archives/policy-options-oil-and-gas-leasing-reform-federal-lands-and-waters/)
 
 * RFF Blog, October 1, 2020, ["Examining the Effects of a Federal Leasing Ban: Drilling into an Industry Study"](https://www.resourcesmag.org/common-resources/examining-effects-federal-leasing-ban-drilling-industry-study/)
->>>>>>> f1f251c4649e95dfea6785fb018e1774a3f857d2
 
 * RFF Blog, September 16, 2020, ["The Economic and Emissions Consequences of Supply-Side Reforms to Oil and Gas Production on Federal Lands"](https://www.resourcesmag.org/common-resources/economic-and-emissions-consequences-supply-side-reforms-oil-and-gas-production-federal-lands)
 
