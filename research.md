@@ -6,30 +6,32 @@ layout: default
 
 ## Peer-Reviewed Publications
 
-1. [“How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”](https://www.sciencedirect.com/science/article/pii/S0140988320303637), with Alan Krupnick, (forthcoming 2020) _Energy Economics_. Preprint [here](https://www.rff.org/publications/reports/how-clean-is-refined-coal/).
+1. [“The GDP-Temperature Relationship: Implications for Climate Change Damages”](https://www.sciencedirect.com/science/article/abs/pii/S0095069621000280), with Richard Newell and Steven Sexton, _Journal of Environmental Economics and Management_, 108, (July 2021), 102445. Working paper available at [RFF](https://www.rff.org/publications/working-papers/the-gdp-temperature-relationship-implications-for-climate-change-damages/).
 
+1. [“How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”](https://www.sciencedirect.com/science/article/pii/S0140988320303637), with Alan Krupnick, _Energy Economics_, 97, (May 2021), 105023. Working paper available at [RFF](https://www.rff.org/publications/reports/how-clean-is-refined-coal/).
 
-1. [“Prices versus Quantities with Policy Updating”](https://www.journals.uchicago.edu/doi/abs/10.1086/707142), with Billy Pizer, (2020).  _Journal of the Association of Environmental and Resource Economists_ 7, no. 3 (May 2020): 483-518.
+1. [“Prices versus Quantities with Policy Updating”](https://www.journals.uchicago.edu/doi/abs/10.1086/707142), with Billy Pizer.  _Journal of the Association of Environmental and Resource Economists_, 7, no. 3 (May 2020): 483-518.
 
-1. [“Peaking Interest: How awareness drives the effectiveness of time-of-use electricity pricing”](https://www.journals.uchicago.edu/doi/abs/10.1086/705798), (2020).  _Journal of the Association of Environmental and Resource Economists_ 7, no. 1 (January 2020): 103-143.
+1. [“Peaking Interest: How awareness drives the effectiveness of time-of-use electricity pricing”](https://www.journals.uchicago.edu/doi/abs/10.1086/705798),  _Journal of the Association of Environmental and Resource Economists_, 7, no. 1 (January 2020): 103-143.
 
-1. [“Trophy Hunting vs. Manufacturing Energy: The Price-Responsiveness of Shale Gas”](https://www.journals.uchicago.edu/doi/full/10.1086/701531), with Richard Newell & Ashley Vissing (2019). _Journal of the Association of Environmental and Resource Economists_ 6, no. 2 (March 2019): 177-217.
+1. [“Trophy Hunting vs. Manufacturing Energy: The Price-Responsiveness of Shale Gas”](https://www.journals.uchicago.edu/doi/full/10.1086/701531), with Richard Newell & Ashley Vissing. _Journal of the Association of Environmental and Resource Economists_, 6, no. 2 (March 2019): 177-217.
  
-1. [“The Unconventional Oil Supply Boom: Aggregate Price Response from Microdata”](https://www.iaee.org/energyjournal/article/3350), with Richard Newell (2019). _The Energy Journal_ 40, no. 3 (May 2019).
+1. [“The Unconventional Oil Supply Boom: Aggregate Price Response from Microdata”](https://www.iaee.org/energyjournal/article/3350), with Richard Newell. _The Energy Journal_, 40, no. 3 (May 2019).
 
-1. [“Explanations for the 2014 Oil Price Decline: Supply or Demand?”](https://www.sciencedirect.com/science/article/pii/S0140988318302020) (2018). _Energy Economics_ 74 (August 2018): 63-75.
+1. [“Explanations for the 2014 Oil Price Decline: Supply or Demand?”](https://www.sciencedirect.com/science/article/pii/S0140988318302020), _Energy Economics_, 74 (August 2018): 63-75.
 
 ## Working Papers and Research in Progress
 
-1. [“The GDP-Temperature Relationship: Implications for Climate Change Damages”](https://www.rff.org/publications/working-papers/the-gdp-temperature-relationship-implications-for-climate-change-damages/), with Richard Newell & Steven Sexton (revisions requested)
-
 1. “A Discounting Rule for the Social Cost of Carbon”, with Richard Newell and Billy Pizer, (revisions requested)
 
-1. [“Supply side reforms to oil and gas production on federal lands: Modeling the implications for climate emissions, revenues, and production shifts”](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/), (under review)
+1. [“Supply side reforms to oil and gas production on federal lands: Modeling the implications for CO2 emissions, revenues, and production shifts”](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/), (revisions requested)
+
+1. ["Climate Royalty Surcharges"](https://www.nber.org/papers/w28564), with James Stock. Also available at ["RFF"](https://www.rff.org/publications/working-papers/climate-royalty-surcharges/)
+
+<!--- 
 
 1. [“Informing SPR Policy Through Oil Futures and Inventory Dynamics”](http://www.nber.org/papers/w23974), with Richard Newell. [Working version](http://bit.ly/Newell_Prest_SPR_Draft).
 
-<!--- 
 1. Counterfactual prediction methods as a substitute for randomized-control trials: Evidence from high-frequency energy data, with Karen Palmer and Casey Wichman, (in progress)
 
 1. Probablistic energy intensity projections for the social cost of carbon, with Cora Kingdon, (in progress)
@@ -43,6 +45,10 @@ layout: default
 -->
 
 ## Other Reports and Articles
+
+* RFF Explainer, April 21, 2021, ["Federal Climate Policy 108: The Oil and Gas Industry"](https://www.rff.org/publications/explainers/federal-climate-policy-108-the-oil-and-gas-industry/)
+
+* RFF Report, with Dallas Burtraw and Karen Palmer, April 13, 2021, ["Waiting for Clarity: How a Price on Carbon Can Inspire Investment"](https://www.rff.org/publications/reports/waiting-for-clarity-how-a-price-on-carbon-can-inspire-investment/)
 
 * RFF Blog, October 1, 2020, ["Examining the Effects of a Federal Leasing Ban: Drilling into an Industry Study
 "](https://www.resourcesmag.org/common-resources/examining-effects-federal-leasing-ban-drilling-industry-study/)
