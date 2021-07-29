@@ -25,7 +25,7 @@ layout: default
 1. “A Discounting Rule for the Social Cost of Carbon”, with Richard Newell and Billy Pizer, (revisions requested)
 
 
-1. [“Supply side reforms to oil and gas production on federal lands: Modeling the implications for CO2 emissions, revenues, and production shifts”](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/), (revisions requested)
+1. [“Supply side reforms to oil and gas production on federal lands: Modeling the implications for CO<sub>2</sub> emissions, revenues, and production shifts”](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/), (revisions requested)
 
 1. ["Climate Royalty Surcharges"](https://www.nber.org/papers/w28564), with James Stock. Also available at [RFF](https://www.rff.org/publications/working-papers/climate-royalty-surcharges/)
 
