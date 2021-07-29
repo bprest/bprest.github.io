@@ -22,24 +22,14 @@ layout: default
 
 ## Working Papers and Research in Progress
 
-1. “A Discounting Rule for the Social Cost of Carbon”, with Richard Newell and Billy Pizer, (revisions requested)
-
+1. [“A Discounting Rule for the Social Cost of Carbon”](https://www.rff.org/publications/working-papers/a-discounting-rule-for-the-social-cost-of-carbon/), with Richard Newell and Billy Pizer, (revisions requested)
 
 1. [“Supply side reforms to oil and gas production on federal lands: Modeling the implications for CO<sub>2</sub> emissions, revenues, and production shifts”](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/), (revisions requested)
 
 1. ["Climate Royalty Surcharges"](https://www.nber.org/papers/w28564), with James Stock. Also available at [RFF](https://www.rff.org/publications/working-papers/climate-royalty-surcharges/)
 
-<!--- 
-
-1. [“Informing SPR Policy Through Oil Futures and Inventory Dynamics”](http://www.nber.org/papers/w23974), with Richard Newell. [Working version](http://bit.ly/Newell_Prest_SPR_Draft).
-
-=======
-1. [“Supply side reforms to oil and gas production on federal lands: Modeling the implications for CO2 emissions, revenues, and production shifts”](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/), (revision requested)
-
-1. [“Climate Royalty Surcharges”](https://www.rff.org/publications/working-papers/climate-royalty-surcharges/), also available at (https://www.nber.org/papers/w28564)[NBER], with James Stock
-
 <!-- 
->>>>>>> f1f251c4649e95dfea6785fb018e1774a3f857d2
+
 1. Counterfactual prediction methods as a substitute for randomized-control trials: Evidence from high-frequency energy data, with Karen Palmer and Casey Wichman, (in progress)
 
 1. Probabilistic energy intensity projections for the social cost of carbon, with Cora Kingdon, (in progress)
