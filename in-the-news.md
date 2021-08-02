@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* E&E News, Heather Richards, August 2, 2021 ["What to expect from Interior's oil report"](https://subscriber.politicopro.com/article/eenews/2021/08/02/what-to-expect-from-interiors-oil-report-275912)
+
 * Wired, Eric Niiler, July 29, 2021, ["How Much Will It Cost to Prevent Deaths by Climate-Driven Heat?"](https://www.wired.com/story/how-much-will-it-cost-to-prevent-deaths-by-climate-driven-heat/)
 
 * Politico, Lorraine Woellert, April 21, 2021, ["What’s the cost of carbon? There's no consensus"](https://www.politico.com/news/2021/04/21/whats-the-cost-of-carbon-theres-no-consensus-483938)
