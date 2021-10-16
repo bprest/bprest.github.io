@@ -22,6 +22,10 @@ layout: default
 
 ## Working Papers and Research in Progress
 
+1. ["RCTs Against the Machine: Can Machine Learning Prediction Methods Recover Experimental Treatment Effects?"](https://www.rff.org/publications/working-papers/rcts-against-the-machine-can-machine-learning-prediction-methods-recover-experimental-treatment-effects/), with Casey Wichman and Karen Palmer, (under review)
+
+1. ["The Social Cost of Carbon: Advances in Long-Term Probabilistic Projections of Population, GDP, Emissions, and Discount Rates"](https://www.brookings.edu/wp-content/uploads/2021/09/Social-Cost-of-Carbon_Conf-Draft.pdf), with K. Rennert, W. Pizer, R. Newell, D. Anthoff, C. Kingdon, L. Rennels, R. Cooke, A. Raftery, H. Sevcikova, and F. Errickson, (revisions requested)
+
 1. [“A Discounting Rule for the Social Cost of Carbon”](https://www.rff.org/publications/working-papers/a-discounting-rule-for-the-social-cost-of-carbon/), with Richard Newell and Billy Pizer, (revisions requested)
 
 1. [“Supply side reforms to oil and gas production on federal lands: Modeling the implications for CO<sub>2</sub> emissions, revenues, and production shifts”](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/), (revisions requested)
@@ -29,10 +33,6 @@ layout: default
 1. ["Climate Royalty Surcharges"](https://www.nber.org/papers/w28564), with James Stock. Also available at [RFF](https://www.rff.org/publications/working-papers/climate-royalty-surcharges/)
 
 <!-- 
-
-1. Counterfactual prediction methods as a substitute for randomized-control trials: Evidence from high-frequency energy data, with Karen Palmer and Casey Wichman, (in progress)
-
-1. Probabilistic energy intensity projections for the social cost of carbon, with Cora Kingdon, (in progress)
 
 1. [“Informing SPR Policy Through Oil Futures and Inventory Dynamics”](http://www.nber.org/papers/w23974), with Richard Newell. [Working version](http://bit.ly/Newell_Prest_SPR_Draft).
 

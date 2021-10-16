@@ -4,6 +4,14 @@ layout: default
 
 # In the News
 
+* Bloomberg, Liam Denning, October 5, 2021, ["Why Biden's Methane Fee Isn't a Gas Tax"](https://www.bloomberg.com/opinion/articles/2021-10-05/why-biden-s-methane-fee-isn-t-a-gas-tax)
+
+* Washington Examiner, Josh Siegel, September 9, 2021, ["Methane fee could cut leaks at low cost...study"](https://www.washingtonexaminer.com/policy/energy/daily-on-energy-oil-and-gas-industry-claims-success-for-voluntary-program-to-cut-methane-emissions)
+
+* E&E News, Jean Chemnick, September 8, 2021, ["Methane rule to eclipse past regulations, including Obama's"](https://subscriber.politicopro.com/article/eenews/2021/09/08/methane-rule-to-eclipse-past-regulations-including-obamas-280301)
+
+* E&E News, Heather Richards, August 17, 2021 ["3 things are clear about Biden's latest move on oil leasing"](https://subscriber.politicopro.com/article/eenews/2021/08/17/3-things-are-clear-about-bidens-latest-move-on-oil-leasing-279688)
+
 * E&E News, Heather Richards, August 2, 2021 ["What to expect from Interior's oil report"](https://subscriber.politicopro.com/article/eenews/2021/08/02/what-to-expect-from-interiors-oil-report-275912)
 
 * Wired, Eric Niiler, July 29, 2021, ["How Much Will It Cost to Prevent Deaths by Climate-Driven Heat?"](https://www.wired.com/story/how-much-will-it-cost-to-prevent-deaths-by-climate-driven-heat/)
