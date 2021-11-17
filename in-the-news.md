@@ -4,6 +4,9 @@ layout: default
 
 # In the News
 
+
+* The Wall Street Journal, Katy Stech Ferek and Siobhan Hughes, November 15, 2021, ["Rising Natural-Gas Prices Pose Hurdle for Methane Tax"](https://www.wsj.com/articles/methane-tax-spending-bill-heating-oil-gas-11636924180)
+
 * Bloomberg, Liam Denning, October 5, 2021, ["Why Biden's Methane Fee Isn't a Gas Tax"](https://www.bloomberg.com/opinion/articles/2021-10-05/why-biden-s-methane-fee-isn-t-a-gas-tax)
 
 * Washington Examiner, Josh Siegel, September 9, 2021, ["Methane fee could cut leaks at low cost...study"](https://www.washingtonexaminer.com/policy/energy/daily-on-energy-oil-and-gas-industry-claims-success-for-voluntary-program-to-cut-methane-emissions)
