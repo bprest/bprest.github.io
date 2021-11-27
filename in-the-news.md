@@ -4,12 +4,13 @@ layout: default
 
 # In the News
 
+* The Washington Post, Sarah Kaplan, November 27, 2021, ["Oil and gas companies should pay more to drill on public lands and waters, Interior Department says"](https://www.washingtonpost.com/climate-environment/2021/11/26/biden-oil-gas-drill-public-lands/)
 
 * The Wall Street Journal, Katy Stech Ferek and Siobhan Hughes, November 15, 2021, ["Rising Natural-Gas Prices Pose Hurdle for Methane Tax"](https://www.wsj.com/articles/methane-tax-spending-bill-heating-oil-gas-11636924180)
 
 * Bloomberg, Liam Denning, October 5, 2021, ["Why Biden's Methane Fee Isn't a Gas Tax"](https://www.bloomberg.com/opinion/articles/2021-10-05/why-biden-s-methane-fee-isn-t-a-gas-tax)
 
-* Washington Examiner, Josh Siegel, September 9, 2021, ["Methane fee could cut leaks at low cost...study"](https://www.washingtonexaminer.com/policy/energy/daily-on-energy-oil-and-gas-industry-claims-success-for-voluntary-program-to-cut-methane-emissions)
+* The Washington Examiner, Josh Siegel, September 9, 2021, ["Methane fee could cut leaks at low cost...study"](https://www.washingtonexaminer.com/policy/energy/daily-on-energy-oil-and-gas-industry-claims-success-for-voluntary-program-to-cut-methane-emissions)
 
 * E&E News, Jean Chemnick, September 8, 2021, ["Methane rule to eclipse past regulations, including Obama's"](https://subscriber.politicopro.com/article/eenews/2021/09/08/methane-rule-to-eclipse-past-regulations-including-obamas-280301)
 
