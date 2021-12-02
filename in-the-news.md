@@ -4,8 +4,14 @@ layout: default
 
 # In the News
 
+* E&E News, Benjamin Storrow, December 2, 2021, ["Biden backtracked on drilling ban. What it means for CO2"](https://www.eenews.net/articles/biden-backtracked-on-drilling-ban-what-it-means-for-co2/)
+
+* S&P Global Market Intelligence (SNL), Meghan Gordon and Brandon Evans, November 29, 2021, ["US Interior leasing reforms to have minor production impact despite higher costs"](https://www.spglobal.com/platts/en/market-insights/latest-news/natural-gas/112921-us-interior-leasing-reforms-to-have-minor-production-impact-despite-higher-costs/)
+
 * The Washington Post, Sarah Kaplan, November 27, 2021, ["Oil and gas companies should pay more to drill on public lands and waters, Interior Department says"](https://www.washingtonpost.com/climate-environment/2021/11/26/biden-oil-gas-drill-public-lands/)
 
+* Quartz, Nate DiCamillo, November 25, 2021 ["Will an extra 50 million barrels of crude lower US gasoline prices?"](https://qz.com/2094121/bidens-plan-to-lower-gasoline-prices-wont-work/)
+ 
 * The Wall Street Journal, Katy Stech Ferek and Siobhan Hughes, November 15, 2021, ["Rising Natural-Gas Prices Pose Hurdle for Methane Tax"](https://www.wsj.com/articles/methane-tax-spending-bill-heating-oil-gas-11636924180)
 
 * Bloomberg, Liam Denning, October 5, 2021, ["Why Biden's Methane Fee Isn't a Gas Tax"](https://www.bloomberg.com/opinion/articles/2021-10-05/why-biden-s-methane-fee-isn-t-a-gas-tax)

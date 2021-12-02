@@ -40,6 +40,10 @@ layout: default
 
 ## Other Reports and Articles
 
+* RFF Issue Brief, September 9, 2021, ["Methane Fees' Effects on Natural Gas Prices and Methane Leakage"](https://www.rff.org/publications/issue-briefs/methane-fees-effects-on-natural-gas-prices-and-methane-leakage/)
+ 
+* RFF Report, with Richard Newell, Daniel Raimi, and Seth Villanueva, June 8, 2021, ["The Global Energy Outlook 2021: Pathways from Paris"](https://www.rff.org/publications/reports/global-energy-outlook-2021-pathways-from-paris/)
+
 * RFF Explainer, April 21, 2021, ["Federal Climate Policy 108: The Oil and Gas Industry"](https://www.rff.org/publications/explainers/federal-climate-policy-108-the-oil-and-gas-industry/)
 
 * RFF Report, with Dallas Burtraw and Karen Palmer, April 13, 2021, ["Waiting for Clarity: How a Price on Carbon Can Inspire Investment"](https://www.rff.org/publications/reports/waiting-for-clarity-how-a-price-on-carbon-can-inspire-investment/)
