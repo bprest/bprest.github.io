@@ -4,6 +4,10 @@ layout: default
 
 # In the News
 
+* Quartz, Nate DiCamillo, February 25, 2022,  ["How Russia’s Ukraine invasion will affect US gas prices"](https://qz.com/2133040/how-russias-ukraine-invasion-will-affect-us-gas-prices/)
+
+* E&E News, Jean Chemnick, February 10, 2022, ["Here comes the social cost of carbon. Will it address EJ?"](https://subscriber.politicopro.com/article/eenews/2022/02/10/here-comes-the-social-cost-of-carbon-will-it-address-ej-00007538)
+
 * E&E News, Benjamin Storrow, December 2, 2021, ["Biden backtracked on drilling ban. What it means for CO2"](https://www.eenews.net/articles/biden-backtracked-on-drilling-ban-what-it-means-for-co2/)
 
 * S&P Global Market Intelligence (SNL), Meghan Gordon and Brandon Evans, November 29, 2021, ["US Interior leasing reforms to have minor production impact despite higher costs"](https://www.spglobal.com/platts/en/market-insights/latest-news/natural-gas/112921-us-interior-leasing-reforms-to-have-minor-production-impact-despite-higher-costs/)

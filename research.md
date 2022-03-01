@@ -28,9 +28,9 @@ layout: default
 
 ## Working Papers and Research in Progress
 
-1. ["RCTs Against the Machine: Can Machine Learning Prediction Methods Recover Experimental Treatment Effects?"](https://www.rff.org/publications/working-papers/rcts-against-the-machine-can-machine-learning-prediction-methods-recover-experimental-treatment-effects/), with Casey Wichman and Karen Palmer, (under review)
+1. ["RCTs Against the Machine: Can Machine Learning Prediction Methods Recover Experimental Treatment Effects?"](https://www.rff.org/publications/working-papers/rcts-against-the-machine-can-machine-learning-prediction-methods-recover-experimental-treatment-effects/), with Casey Wichman and Karen Palmer. _Revisions requested_
 
-1. ["Climate Royalty Surcharges"](https://www.nber.org/papers/w28564), with James Stock. Also available at [RFF](https://www.rff.org/publications/working-papers/climate-royalty-surcharges/)
+1. ["Climate Royalty Surcharges"](https://www.nber.org/papers/w28564), with James Stock. Also available at [RFF](https://www.rff.org/publications/working-papers/climate-royalty-surcharges/). _Under review_
 
 <!-- 
 
