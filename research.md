@@ -40,6 +40,8 @@ layout: default
 
 ## Other Reports and Articles
 
+* RFF Report, with Daniel Raimi, Erin Campbell, Richard Newell, Seth Villanueva, and Jordan Wingenroth, April 7, 2022, ["Global Energy Outlook 2022: Turning Points and Tension in the Energy Transition"](https://www.rff.org/publications/reports/global-energy-outlook-2022/)
+
 * RFF Issue Brief, September 9, 2021, ["Methane Fees' Effects on Natural Gas Prices and Methane Leakage"](https://www.rff.org/publications/issue-briefs/methane-fees-effects-on-natural-gas-prices-and-methane-leakage/)
  
 * RFF Report, with Richard Newell, Daniel Raimi, and Seth Villanueva, June 8, 2021, ["The Global Energy Outlook 2021: Pathways from Paris"](https://www.rff.org/publications/reports/global-energy-outlook-2021-pathways-from-paris/)
