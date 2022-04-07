@@ -69,7 +69,7 @@ layout: default
 
 * RFF Blog, with Karen L. Palmer, June 7, 2018, ["A Strategic Electricity Generating Reserve: Not Enticing Enough to Add to the Menu"](http://www.rff.org/blog/2018/strategic-electricity-generating-reserve-not-enticing-enough-add-menu)
 
-* Contributing author, ["Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES)GLobal Assessment Report on Biodiversity and Ecosystem Services"](https://ipbes.net/global-assessment). 2019.
+* Contributing author, ["Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) Global Assessment Report on Biodiversity and Ecosystem Services"](https://ipbes.net/global-assessment). 2019.
 
 * Congressional Budget Office report, with Terry Dinan, 2011, ["The Effects of Renewable or Clean Electricity Standards"](http://www.cbo.gov/sites/default/files/cbofiles/ftpdocs/121xx/doc12166/07-26-energy.pdf)
 
