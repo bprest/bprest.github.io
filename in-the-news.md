@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* Quartz, Nate DiCamillo, April 1, 2022,  ["Where does the US stash its strategic oil reserves?"](https://qz.com/2149146/where-does-the-us-stash-its-strategic-oil-reserves/)
+
 * Quartz, Nate DiCamillo, February 25, 2022,  ["How Russia’s Ukraine invasion will affect US gas prices"](https://qz.com/2133040/how-russias-ukraine-invasion-will-affect-us-gas-prices/)
 
 * E&E News, Jean Chemnick, February 10, 2022, ["Here comes the social cost of carbon. Will it address EJ?"](https://subscriber.politicopro.com/article/eenews/2022/02/10/here-comes-the-social-cost-of-carbon-will-it-address-ej-00007538)
