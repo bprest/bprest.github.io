@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* Associated Press, Matthew Brown, April 22, 2022,  ["EXPLAINER: Can climate change be solved by pricing carbon?"](https://apnews.com/article/climate-biden-business-billings-environment-0835d2e4f113ad1c2c26747c69d9e6bf)
+ 
 * CarbonBrief, Josh Gabbatiss, April 21, 2022,  ["'One quarter' of US emissions since 2005 come from fossil fuels on public lands"](https://www.carbonbrief.org/one-quarter-of-us-emissions-since-2005-come-from-fossil-fuels-on-public-lands)
  
 * Quartz, Nate DiCamillo, April 1, 2022,  ["Where does the US stash its strategic oil reserves?"](https://qz.com/2149146/where-does-the-us-stash-its-strategic-oil-reserves/)
