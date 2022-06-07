@@ -6,11 +6,11 @@ layout: default
 
 ## Peer-Reviewed Publications
 
-1. [“Supply side reforms to oil and gas production on federal lands: Modeling the implications for CO<sub>2</sub> emissions, revenues, and production shifts”](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/), Accepted at the _Journal of the Association of Environmental and Resource Economists_.
-
 1. [“A Discounting Rule for the Social Cost of Carbon”](https://www.rff.org/publications/working-papers/a-discounting-rule-for-the-social-cost-of-carbon/), with Richard Newell and Billy Pizer, Accepted at the _Journal of the Association of Environmental and Resource Economists_.
 
-1. ["The Social Cost of Carbon: Advances in Long-Term Probabilistic Projections of Population, GDP, Emissions, and Discount Rates"](https://www.brookings.edu/wp-content/uploads/2021/09/Social-Cost-of-Carbon_Conf-Draft.pdf), with K. Rennert, W. Pizer, R. Newell, D. Anthoff, C. Kingdon, L. Rennels, R. Cooke, A. Raftery, H. Sevcikova, and F. Errickson, Forthcoming, _Brookings Papers on Economic Activity_. Preprint available at [RFF](https://www.rff.org/publications/working-papers/the-social-cost-of-carbon-advances-in-long-term-probabilistic-projections-of-population-gdp-emissions-and-discount-rates/).
+1. [“Supply side Reforms to Oil and Gas Production on Federal Lands: Modeling the Implications for CO<sub>2</sub> Emissions, Revenues, and Leakage”](https://www.journals.uchicago.edu/doi/10.1086/718963), _Journal of the Association of Environmental and Resource Economists_, 9, no. 4 (July 2022): 681-720. Preprint available at [RFF](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/).
+
+1. [“The Social Cost of Carbon: Advances in Long-Term Probabilistic Projections of Population, GDP, Emissions, and Discount Rates“](https://www.brookings.edu/bpea-articles/the-social-cost-of-carbon/), with K. Rennert, W. Pizer, R. Newell, D. Anthoff, C. Kingdon, L. Rennels, R. Cooke, A. Raftery, H. Sevcikova, and F. Errickson, _Brookings Papers on Economic Activity_, (2021). Preprint available at [RFF](https://www.rff.org/publications/working-papers/the-social-cost-of-carbon-advances-in-long-term-probabilistic-projections-of-population-gdp-emissions-and-discount-rates/).
 
 1. [“The GDP-Temperature Relationship: Implications for Climate Change Damages”](https://www.sciencedirect.com/science/article/abs/pii/S0095069621000280), with Richard Newell and Steven Sexton, _Journal of Environmental Economics and Management_, 108, (July 2021), 102445. Working paper available at [RFF](https://www.rff.org/publications/working-papers/the-gdp-temperature-relationship-implications-for-climate-change-damages/).
 
