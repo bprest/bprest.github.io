@@ -6,9 +6,9 @@ layout: default
 
 ## Peer-Reviewed Publications
 
-1. [“A Discounting Rule for the Social Cost of Carbon”](https://www.rff.org/publications/working-papers/a-discounting-rule-for-the-social-cost-of-carbon/), with Richard Newell and Billy Pizer, Accepted at the _Journal of the Association of Environmental and Resource Economists_.
+1. [“A Discounting Rule for the Social Cost of Carbon”](https://www.journals.uchicago.edu/doi/10.1086/718145), with Richard Newell and Billy Pizer, _Journal of the Association of Environmental and Resource Economists_, 9 , no. 5 (September 2022): 1017-1046. Preprint available at [RFF](https://www.rff.org/publications/working-papers/a-discounting-rule-for-the-social-cost-of-carbon/)
 
-1. [“Supply side Reforms to Oil and Gas Production on Federal Lands: Modeling the Implications for CO<sub>2</sub> Emissions, Revenues, and Leakage”](https://www.journals.uchicago.edu/doi/10.1086/718963), _Journal of the Association of Environmental and Resource Economists_, 9, no. 4 (July 2022): 681-720. Preprint available at [RFF](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/).
+1. [“Supply-side Reforms to Oil and Gas Production on Federal Lands: Modeling the Implications for CO<sub>2</sub> Emissions, Revenues, and Leakage”](https://www.journals.uchicago.edu/doi/10.1086/718963), _Journal of the Association of Environmental and Resource Economists_, 9, no. 4 (July 2022): 681-720. Preprint available at [RFF](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/).
 
 1. [“The Social Cost of Carbon: Advances in Long-Term Probabilistic Projections of Population, GDP, Emissions, and Discount Rates“](https://www.brookings.edu/bpea-articles/the-social-cost-of-carbon/), with K. Rennert, W. Pizer, R. Newell, D. Anthoff, C. Kingdon, L. Rennels, R. Cooke, A. Raftery, H. Sevcikova, and F. Errickson, _Brookings Papers on Economic Activity_, (2021). Preprint available at [RFF](https://www.rff.org/publications/working-papers/the-social-cost-of-carbon-advances-in-long-term-probabilistic-projections-of-population-gdp-emissions-and-discount-rates/).
 
