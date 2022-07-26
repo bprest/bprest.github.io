@@ -4,6 +4,10 @@ layout: default
 
 # In the News
 
+* U.S. Department of the Treasury, Benjamin Harris and Catherine Wolfram, July 26, 2022, ["The Price Impact of the Strategic Petroleum Reserve Release"](https://home.treasury.gov/news/press-releases/jy0887)
+
+* Washington Post Editorial Board, July 13, 2022,  ["Opinion: Biden’s offshore drilling plan won’t make or break his climate agenda"](https://www.washingtonpost.com/opinions/2022/07/13/biden-offshore-drilling-climate-change/)
+
 * E&E News, Jean Chemnick, May 26, 2022, ["How pausing the social cost of carbon affected regulation"](https://subscriber.politicopro.com/article/eenews/2022/05/26/how-pausing-the-social-cost-of-carbon-affected-regulation-00034241)
 
 * Associated Press, Matthew Brown, April 22, 2022,  ["EXPLAINER: Can climate change be solved by pricing carbon?"](https://apnews.com/article/climate-biden-business-billings-environment-0835d2e4f113ad1c2c26747c69d9e6bf)
