@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* Climate Home News, Joseph Lo, July 29, 2022, ["US set to fine oil and gas companies for methane leaks"](https://climatechangenews.com/2022/07/29/us-set-to-fine-oil-and-gas-companies-for-methane-leaks/)
+
 * U.S. Department of the Treasury, Benjamin Harris and Catherine Wolfram, July 26, 2022, ["The Price Impact of the Strategic Petroleum Reserve Release"](https://home.treasury.gov/news/press-releases/jy0887)
 
 * Washington Post Editorial Board, July 13, 2022,  ["Opinion: Biden’s offshore drilling plan won’t make or break his climate agenda"](https://www.washingtonpost.com/opinions/2022/07/13/biden-offshore-drilling-climate-change/)
