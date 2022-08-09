@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* Heather Richards, August 9, 2022, ["Climate bill backs oil leasing: How much of a CO2 problem?"](https://subscriber.politicopro.com/article/eenews/2022/08/09/climate-bill-backs-oil-leasing-how-much-of-a-co2-problem-00050335)
+
 * Climate Home News, Joseph Lo, July 29, 2022, ["US set to fine oil and gas companies for methane leaks"](https://climatechangenews.com/2022/07/29/us-set-to-fine-oil-and-gas-companies-for-methane-leaks/)
 
 * U.S. Department of the Treasury, Benjamin Harris and Catherine Wolfram, July 26, 2022, ["The Price Impact of the Strategic Petroleum Reserve Release"](https://home.treasury.gov/news/press-releases/jy0887)
