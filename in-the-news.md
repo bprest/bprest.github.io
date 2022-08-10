@@ -4,7 +4,9 @@ layout: default
 
 # In the News
 
-* Heather Richards, August 9, 2022, ["Climate bill backs oil leasing: How much of a CO2 problem?"](https://subscriber.politicopro.com/article/eenews/2022/08/09/climate-bill-backs-oil-leasing-how-much-of-a-co2-problem-00050335)
+* E&E News, Heather Richards, August 9, 2022, ["Climate bill backs oil leasing: How much of a CO2 problem?"](https://subscriber.politicopro.com/article/eenews/2022/08/09/climate-bill-backs-oil-leasing-how-much-of-a-co2-problem-00050335)
+
+* EnergyIntel, Emily Meredith, August 5, 2022, ["US Set to Enact Narrow GHG Fee"](https://www.energyintel.com/00000182-6f9d-dd33-a5ba-efdfb9990000)
 
 * Climate Home News, Joseph Lo, July 29, 2022, ["US set to fine oil and gas companies for methane leaks"](https://climatechangenews.com/2022/07/29/us-set-to-fine-oil-and-gas-companies-for-methane-leaks/)
 
