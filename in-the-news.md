@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* Associated Press, Matthew Brown and Michael Phillis, August 18, 2022, ["Climate bill’s unlikely beneficiary: US oil and gas industry"](https://apnews.com/article/biden-technology-science-oil-and-gas-industry-climate-environment-28df40ad9ebb33f4447815b6593673b3)
+
 * Marketplace, American Public Media, Andy Uhler and Kai Ryssdal, August 15, 2022,  ["Apartments are going up, but rent isn't going down yet"](https://www.marketplace.org/shows/marketplace/apartments-are-going-up-but-rent-isnt-going-down-yet)
 
 * E&E News, Heather Richards, August 9, 2022, ["Climate bill backs oil leasing: How much of a CO2 problem?"](https://subscriber.politicopro.com/article/eenews/2022/08/09/climate-bill-backs-oil-leasing-how-much-of-a-co2-problem-00050335)
