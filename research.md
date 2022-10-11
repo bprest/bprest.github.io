@@ -6,7 +6,7 @@ layout: default
 
 ## Peer-Reviewed Publications
 
-1. [“Comprehensive Evidence Implies a Higher Social Cost of CO$_2$”](https://www.nature.com/articles/s41586-022-05224-9), Kevin Rennert, Frank Errickson, Brian C. Prest, Lisa Rennels, Richard G. Newell, William Pizer, Cora Kingdon, Jordan Wingenroth, Roger Cooke, Bryan Parthum, David Smith, Kevin Cromar, Delavane Diaz, Frances C. Moore, Ulrich K. Müller, Richard J. Plevin, Adrian E. Raftery, Hana Ševčíková, Hannah Sheets, James H. Stock, Tammy Tan, Mark Watson, Tony E. Wong, David Anthoff. , _Nature_, (2022)
+1. [“Comprehensive Evidence Implies a Higher Social Cost of CO<sub>2</sub>”](https://www.nature.com/articles/s41586-022-05224-9), Kevin Rennert, Frank Errickson, Brian C. Prest, Lisa Rennels, Richard G. Newell, William Pizer, Cora Kingdon, Jordan Wingenroth, Roger Cooke, Bryan Parthum, David Smith, Kevin Cromar, Delavane Diaz, Frances C. Moore, Ulrich K. Müller, Richard J. Plevin, Adrian E. Raftery, Hana Ševčíková, Hannah Sheets, James H. Stock, Tammy Tan, Mark Watson, Tony E. Wong, David Anthoff, _Nature_, (2022)
 
 1. [“A Discounting Rule for the Social Cost of Carbon”](https://www.journals.uchicago.edu/doi/10.1086/718145), with Richard Newell and Billy Pizer, _Journal of the Association of Environmental and Resource Economists_, 9 , no. 5 (September 2022): 1017-1046. Preprint available at [RFF](https://www.rff.org/publications/working-papers/a-discounting-rule-for-the-social-cost-of-carbon/)
 
