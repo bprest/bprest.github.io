@@ -4,6 +4,10 @@ layout: default
 
 # In the News
 
+* E&E News, Adam Aton, October 20, 2022, ["Biden's use of oil reserves overshadows past presidents"](https://subscriber.politicopro.com/article/eenews/2022/10/20/bidens-use-of-oil-reserves-overshadows-past-presidents-00062629)
+
+* Reuters, Gloria Dickie and Simon Jessop, September 1, 2022, ["U.S. is seriously underestimating the consequences of CO2 - study"](https://www.reuters.com/business/environment/us-is-seriously-underestimating-consequences-co2-study-2022-09-01/)
+
 * Associated Press, Matthew Brown and Michael Phillis, August 18, 2022, ["Climate bill’s unlikely beneficiary: US oil and gas industry"](https://apnews.com/article/biden-technology-science-oil-and-gas-industry-climate-environment-28df40ad9ebb33f4447815b6593673b3)
 
 * Marketplace, American Public Media, Andy Uhler and Kai Ryssdal, August 15, 2022,  ["Apartments are going up, but rent isn't going down yet"](https://www.marketplace.org/shows/marketplace/apartments-are-going-up-but-rent-isnt-going-down-yet)
