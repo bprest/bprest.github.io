@@ -6,6 +6,8 @@ layout: default
 
 ## Peer-Reviewed Publications
 
+1. [“Comprehensive Evidence Implies a Higher Social Cost of CO<sub>2</sub>”](https://www.nature.com/articles/s41586-022-05224-9), Kevin Rennert, Frank Errickson, Brian C. Prest, Lisa Rennels, Richard G. Newell, William Pizer, Cora Kingdon, Jordan Wingenroth, Roger Cooke, Bryan Parthum, David Smith, Kevin Cromar, Delavane Diaz, Frances C. Moore, Ulrich K. Müller, Richard J. Plevin, Adrian E. Raftery, Hana Ševčíková, Hannah Sheets, James H. Stock, Tammy Tan, Mark Watson, Tony E. Wong, David Anthoff, _Nature_, (2022)
+
 1. [“A Discounting Rule for the Social Cost of Carbon”](https://www.journals.uchicago.edu/doi/10.1086/718145), with Richard Newell and Billy Pizer, _Journal of the Association of Environmental and Resource Economists_, 9 , no. 5 (September 2022): 1017-1046. Preprint available at [RFF](https://www.rff.org/publications/working-papers/a-discounting-rule-for-the-social-cost-of-carbon/)
 
 1. [“Supply-side Reforms to Oil and Gas Production on Federal Lands: Modeling the Implications for CO<sub>2</sub> Emissions, Revenues, and Leakage”](https://www.journals.uchicago.edu/doi/10.1086/718963), _Journal of the Association of Environmental and Resource Economists_, 9, no. 4 (July 2022): 681-720. Preprint available at [RFF](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/).
@@ -26,7 +28,7 @@ layout: default
 
 1. [“Explanations for the 2014 Oil Price Decline: Supply or Demand?”](https://www.sciencedirect.com/science/article/pii/S0140988318302020), _Energy Economics_, 74 (August 2018): 63-75.
 
-## Working Papers and Research in Progress
+## Working Papers
 
 1. ["RCTs Against the Machine: Can Machine Learning Prediction Methods Recover Experimental Treatment Effects?"](https://www.rff.org/publications/working-papers/rcts-against-the-machine-can-machine-learning-prediction-methods-recover-experimental-treatment-effects/), with Casey Wichman and Karen Palmer. _Revisions requested_
 
@@ -39,6 +41,12 @@ layout: default
 -->
 
 ## Other Reports and Articles
+
+* Barron's, Commentary, by Maureen Cropper, Richard Newell, Brian Prest, and Kevin Rennert. September 8, 2022, ["The Damage from Carbon Is More Costly Than We Thought"](https://www.barrons.com/articles/carbon-emissions-climate-change-economic-cost-51662649886)
+
+* RFF Report, with Karen Palmer, Brian Prest, Seth Villanueva, and Stuart Iler. August 11, 2022, ["Options for EIA to Publish CO<sub>2</sub> Emissions Rates for Electricity"](https://www.rff.org/publications/reports/options-for-eia-to-publish-co2-emissions-rates-for-electricity/)
+
+* RFF Report, April 21, 2022, ["Partners, Not Rivals: The Power of Parallel Supply-Side and Demand-Side Climate Policy"](https://www.rff.org/publications/reports/partners-not-rivals-the-power-of-parallel-supply-side-and-demand-side-climate-policy/)
 
 * RFF Report, with Daniel Raimi, Erin Campbell, Richard Newell, Seth Villanueva, and Jordan Wingenroth, April 7, 2022, ["Global Energy Outlook 2022: Turning Points and Tension in the Energy Transition"](https://www.rff.org/publications/reports/global-energy-outlook-2022/)
 
