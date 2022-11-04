@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* Time Magazine, Steven Yoder, October 20, 2022,  ["It's Crucial for the U.S. to Figure Out How Much Carbon Emissions Are Costing All of Us"](https://time.com/6213441/carbon-emissions-cost/)
+
 * E&E News, Adam Aton, October 20, 2022, ["Biden's use of oil reserves overshadows past presidents"](https://subscriber.politicopro.com/article/eenews/2022/10/20/bidens-use-of-oil-reserves-overshadows-past-presidents-00062629)
 
 * Reuters, Gloria Dickie and Simon Jessop, September 1, 2022, ["U.S. is seriously underestimating the consequences of CO2 - study"](https://www.reuters.com/business/environment/us-is-seriously-underestimating-consequences-co2-study-2022-09-01/)
