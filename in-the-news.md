@@ -4,7 +4,9 @@ layout: default
 
 # In the News
 
-* Time Magazine, Steven Yoder, October 20, 2022,  ["It's Crucial for the U.S. to Figure Out How Much Carbon Emissions Are Costing All of Us"](https://time.com/6213441/carbon-emissions-cost/)
+* Bloomberg Law, Dean Scott, Jennifer Hijazi, and Stephen Lee, November 10, 2022, ["Biden Climate Rules Move Ahead Amid Wait for Final Carbon Metric"](https://news.bloomberglaw.com/environment-and-energy/biden-climate-rules-move-ahead-amid-wait-for-final-carbon-metric)
+
+* Time Magazine, Steven Yoder, October 20, 2022, ["It's Crucial for the U.S. to Figure Out How Much Carbon Emissions Are Costing All of Us"](https://time.com/6213441/carbon-emissions-cost/)
 
 * E&E News, Adam Aton, October 20, 2022, ["Biden's use of oil reserves overshadows past presidents"](https://subscriber.politicopro.com/article/eenews/2022/10/20/bidens-use-of-oil-reserves-overshadows-past-presidents-00062629)
 
