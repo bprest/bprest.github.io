@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* E&E News, Niina H. Farah and Lesley Clark, November 21, 2022, ["EPA floats sharply increased social cost of carbon"](https://subscriber.politicopro.com/article/eenews/2022/11/21/epa-floats-sharply-increased-social-cost-of-carbon-00066813)
+
 * Bloomberg Law, Dean Scott, Jennifer Hijazi, and Stephen Lee, November 10, 2022, ["Biden Climate Rules Move Ahead Amid Wait for Final Carbon Metric"](https://news.bloomberglaw.com/environment-and-energy/biden-climate-rules-move-ahead-amid-wait-for-final-carbon-metric)
 
 * Time Magazine, Steven Yoder, October 20, 2022, ["It's Crucial for the U.S. to Figure Out How Much Carbon Emissions Are Costing All of Us"](https://time.com/6213441/carbon-emissions-cost/)

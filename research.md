@@ -28,7 +28,9 @@ layout: default
 
 1. [“Explanations for the 2014 Oil Price Decline: Supply or Demand?”](https://www.sciencedirect.com/science/article/pii/S0140988318302020), _Energy Economics_, 74 (August 2018): 63-75.
 
-## Working Papers
+## Work in Progress
+
+1. ["The Shadow Price of Capital: Accounting for Capital Displacement in Benefit–Cost Analysis"](https://www.rff.org/publications/issue-briefs/the-shadow-price-of-capital-accounting-for-capital-displacement-in-benefitcost-analysis/), with Richard Newell and Billy Pizer.
 
 1. ["RCTs Against the Machine: Can Machine Learning Prediction Methods Recover Experimental Treatment Effects?"](https://www.rff.org/publications/working-papers/rcts-against-the-machine-can-machine-learning-prediction-methods-recover-experimental-treatment-effects/), with Casey Wichman and Karen Palmer. _Revisions requested_
 
