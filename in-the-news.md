@@ -4,6 +4,11 @@ layout: default
 
 # In the News
 
+
+* The Economist, February 9, 2023, ["Joe Biden is not quitting fossil fuels"](https://www.economist.com/united-states/2023/02/09/joe-biden-is-not-quitting-fossil-fuels)
+
+* The Washington Post, Maxine Joselow, February 9, 2023, ["The GOP's failed Obamacare repeal effort holds lessons for the climate law"](https://www.washingtonpost.com/politics/2023/02/09/gop-failed-obamacare-repeal-effort-holds-lessons-climate-law/)
+
 * E&E News, Niina H. Farah and Lesley Clark, November 21, 2022, ["EPA floats sharply increased social cost of carbon"](https://subscriber.politicopro.com/article/eenews/2022/11/21/epa-floats-sharply-increased-social-cost-of-carbon-00066813)
 
 * Bloomberg Law, Dean Scott, Jennifer Hijazi, and Stephen Lee, November 10, 2022, ["Biden Climate Rules Move Ahead Amid Wait for Final Carbon Metric"](https://news.bloomberglaw.com/environment-and-energy/biden-climate-rules-move-ahead-amid-wait-for-final-carbon-metric)
