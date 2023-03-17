@@ -7,11 +7,11 @@ layout: default
 ## Peer-Reviewed Publications
 
 
-1. ["RCTs Against the Machine: Can Machine Learning Prediction Methods Recover Experimental Treatment Effects?"](https://www.rff.org/publications/working-papers/rcts-against-the-machine-can-machine-learning-prediction-methods-recover-experimental-treatment-effects/), with Casey Wichman and Karen Palmer. _Conditionally accepted at_ the Journal of the Association of Environmental and Resource Economists.
+1. ["RCTs Against the Machine: Can Machine Learning Prediction Methods Recover Experimental Treatment Effects?"](https://www.journals.uchicago.edu/doi/10.1086/724518), with Casey Wichman and Karen Palmer. _Forthcoming at_ the Journal of the Association of Environmental and Resource Economists. Preprint available at [RFF](https://www.rff.org/publications/working-papers/rcts-against-the-machine-can-machine-learning-prediction-methods-recover-experimental-treatment-effects/).
 
 1. [“Comprehensive Evidence Implies a Higher Social Cost of CO<sub>2</sub>”](https://www.nature.com/articles/s41586-022-05224-9), Kevin Rennert, Frank Errickson, Brian C. Prest, Lisa Rennels, Richard G. Newell, William Pizer, Cora Kingdon, Jordan Wingenroth, Roger Cooke, Bryan Parthum, David Smith, Kevin Cromar, Delavane Diaz, Frances C. Moore, Ulrich K. Müller, Richard J. Plevin, Adrian E. Raftery, Hana Ševčíková, Hannah Sheets, James H. Stock, Tammy Tan, Mark Watson, Tony E. Wong, David Anthoff, _Nature_, (2022)
 
-1. [“A Discounting Rule for the Social Cost of Carbon”](https://www.journals.uchicago.edu/doi/10.1086/718145), with Richard Newell and Billy Pizer, _Journal of the Association of Environmental and Resource Economists_, 9 , no. 5 (September 2022): 1017-1046. Preprint available at [RFF](https://www.rff.org/publications/working-papers/a-discounting-rule-for-the-social-cost-of-carbon/)
+1. [“A Discounting Rule for the Social Cost of Carbon”](https://www.journals.uchicago.edu/doi/10.1086/718145), with Richard Newell and Billy Pizer, _Journal of the Association of Environmental and Resource Economists_, 9 , no. 5 (September 2022): 1017-1046. Preprint available at [RFF](https://www.rff.org/publications/working-papers/a-discounting-rule-for-the-social-cost-of-carbon/).
 
 1. [“Supply-side Reforms to Oil and Gas Production on Federal Lands: Modeling the Implications for CO<sub>2</sub> Emissions, Revenues, and Leakage”](https://www.journals.uchicago.edu/doi/10.1086/718963), _Journal of the Association of Environmental and Resource Economists_, 9, no. 4 (July 2022): 681-720. Preprint available at [RFF](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/).
 

@@ -4,6 +4,7 @@ layout: default
 
 # In the News
 
+* The Washington Post, Shannon Osaka, March 16, 2023, ["The real debate over the Willow oil project, explained"](https://www.washingtonpost.com/climate-environment/2023/03/16/willow-project-climate-biden/)
 
 * The Economist, February 9, 2023, ["Joe Biden is not quitting fossil fuels"](https://www.economist.com/united-states/2023/02/09/joe-biden-is-not-quitting-fossil-fuels)
 
