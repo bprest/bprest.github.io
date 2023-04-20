@@ -45,6 +45,8 @@ layout: default
 
 ## Other Reports and Articles
 
+* RFF Issue Brief, Jordan Wingenroth, Brian Prest, and Kevin Rennert. March 2023, ["Will Nations Meet the Paris Agreement’s Emissions and Temperature Goals?"](https://www.rff.org/publications/issue-briefs/will-nations-meet-the-paris-agreements-emissions-and-temperature-goals/)
+
 * Barron's, Commentary, by Maureen Cropper, Richard Newell, Brian Prest, and Kevin Rennert. September 8, 2022, ["The Damage from Carbon Is More Costly Than We Thought"](https://www.barrons.com/articles/carbon-emissions-climate-change-economic-cost-51662649886)
 
 * RFF Report, with Karen Palmer, Brian Prest, Seth Villanueva, and Stuart Iler. August 11, 2022, ["Options for EIA to Publish CO<sub>2</sub> Emissions Rates for Electricity"](https://www.rff.org/publications/reports/options-for-eia-to-publish-co2-emissions-rates-for-electricity/)
