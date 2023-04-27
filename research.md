@@ -33,6 +33,8 @@ layout: default
 
 ## Work in Progress
 
+1. ["Estimating the Emissions Reductions from Supply-side Fossil Fuel Interventions"](https://www.rff.org/publications/working-papers/estimating-the-emissions-reductions-from-supply-side-fossil-fuel-interventions/), with Harrison Fell, Deborah Gordon, and TJ Conway
+
 1. ["The Shadow Price of Capital: Accounting for Capital Displacement in Benefit–Cost Analysis"](https://www.rff.org/publications/working-papers/the-shadow-price-of-capital-accounting-for-capital-displacement-in-benefitcost-analysis/), with Richard Newell and Billy Pizer.
 
 1. ["Climate Royalty Surcharges"](https://www.nber.org/papers/w28564), with James Stock. Also available at [RFF](https://www.rff.org/publications/working-papers/climate-royalty-surcharges/). _Revisions requested_
