@@ -88,6 +88,8 @@ layout: default
 
 * Contributing author, ["Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) Global Assessment Report on Biodiversity and Ecosystem Services"](https://ipbes.net/global-assessment). 2019.
 
+* RFF Issue Brief, November 29, 2017, ["How the Shale Boom Has Transformed the US Oil and Gas Industry"](https://www.rff.org/publications/issue-briefs/how-the-shale-boom-has-transformed-the-us-oil-and-gas-industry/)
+
 * Congressional Budget Office report, with Terry Dinan, 2011, ["The Effects of Renewable or Clean Electricity Standards"](http://www.cbo.gov/sites/default/files/cbofiles/ftpdocs/121xx/doc12166/07-26-energy.pdf)
 
 * Congressional Budget Office report, with Paige Piper-Bach, 2010, ["Immigration Policy in the United States: An Update"](http://www.cbo.gov/sites/default/files/cbofiles/ftpdocs/119xx/doc11959/12-03-immigration_chartbook.pdf)
