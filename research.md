@@ -47,17 +47,28 @@ layout: default
 
 ## Other Reports and Articles
 
+ 
 * RFF Issue Brief, Jordan Wingenroth, Brian Prest, and Kevin Rennert. March 2023, ["Will Nations Meet the Paris Agreement’s Emissions and Temperature Goals?"](https://www.rff.org/publications/issue-briefs/will-nations-meet-the-paris-agreements-emissions-and-temperature-goals/)
 
 * RFF Report, with Daniel Raimi, Yuqi Zhu, Richard Newell, Brian Prest, Aaron Bergman. March 28, 2023, ["Global Energy Outlook 2023: Sowing the Seeds of an Energy Transition"](https://www.rff.org/publications/reports/global-energy-outlook-2023/)
 
+* _Resources Magazine_, Aaron Bergman, Brian C. Prest, and Karen Palmer. October 2022, ["How Can Hydrogen Producers Show That They Are “Clean”?"](https://www.resources.org/common-resources/how-can-hydrogen-producers-show-that-they-are-clean/)
+
 * Barron's, Commentary, by Maureen Cropper, Richard Newell, Brian Prest, and Kevin Rennert. September 8, 2022, ["The Damage from Carbon Is More Costly Than We Thought"](https://www.barrons.com/articles/carbon-emissions-climate-change-economic-cost-51662649886)
+
+* _Resources Magazine_, by Brian C. Prest, Jordan Wingenroth, and Kevin Rennert. September 1, 2022, ["The Social Cost of Carbon: Reaching a New Estimate"](https://www.resources.org/archives/the-social-cost-of-carbon-reaching-a-new-estimate/)
+
+* RFF Blog, August 15, 2022, ["Richard Newell, Brian Prest, and Kevin Rennert."](https://www.resources.org/common-resources/inflation-reduction-act-can-achieve-emissions-reductions-even-with-oil-and-gas-provisions/)
 
 * RFF Report, with Karen Palmer, Brian Prest, Seth Villanueva, and Stuart Iler. August 11, 2022, ["Options for EIA to Publish CO<sub>2</sub> Emissions Rates for Electricity"](https://www.rff.org/publications/reports/options-for-eia-to-publish-co2-emissions-rates-for-electricity/)
 
 * RFF Report, April 21, 2022, ["Partners, Not Rivals: The Power of Parallel Supply-Side and Demand-Side Climate Policy"](https://www.rff.org/publications/reports/partners-not-rivals-the-power-of-parallel-supply-side-and-demand-side-climate-policy/)
 
 * RFF Report, with Daniel Raimi, Erin Campbell, Richard Newell, Seth Villanueva, and Jordan Wingenroth, April 7, 2022, ["Global Energy Outlook 2022: Turning Points and Tension in the Energy Transition"](https://www.rff.org/publications/reports/global-energy-outlook-2022/)
+
+* _Resources Magazine_, K. Rennert, W. Pizer, R. Newell, D. Anthoff, C. Kingdon, L. Rennels, R. Cooke, A. Raftery, H. Sevcikova, F. Errickson, and J. Wingenroth. October 21, 2021, ["Working Toward a New Social Cost of Carbon"](https://www.resources.org/archives/working-toward-a-new-social-cost-of-carbon/)
+
+* _Resources Magazine_, Brian C. Prest, William Pizer, and Richard G. Newell. October 21, 2021, ["Improving Discounting in the Social Cost of Carbon"](https://www.resources.org/archives/improving-discounting-in-the-social-cost-of-carbon/)
 
 * RFF Issue Brief, September 9, 2021, ["Methane Fees' Effects on Natural Gas Prices and Methane Leakage"](https://www.rff.org/publications/issue-briefs/methane-fees-effects-on-natural-gas-prices-and-methane-leakage/)
  
