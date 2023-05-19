@@ -58,7 +58,7 @@ layout: default
 
 * _Resources Magazine_, by Brian C. Prest, Jordan Wingenroth, and Kevin Rennert. September 1, 2022, ["The Social Cost of Carbon: Reaching a New Estimate"](https://www.resources.org/archives/the-social-cost-of-carbon-reaching-a-new-estimate/)
 
-* RFF Blog, August 15, 2022, ["Richard Newell, Brian Prest, and Kevin Rennert."](https://www.resources.org/common-resources/inflation-reduction-act-can-achieve-emissions-reductions-even-with-oil-and-gas-provisions/)
+* RFF Blog, August 15, 2022, ["Inflation Reduction Act Can Achieve Emissions Reductions Even with Oil and Gas Provisions"](https://www.resources.org/common-resources/inflation-reduction-act-can-achieve-emissions-reductions-even-with-oil-and-gas-provisions/)
 
 * RFF Report, with Karen Palmer, Brian Prest, Seth Villanueva, and Stuart Iler. August 11, 2022, ["Options for EIA to Publish CO<sub>2</sub> Emissions Rates for Electricity"](https://www.rff.org/publications/reports/options-for-eia-to-publish-co2-emissions-rates-for-electricity/)
 
