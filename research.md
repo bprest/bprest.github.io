@@ -4,8 +4,12 @@ layout: default
 
 # Research
 
-## Peer-Reviewed Publications
+## Publications
 
+1. ["The Shadow Price of Capital: Accounting for Capital Displacement in Benefit–Cost Analysis"](https://www.rff.org/publications/working-papers/the-shadow-price-of-capital-accounting-for-capital-displacement-in-benefitcost-analysis/), with Richard Newell and Billy Pizer. Accepted at NBER _Environmental and Energy Policy and the Economy_ (2023)
+ 
+1. ["US benefit-cost analysis requires revision"](https://www.science.org/doi/10.1126/science.adi5943), 2023, with Peter H. Howard , Max Sarinsky, Michael Bauer, Caroline Cecot, Maureen Cropper, Moritz Drupp, Mark Freeman, Kenneth T. Gillingham, Christian Gollier, Ben Groom, Qingran Li, Michael Livermore, Richard Newell, William A. Pizer, Glenn Rudebusch, Thomas Sterner, and Gernot Wagner. May 25, (2023). _Science_. Vol 380, Issue 6647. p. 803.
+DOI: 10.1126/science.adi5943
 
 1. ["Climate Royalty Surcharges"](https://www.rff.org/publications/working-papers/climate-royalty-surcharges/), with James Stock. Earlier version available at [RFF](https://www.nber.org/papers/w28564). _Conditionally accepted at the_ Journal of Environmental Economics and Management
 
@@ -35,9 +39,9 @@ layout: default
 
 ## Work in Progress
 
-1. ["The Shadow Price of Capital: Accounting for Capital Displacement in Benefit–Cost Analysis"](https://www.rff.org/publications/working-papers/the-shadow-price-of-capital-accounting-for-capital-displacement-in-benefitcost-analysis/), with Richard Newell and Billy Pizer. In revision for NBER _Environmental and Energy Policy and the Economy_ (2023)
-
 1. ["Estimating the Emissions Reductions from Supply-side Fossil Fuel Interventions"](https://www.rff.org/publications/working-papers/estimating-the-emissions-reductions-from-supply-side-fossil-fuel-interventions/), with Harrison Fell, Deborah Gordon, and TJ Conway
+
+1. "Assessing the future of oil and gas production and local government revenue in five western US basins", with Daniel Raimi, Zachary Whitlock.
 
 <!-- 
 
@@ -46,10 +50,6 @@ layout: default
 -->
 
 ## Other Reports and Articles
-
-* _Science_ Letter, 2023, Peter H. Howard , Max Sarinsky, Michael Bauer, Caroline Cecot, Maureen Cropper, Moritz
-Drupp, Mark Freeman, Kenneth T. Gillingham, Christian Gollier, Ben Groom, Qingran Li, Michael Livermore, Richard Newell, William A. Pizer, Brian Prest, Glenn Rudebusch, Thomas Sterner, and Gernot Wagner. May 25, 2023, ["US benefit-cost analysis requires revision"](https://www.science.org/doi/10.1126/science.adi5943). _Science_. Vol 380, Issue 6647. p. 803.
-DOI: 10.1126/science.adi5943
  
 * RFF Issue Brief, Jordan Wingenroth, Brian Prest, and Kevin Rennert. March 2023, ["Will Nations Meet the Paris Agreement’s Emissions and Temperature Goals?"](https://www.rff.org/publications/issue-briefs/will-nations-meet-the-paris-agreements-emissions-and-temperature-goals/)
 
