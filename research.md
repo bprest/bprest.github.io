@@ -39,9 +39,9 @@ DOI: 10.1126/science.adi5943
 
 ## Work in Progress
 
-1. ["Estimating the Emissions Reductions from Supply-side Fossil Fuel Interventions"](https://www.rff.org/publications/working-papers/estimating-the-emissions-reductions-from-supply-side-fossil-fuel-interventions/), with Harrison Fell, Deborah Gordon, and TJ Conway
+1. ["Estimating the Emissions Reductions from Supply-side Fossil Fuel Interventions"](https://www.rff.org/publications/working-papers/estimating-the-emissions-reductions-from-supply-side-fossil-fuel-interventions/), with Harrison Fell, Deborah Gordon, and TJ Conway. _Under review_
 
-1. "Assessing the future of oil and gas production and local government revenue in five western US basins", with Daniel Raimi, Zachary Whitlock.
+1. ["Assessing the future of oil and gas production and local government revenue in five western US basins"](https://www.rff.org/publications/working-papers/assessing-the-future-of-oil-and-gas-production-and-local-government-revenue-in-five-western-us-basins/), with Daniel Raimi, Zachary Whitlock. _Under review_
 
 <!-- 
 
