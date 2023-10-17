@@ -4,6 +4,7 @@ layout: default
 
 # In the News
 
+* Axios, Ben Geman, October 17, 2023  ["Number of the day: \$6.8 trillion per year"](https://www.axios.com/newsletters/axios-generate-e7c62b35-4a4a-4ecd-bc16-2e15ebe510d6.html)
 
 * E&E News, Jean Chemnick, July 17, 2023,  ["EPA's carbon metric may underestimate climate damage — at least for now"](https://subscriber.politicopro.com/article/eenews/2023/07/17/epas-carbon-metric-may-underestimate-climate-damage-at-least-for-now-00106250)
 
