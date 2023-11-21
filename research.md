@@ -39,9 +39,11 @@ DOI: 10.1126/science.adi5943
 
 ## Work in Progress
 
+1. ["Disentangling the Roles of Growth Uncertainty, Discounting, and the Climate Beta on the Social Cost of Carbon"](https://www.rff.org/publications/working-papers/disentangling-the-roles-of-growth-uncertainty-discounting-and-the-climate-beta-on-the-social-cost-of-carbon/)
+
 1. ["Estimating the Emissions Reductions from Supply-side Fossil Fuel Interventions"](https://www.rff.org/publications/working-papers/estimating-the-emissions-reductions-from-supply-side-fossil-fuel-interventions/), with Harrison Fell, Deborah Gordon, and TJ Conway. _Under review_.
 
-1. ["Assessing the future of oil and gas production and local government revenue in five western US basins"](https://www.rff.org/publications/working-papers/assessing-the-future-of-oil-and-gas-production-and-local-government-revenue-in-five-western-us-basins/), with Daniel Raimi, Zachary Whitlock. _Under review_.
+1. ["Assessing the future of oil and gas production and local government revenue in five western US basins"](https://www.rff.org/publications/working-papers/assessing-the-future-of-oil-and-gas-production-and-local-government-revenue-in-five-western-us-basins/), with Daniel Raimi, Zachary Whitlock. _Revisions requested_.
 
 <!-- 
 
@@ -51,6 +53,9 @@ DOI: 10.1126/science.adi5943
 
 ## Other Reports and Articles
  
+* RFF Issue Brief, Jordan Wingenroth, Brian Prest, and Kevin Rennert. October 2023, ["The Economic Benefits of Achieving the Paris Agreement Goals"](https://www.rff.org/publications/issue-briefs/the-economic-benefits-of-achieving-the-paris-agreement-goals/)
+
+
 * RFF Issue Brief, Jordan Wingenroth, Brian Prest, and Kevin Rennert. March 2023, ["Will Nations Meet the Paris Agreement’s Emissions and Temperature Goals?"](https://www.rff.org/publications/issue-briefs/will-nations-meet-the-paris-agreements-emissions-and-temperature-goals/)
 
 * RFF Report, with Daniel Raimi, Yuqi Zhu, Richard Newell, Brian Prest, Aaron Bergman. March 28, 2023, ["Global Energy Outlook 2023: Sowing the Seeds of an Energy Transition"](https://www.rff.org/publications/reports/global-energy-outlook-2023/)
