@@ -6,14 +6,14 @@ layout: default
 
 ## Publications
 
-1. ["The Shadow Price of Capital: Accounting for Capital Displacement in Benefit–Cost Analysis"](https://www.rff.org/publications/working-papers/the-shadow-price-of-capital-accounting-for-capital-displacement-in-benefitcost-analysis/), with Richard Newell and Billy Pizer. Accepted at NBER _Environmental and Energy Policy and the Economy_ (2023)
+1. ["The Shadow Price of Capital: Accounting for Capital Displacement in Benefit–Cost Analysis"](https://www.nber.org/books-and-chapters/environmental-and-energy-policy-and-economy-volume-5/shadow-price-capital-accounting-capital-displacement-benefit-cost-analysis), with Richard Newell and Billy Pizer. NBER _Environmental and Energy Policy and the Economy_ (2023)
  
 1. ["US benefit-cost analysis requires revision"](https://www.science.org/doi/10.1126/science.adi5943), 2023, with Peter H. Howard , Max Sarinsky, Michael Bauer, Caroline Cecot, Maureen Cropper, Moritz Drupp, Mark Freeman, Kenneth T. Gillingham, Christian Gollier, Ben Groom, Qingran Li, Michael Livermore, Richard Newell, William A. Pizer, Glenn Rudebusch, Thomas Sterner, and Gernot Wagner. May 25, (2023). _Science_. Vol 380, Issue 6647. p. 803.
 DOI: 10.1126/science.adi5943
 
-1. ["Climate Royalty Surcharges"](https://www.rff.org/publications/working-papers/climate-royalty-surcharges/), with James Stock. Earlier version available at [RFF](https://www.nber.org/papers/w28564). _Conditionally accepted at the_ Journal of Environmental Economics and Management
+1. ["Climate Royalty Surcharges"](https://www.sciencedirect.com/science/article/pii/S0095069623000621), with James Stock. Working version available at [RFF](https://www.rff.org/publications/working-papers/climate-royalty-surcharges/). _Journal of Environmental Economics and Management_ 120 (2023): 102844.
 
-1. ["RCTs Against the Machine: Can Machine Learning Prediction Methods Recover Experimental Treatment Effects?"](https://www.journals.uchicago.edu/doi/10.1086/724518), with Casey Wichman and Karen Palmer. _Forthcoming at_ the Journal of the Association of Environmental and Resource Economists. Preprint available at [RFF](https://www.rff.org/publications/working-papers/rcts-against-the-machine-can-machine-learning-prediction-methods-recover-experimental-treatment-effects/).
+1. ["RCTs Against the Machine: Can Machine Learning Prediction Methods Recover Experimental Treatment Effects?"](https://www.journals.uchicago.edu/doi/10.1086/724518), with Casey Wichman and Karen Palmer. _Journal of the Association of Environmental and Resource Economists_ 10, no. 5 (2023): 1231-1264. Preprint available at [RFF](https://www.rff.org/publications/working-papers/rcts-against-the-machine-can-machine-learning-prediction-methods-recover-experimental-treatment-effects/).
 
 1. [“Comprehensive Evidence Implies a Higher Social Cost of CO<sub>2</sub>”](https://www.nature.com/articles/s41586-022-05224-9), Kevin Rennert, Frank Errickson, Brian C. Prest, Lisa Rennels, Richard G. Newell, William Pizer, Cora Kingdon, Jordan Wingenroth, Roger Cooke, Bryan Parthum, David Smith, Kevin Cromar, Delavane Diaz, Frances C. Moore, Ulrich K. Müller, Richard J. Plevin, Adrian E. Raftery, Hana Ševčíková, Hannah Sheets, James H. Stock, Tammy Tan, Mark Watson, Tony E. Wong, David Anthoff, _Nature_, (2022)
 
@@ -39,9 +39,11 @@ DOI: 10.1126/science.adi5943
 
 ## Work in Progress
 
-1. ["Estimating the Emissions Reductions from Supply-side Fossil Fuel Interventions"](https://www.rff.org/publications/working-papers/estimating-the-emissions-reductions-from-supply-side-fossil-fuel-interventions/), with Harrison Fell, Deborah Gordon, and TJ Conway. _Under review_
+1. ["Disentangling the Roles of Growth Uncertainty, Discounting, and the Climate Beta on the Social Cost of Carbon"](https://www.rff.org/publications/working-papers/disentangling-the-roles-of-growth-uncertainty-discounting-and-the-climate-beta-on-the-social-cost-of-carbon/)
 
-1. ["Assessing the future of oil and gas production and local government revenue in five western US basins"](https://www.rff.org/publications/working-papers/assessing-the-future-of-oil-and-gas-production-and-local-government-revenue-in-five-western-us-basins/), with Daniel Raimi, Zachary Whitlock. _Under review_
+1. ["Estimating the Emissions Reductions from Supply-side Fossil Fuel Interventions"](https://www.rff.org/publications/working-papers/estimating-the-emissions-reductions-from-supply-side-fossil-fuel-interventions/), with Harrison Fell, Deborah Gordon, and TJ Conway. _Under review_.
+
+1. ["Assessing the future of oil and gas production and local government revenue in five western US basins"](https://www.rff.org/publications/working-papers/assessing-the-future-of-oil-and-gas-production-and-local-government-revenue-in-five-western-us-basins/), with Daniel Raimi, Zachary Whitlock. _Revisions requested_.
 
 <!-- 
 
@@ -51,6 +53,9 @@ DOI: 10.1126/science.adi5943
 
 ## Other Reports and Articles
  
+* RFF Issue Brief, Jordan Wingenroth, Brian Prest, and Kevin Rennert. October 2023, ["The Economic Benefits of Achieving the Paris Agreement Goals"](https://www.rff.org/publications/issue-briefs/the-economic-benefits-of-achieving-the-paris-agreement-goals/)
+
+
 * RFF Issue Brief, Jordan Wingenroth, Brian Prest, and Kevin Rennert. March 2023, ["Will Nations Meet the Paris Agreement’s Emissions and Temperature Goals?"](https://www.rff.org/publications/issue-briefs/will-nations-meet-the-paris-agreements-emissions-and-temperature-goals/)
 
 * RFF Report, with Daniel Raimi, Yuqi Zhu, Richard Newell, Brian Prest, Aaron Bergman. March 28, 2023, ["Global Energy Outlook 2023: Sowing the Seeds of an Energy Transition"](https://www.rff.org/publications/reports/global-energy-outlook-2023/)
