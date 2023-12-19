@@ -4,6 +4,7 @@ layout: default
 
 # In the News
 
+* The Hill, Rachel Frazin, December 5, 2023,  ["EPA lays groundwork for stronger climate rules"](https://thehill.com/policy/energy-environment/4341890-epa-lays-groundwork-for-stronger-climate-rules/)
 
 * E&E News, Jean Chemnick, July 17, 2023,  ["EPA's carbon metric may underestimate climate damage — at least for now"](https://subscriber.politicopro.com/article/eenews/2023/07/17/epas-carbon-metric-may-underestimate-climate-damage-at-least-for-now-00106250)
 
