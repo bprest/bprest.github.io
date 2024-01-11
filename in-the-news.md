@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* E\&E News, Jean Chemnick, January 11, 2024, ["4 things to know about EPA's new climate damage metric"](https://subscriber.politicopro.com/article/eenews/2024/01/11/4-things-to-know-about-epas-new-climate-damage-metric-00134626)
+
 * The Hill, Rachel Frazin, December 5, 2023,  ["EPA lays groundwork for stronger climate rules"](https://thehill.com/policy/energy-environment/4341890-epa-lays-groundwork-for-stronger-climate-rules/)
 
 * _Energy Evolution_ podcast, S&P Global, November 10, 2023, ["Fighting climate change with carbon offsets and fossil fuel retirement credits"](https://podcasts.apple.com/us/podcast/fighting-climate-change-with-carbon-offsets-and/id1485337462?i=1000634363569)
