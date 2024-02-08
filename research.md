@@ -53,8 +53,9 @@ DOI: 10.1126/science.adi5943
 
 ## Other Reports and Articles
  
-* RFF Issue Brief, Jordan Wingenroth, Brian Prest, and Kevin Rennert. October 2023, ["The Economic Benefits of Achieving the Paris Agreement Goals"](https://www.rff.org/publications/issue-briefs/the-economic-benefits-of-achieving-the-paris-agreement-goals/)
+* Resources Blog, Brian Prest, February 2024, ["Accurately Quantifying “Super-Emitting” Leaks Is Key for the Methane Fee to Be Effective"](https://www.resources.org/common-resources/accurately-quantifying-super-emitting-leaks-is-key-for-the-methane-fee-to-be-effective/)
 
+* RFF Issue Brief, Jordan Wingenroth, Brian Prest, and Kevin Rennert. October 2023, ["The Economic Benefits of Achieving the Paris Agreement Goals"](https://www.rff.org/publications/issue-briefs/the-economic-benefits-of-achieving-the-paris-agreement-goals/)
 
 * RFF Issue Brief, Jordan Wingenroth, Brian Prest, and Kevin Rennert. March 2023, ["Will Nations Meet the Paris Agreement’s Emissions and Temperature Goals?"](https://www.rff.org/publications/issue-briefs/will-nations-meet-the-paris-agreements-emissions-and-temperature-goals/)
 
