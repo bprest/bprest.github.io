@@ -41,9 +41,9 @@ DOI: 10.1126/science.adi5943
 
 1. ["Disentangling the Roles of Growth Uncertainty, Discounting, and the Climate Beta on the Social Cost of Carbon"](https://www.rff.org/publications/working-papers/disentangling-the-roles-of-growth-uncertainty-discounting-and-the-climate-beta-on-the-social-cost-of-carbon/)
 
-1. ["Estimating the Emissions Reductions from Supply-side Fossil Fuel Interventions"](https://www.rff.org/publications/working-papers/estimating-the-emissions-reductions-from-supply-side-fossil-fuel-interventions/), with Harrison Fell, Deborah Gordon, and TJ Conway. _Under review_.
+1. ["Estimating the Emissions Reductions from Supply-side Fossil Fuel Interventions"](https://www.rff.org/publications/working-papers/estimating-the-emissions-reductions-from-supply-side-fossil-fuel-interventions/), with Harrison Fell, Deborah Gordon, and TJ Conway. _Revisions requested_.
 
-1. ["Assessing the future of oil and gas production and local government revenue in five western US basins"](https://www.rff.org/publications/working-papers/assessing-the-future-of-oil-and-gas-production-and-local-government-revenue-in-five-western-us-basins/), with Daniel Raimi, Zachary Whitlock. _Revisions requested_.
+1. ["Assessing the future of oil and gas production and local government revenue in five western US basins"](https://www.rff.org/publications/working-papers/assessing-the-future-of-oil-and-gas-production-and-local-government-revenue-in-five-western-us-basins/), with Daniel Raimi, Zachary Whitlock. _Under review_.
 
 <!-- 
 
@@ -52,7 +52,11 @@ DOI: 10.1126/science.adi5943
 -->
 
 ## Other Reports and Articles
- 
+
+* Resources Blog, Brian Prest, March 2024, ["Feedbacks between Emissions Markets and Political Outcomes: A Case Study of Washington State’s Cap-and-Trade Program"](https://www.resources.org/common-resources/feedbacks-between-emissions-markets-and-political-outcomes-a-case-study-of-washington-states-cap-and-trade-program/)
+
+* RFF Report, Brian Prest and Jordan Wingenroth, March 2024, ["Operational versus Capital Expenditure Risk in a Clean Energy Transition"](https://www.rff.org/publications/reports/operational-versus-capital-expenditure-risk-in-a-clean-energy-transition/)
+
 * Resources Blog, Brian Prest, February 2024, ["Accurately Quantifying “Super-Emitting” Leaks Is Key for the Methane Fee to Be Effective"](https://www.resources.org/common-resources/accurately-quantifying-super-emitting-leaks-is-key-for-the-methane-fee-to-be-effective/)
 
 * RFF Issue Brief, Jordan Wingenroth, Brian Prest, and Kevin Rennert. October 2023, ["The Economic Benefits of Achieving the Paris Agreement Goals"](https://www.rff.org/publications/issue-briefs/the-economic-benefits-of-achieving-the-paris-agreement-goals/)

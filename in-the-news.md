@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* Marketplace, American Public Media, Elizabeth Trovall and Amy Scott, March 18, 2024,  ["New fees and new tech may curb methane emissions"](https://www.marketplace.org/2024/03/18/new-fees-and-new-tech-may-curb-methane-emissions/)
+
 * The Hill, Rachel Frazin, March 3, 2024, ["Would limiting US fossil fuel production actually help climate change?"](https://thehill.com/policy/energy-environment/4500541-would-limiting-u-s-fossil-fuel-production-actually-help-climate-change/)
 
 * E&E News, Jean Chemnick, January 11, 2024, ["4 things to know about EPA's new climate damage metric"](https://subscriber.politicopro.com/article/eenews/2024/01/11/4-things-to-know-about-epas-new-climate-damage-metric-00134626)
