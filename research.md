@@ -53,6 +53,8 @@ DOI: 10.1126/science.adi5943
 
 ## Other Reports and Articles
 
+* RFF Report, Daniel Raimi, Yuqi Zhu, Richard Newell, and Brian Prest. April 2, 2024, ["Global Energy Outlook 2024: Peaks or Plateaus?"](https://www.rff.org/publications/reports/global-energy-outlook-2024)
+* 
 * Resources Blog, Brian Prest, March 2024, ["Feedbacks between Emissions Markets and Political Outcomes: A Case Study of Washington State’s Cap-and-Trade Program"](https://www.resources.org/common-resources/feedbacks-between-emissions-markets-and-political-outcomes-a-case-study-of-washington-states-cap-and-trade-program/)
 
 * RFF Report, Brian Prest and Jordan Wingenroth, March 2024, ["Operational versus Capital Expenditure Risk in a Clean Energy Transition"](https://www.rff.org/publications/reports/operational-versus-capital-expenditure-risk-in-a-clean-energy-transition/)
@@ -63,7 +65,7 @@ DOI: 10.1126/science.adi5943
 
 * RFF Issue Brief, Jordan Wingenroth, Brian Prest, and Kevin Rennert. March 2023, ["Will Nations Meet the Paris Agreement’s Emissions and Temperature Goals?"](https://www.rff.org/publications/issue-briefs/will-nations-meet-the-paris-agreements-emissions-and-temperature-goals/)
 
-* RFF Report, with Daniel Raimi, Yuqi Zhu, Richard Newell, Brian Prest, Aaron Bergman. March 28, 2023, ["Global Energy Outlook 2023: Sowing the Seeds of an Energy Transition"](https://www.rff.org/publications/reports/global-energy-outlook-2023/)
+* RFF Report, Daniel Raimi, Yuqi Zhu, Richard Newell, Brian Prest, and Aaron Bergman. March 28, 2023, ["Global Energy Outlook 2023: Sowing the Seeds of an Energy Transition"](https://www.rff.org/publications/reports/global-energy-outlook-2023/)
 
 * _Resources Magazine_, Aaron Bergman, Brian C. Prest, and Karen Palmer. October 2022, ["How Can Hydrogen Producers Show That They Are “Clean”?"](https://www.resources.org/common-resources/how-can-hydrogen-producers-show-that-they-are-clean/)
 
