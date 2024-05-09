@@ -6,7 +6,7 @@ layout: default
 
 ## Publications
 
-1. ["The Shadow Price of Capital: Accounting for Capital Displacement in Benefit–Cost Analysis"](https://www.nber.org/books-and-chapters/environmental-and-energy-policy-and-economy-volume-5/shadow-price-capital-accounting-capital-displacement-benefit-cost-analysis), with Richard Newell and Billy Pizer. NBER _Environmental and Energy Policy and the Economy_ (2024)
+1. ["The Shadow Price of Capital: Accounting for Capital Displacement in Benefit–Cost Analysis"](https://www.journals.uchicago.edu/doi/abs/10.1086/727878), with Richard Newell and Billy Pizer. _Environmental and Energy Policy and the Economy_. Vol. 5, (2024)
  
 1. ["US benefit-cost analysis requires revision"](https://www.science.org/doi/10.1126/science.adi5943), 2023, with Peter H. Howard , Max Sarinsky, Michael Bauer, Caroline Cecot, Maureen Cropper, Moritz Drupp, Mark Freeman, Kenneth T. Gillingham, Christian Gollier, Ben Groom, Qingran Li, Michael Livermore, Richard Newell, William A. Pizer, Glenn Rudebusch, Thomas Sterner, and Gernot Wagner. May 25, (2023). _Science_. Vol 380, Issue 6647. p. 803.
 DOI: 10.1126/science.adi5943
