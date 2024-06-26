@@ -6,7 +6,7 @@ layout: default
 
 ## Publications
 
-1. ["Estimating the Emissions Reductions from Supply-side Fossil Fuel Interventions"](https://www.rff.org/publications/working-papers/estimating-the-emissions-reductions-from-supply-side-fossil-fuel-interventions/), with Harrison Fell, Deborah Gordon, and TJ Conway. Accepted at _Energy Economics_.
+1. ["Estimating the Emissions Reductions from Supply-side Fossil Fuel Interventions"](https://www.sciencedirect.com/science/article/pii/S0140988324004286), with Harrison Fell, Deborah Gordon, and TJ Conway. _Energy Economics_. Vol. 136, (August 2024)
 
 1. ["The Shadow Price of Capital: Accounting for Capital Displacement in Benefit–Cost Analysis"](https://www.journals.uchicago.edu/doi/abs/10.1086/727878), with Richard Newell and Billy Pizer. _Environmental and Energy Policy and the Economy_. Vol. 5, (2024)
  
