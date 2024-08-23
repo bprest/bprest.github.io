@@ -46,7 +46,7 @@ DOI: 10.1126/science.adi5943
 
 1. ["Disentangling the Roles of Growth Uncertainty, Discounting, and the Climate Beta on the Social Cost of Carbon"](https://www.rff.org/publications/working-papers/disentangling-the-roles-of-growth-uncertainty-discounting-and-the-climate-beta-on-the-social-cost-of-carbon/)
 
-1. ["Assessing the future of oil and gas production and local government revenue in five western US basins"](https://www.rff.org/publications/working-papers/assessing-the-future-of-oil-and-gas-production-and-local-government-revenue-in-five-western-us-basins/), with Daniel Raimi, Zachary Whitlock. _Under review_.
+1. ["Assessing the future of oil and gas production and local government revenue in five western US basins"](https://www.rff.org/publications/working-papers/assessing-the-future-of-oil-and-gas-production-and-local-government-revenue-in-five-western-us-basins/), with Daniel Raimi, Zachary Whitlock. _In press_ at _The Energy Journal_.
 
 <!-- 
 
