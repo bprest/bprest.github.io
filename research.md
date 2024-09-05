@@ -5,7 +5,6 @@ layout: default
 # Research
 
 ## Publications
-
  
 1. ["Equity weighting increases the social cost of carbon"](https://www.science.org/doi/full/10.1126/science.adn1488), with Lisa Rennels, Frank Errickson, and David Anthoff. _Science_. Policy Forum. 385, no. 6710 (2024): 715-717.
 
@@ -55,6 +54,8 @@ DOI: 10.1126/science.adi5943
 -->
 
 ## Other Reports and Articles
+
+* RFF Issue Brief, Brian C. Prest, September 5, 2024, ["How Much Would Expanding Federal Oil and Gas Leasing Increase Global Carbon Emissions?"](https://www.rff.org/publications/issue-briefs/federal-permitting-reform-expand-oil-and-gas-leasing-carbon-emissions/)
 
 * Resources Blog, Daniel Raimi, Alan Krupnick, Joshua Linn, Richard D. Morgenstern, William Pizer, Brian C. Prest, and Suzanne Russo, April 18, 2024, ["After the Pause: Understanding the Economic, Environmental, and Geopolitical Implications of Increased US Liquefied Natural Gas Exports"](https://www.resources.org/common-resources/after-the-pause-understanding-the-economic-environmental-and-geopolitical-implications-of-increased-us-liquefied-natural-gas-exports/)
 
