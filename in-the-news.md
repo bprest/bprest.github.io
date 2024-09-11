@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* E&E News, Heather Richards, September 11, 2024  ["Return to Trump-era oil leasing would spike emissions — report"](https://subscriber.politicopro.com/article/eenews/2024/09/11/return-to-trump-era-oil-leasing-would-spike-emissions-report-00177318)
+
 * Marketplace, American Public Media, Elizabeth Trovall and Amy Scott, March 18, 2024,  ["New fees and new tech may curb methane emissions"](https://www.marketplace.org/2024/03/18/new-fees-and-new-tech-may-curb-methane-emissions/)
 
 * The Hill, Rachel Frazin, March 3, 2024, ["Would limiting US fossil fuel production actually help climate change?"](https://thehill.com/policy/energy-environment/4500541-would-limiting-u-s-fossil-fuel-production-actually-help-climate-change/)
