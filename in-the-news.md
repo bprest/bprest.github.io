@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* E&E News, Heather Richards, September 19, 2024  ["`Would Harris kill the green dream of banning drilling on public lands?"](https://subscriber.politicopro.com/article/eenews/2024/09/19/would-harris-kill-the-green-dream-of-banning-drilling-on-public-land-00179105)
+
 * E&E News, Heather Richards, September 11, 2024  ["Return to Trump-era oil leasing would spike emissions — report"](https://subscriber.politicopro.com/article/eenews/2024/09/11/return-to-trump-era-oil-leasing-would-spike-emissions-report-00177318)
 
 * Axios, Nick Sobczyk, September 9, 2024, ["Westerman's NEPA bill and other permitting notes"](https://www.axios.com/pro/energy-policy/2024/09/09/westermans-nepa-bill-and-other-permitting-notes)
