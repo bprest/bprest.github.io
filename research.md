@@ -5,15 +5,17 @@ layout: default
 # Research
 
 ## Publications
+
+1. ["Assessing the future of oil and gas production and local government revenue in five western US basins"](https://journals.sagepub.com/doi/10.1177/01956574241290609), with Daniel Raimi, Zachary Whitlock. _The Energy Journal_ (2024).
  
 1. ["Equity weighting increases the social cost of carbon"](https://www.science.org/doi/full/10.1126/science.adn1488), with Lisa Rennels, Frank Errickson, and David Anthoff. _Science_. Policy Forum. 385, no. 6710 (2024): 715-717.
 
-1. ["Estimating the Emissions Reductions from Supply-side Fossil Fuel Interventions"](https://www.sciencedirect.com/science/article/pii/S0140988324004286), with Harrison Fell, Deborah Gordon, and TJ Conway. _Energy Economics_. Vol. 136, (August 2024)
+1. ["Estimating the Emissions Reductions from Supply-side Fossil Fuel Interventions"](https://www.sciencedirect.com/science/article/pii/S0140988324004286), with Harrison Fell, Deborah Gordon, and TJ Conway. _Energy Economics_. Vol. 136, (August 2024).
 
-1. ["The Shadow Price of Capital: Accounting for Capital Displacement in Benefit–Cost Analysis"](https://www.journals.uchicago.edu/doi/abs/10.1086/727878), with Richard Newell and Billy Pizer. _Environmental and Energy Policy and the Economy_. Vol. 5, (2024)
+1. ["The Shadow Price of Capital: Accounting for Capital Displacement in Benefit–Cost Analysis"](https://www.journals.uchicago.edu/doi/abs/10.1086/727878), with Richard Newell and Billy Pizer. _Environmental and Energy Policy and the Economy_. Vol. 5, (2024).
  
 1. ["US benefit-cost analysis requires revision"](https://www.science.org/doi/10.1126/science.adi5943), 2023, with Peter H. Howard , Max Sarinsky, Michael Bauer, Caroline Cecot, Maureen Cropper, Moritz Drupp, Mark Freeman, Kenneth T. Gillingham, Christian Gollier, Ben Groom, Qingran Li, Michael Livermore, Richard Newell, William A. Pizer, Glenn Rudebusch, Thomas Sterner, and Gernot Wagner. May 25, (2023). _Science_. Vol 380, Issue 6647. p. 803.
-DOI: 10.1126/science.adi5943
+DOI: 10.1126/science.adi5943.
 
 1. ["Climate Royalty Surcharges"](https://www.sciencedirect.com/science/article/pii/S0095069623000621), with James Stock. Working version available at [RFF](https://www.rff.org/publications/working-papers/climate-royalty-surcharges/). _Journal of Environmental Economics and Management_ 120 (2023): 102844.
 
@@ -43,9 +45,9 @@ DOI: 10.1126/science.adi5943
 
 ## Work in Progress
 
-1. ["Disentangling the Roles of Growth Uncertainty, Discounting, and the Climate Beta on the Social Cost of Carbon"](https://www.rff.org/publications/working-papers/disentangling-the-roles-of-growth-uncertainty-discounting-and-the-climate-beta-on-the-social-cost-of-carbon/)
+1. ["Accounting for Biodiversity Loss Raises the Social Cost of CO<sub>2</sub>"](https://www.rff.org/publications/working-papers/accounting-for-biodiversity-loss-raises-the-social-cost-of-co2/), with Jordan Wingenroth, Lisa Rennels, Kevin Rennert, Frank Errickson, and David Anthoff.
 
-1. ["Assessing the future of oil and gas production and local government revenue in five western US basins"](https://www.rff.org/publications/working-papers/assessing-the-future-of-oil-and-gas-production-and-local-government-revenue-in-five-western-us-basins/), with Daniel Raimi, Zachary Whitlock. _In press_ at _The Energy Journal_.
+1. ["Disentangling the Roles of Growth Uncertainty, Discounting, and the Climate Beta on the Social Cost of Carbon"](https://www.rff.org/publications/working-papers/disentangling-the-roles-of-growth-uncertainty-discounting-and-the-climate-beta-on-the-social-cost-of-carbon/)
 
 <!-- 
 
