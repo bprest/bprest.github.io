@@ -4,6 +4,12 @@ layout: default
 
 # In the News
 
+* Bloomberg, Stephen Lee, January 22, 2025 [Trump Aims to End Carbon Metric That Puts Price on Climate Harms](https://news.bloomberglaw.com/environment-and-energy/trump-aims-to-end-carbon-metric-that-puts-price-on-climate-harms)
+
+* E&E News, Garret Downs, January 22, 2025 ["Republicans need big offsets for tax cuts. Drilling may not deliver"](https://subscriber.politicopro.com/article/eenews/2025/01/22/republicans-need-big-offsets-for-tax-cuts-drilling-may-not-deliver-001996965) 
+
+* Politico, Garret Downs, January 17, 2025  ["Drill, baby, drill will not work’: GOP budget plans meet reality"](https://subscriber.politicopro.com/article/2025/01/drill-baby-drill-will-not-work-gop-budget-plans-meet-reality-00199030)
+
 * E&E News, Heather Richards, September 19, 2024  ["Would Harris kill the green dream of banning drilling on public lands?"](https://subscriber.politicopro.com/article/eenews/2024/09/19/would-harris-kill-the-green-dream-of-banning-drilling-on-public-land-00179105)
 
 * E&E News, Heather Richards, September 11, 2024  ["Return to Trump-era oil leasing would spike emissions — report"](https://subscriber.politicopro.com/article/eenews/2024/09/11/return-to-trump-era-oil-leasing-would-spike-emissions-report-00177318)
