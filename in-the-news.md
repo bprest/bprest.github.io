@@ -8,7 +8,7 @@ layout: default
 
 * E&E News, Garret Downs, January 22, 2025 ["Republicans need big offsets for tax cuts. Drilling may not deliver"](https://subscriber.politicopro.com/article/eenews/2025/01/22/republicans-need-big-offsets-for-tax-cuts-drilling-may-not-deliver-001996965) 
 
-* Politico, Garret Downs, January 17, 2025  ["Drill, baby, drill will not work’: GOP budget plans meet reality"](https://subscriber.politicopro.com/article/2025/01/drill-baby-drill-will-not-work-gop-budget-plans-meet-reality-00199030)
+* Politico, Zack Colman & Ben Lefebvre, January 17, 2025  ["Drill, baby, drill will not work’: GOP budget plans meet reality"](https://subscriber.politicopro.com/article/2025/01/drill-baby-drill-will-not-work-gop-budget-plans-meet-reality-00199030)
 
 * E&E News, Heather Richards, September 19, 2024  ["Would Harris kill the green dream of banning drilling on public lands?"](https://subscriber.politicopro.com/article/eenews/2024/09/19/would-harris-kill-the-green-dream-of-banning-drilling-on-public-land-00179105)
 
