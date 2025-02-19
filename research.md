@@ -57,6 +57,8 @@ DOI: 10.1126/science.adi5943.
 
 ## Other Reports and Articles
 
+* Resources Blog, Brian C. Prest and Kevin Rennert, February 18, 2025, ["When Put to the Test, Higher Social Cost of Carbon Stands Firm"](https://www.resources.org/common-resources/when-put-to-the-test-higher-social-cost-of-carbon-stands-firm/)
+
 * RFF Issue Brief, Brian C. Prest, September 5, 2024, ["How Much Would Expanding Federal Oil and Gas Leasing Increase Global Carbon Emissions?"](https://www.rff.org/publications/issue-briefs/federal-permitting-reform-expand-oil-and-gas-leasing-carbon-emissions/)
 
 * Resources Blog, Daniel Raimi, Alan Krupnick, Joshua Linn, Richard D. Morgenstern, William Pizer, Brian C. Prest, and Suzanne Russo, April 18, 2024, ["After the Pause: Understanding the Economic, Environmental, and Geopolitical Implications of Increased US Liquefied Natural Gas Exports"](https://www.resources.org/common-resources/after-the-pause-understanding-the-economic-environmental-and-geopolitical-implications-of-increased-us-liquefied-natural-gas-exports/)
