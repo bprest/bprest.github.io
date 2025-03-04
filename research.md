@@ -57,6 +57,8 @@ DOI: 10.1126/science.adi5943.
 
 ## Other Reports and Articles
 
+* RFF Issue Brief, Brian C. Prest, Alan Krupnick, and Jordan Wingenroth, March 4, 2025, ["Unpacking the Department of Energy’s Report on US Liquefied Natural Gas Exports"](https://www.rff.org/publications/issue-briefs/unpacking-the-department-of-energys-report-on-us-liquefied-natural-gas-exports/)
+
 * Resources Blog, Brian C. Prest and Kevin Rennert, February 18, 2025, ["When Put to the Test, Higher Social Cost of Carbon Stands Firm"](https://www.resources.org/common-resources/when-put-to-the-test-higher-social-cost-of-carbon-stands-firm/)
 
 * RFF Issue Brief, Brian C. Prest, September 5, 2024, ["How Much Would Expanding Federal Oil and Gas Leasing Increase Global Carbon Emissions?"](https://www.rff.org/publications/issue-briefs/federal-permitting-reform-expand-oil-and-gas-leasing-carbon-emissions/)
