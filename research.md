@@ -59,6 +59,8 @@ DOI: 10.1126/science.adi5943.
 
 ## Other Reports and Articles
 
+* RFF Report, Daniel Raimi, Yuqi Zhu, Emily Joiner, Brandon Holmes, and Brian C. Prest. April 7, 2025, ["Global Energy Outlook 2025: Headwinds and Tailwinds in the Energy Transition"](https://www.rff.org/publications/reports/global-energy-outlook-2024)
+
 * RFF Issue Brief, Brian C. Prest, Alan Krupnick, and Jordan Wingenroth, March 4, 2025, ["Unpacking the Department of Energy’s Report on US Liquefied Natural Gas Exports"](https://www.rff.org/publications/issue-briefs/unpacking-the-department-of-energys-report-on-us-liquefied-natural-gas-exports/)
 
 * Resources Blog, Brian C. Prest and Kevin Rennert, February 18, 2025, ["When Put to the Test, Higher Social Cost of Carbon Stands Firm"](https://www.resources.org/common-resources/when-put-to-the-test-higher-social-cost-of-carbon-stands-firm/)
