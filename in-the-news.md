@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* E&E News, Mike Soraghan, April 14, 2025 ["Trump’s push for more LNG exports risks domestic price surge"](https://subscriber.politicopro.com/article/eenews/2025/04/14/trumps-push-for-more-lng-exports-risks-domestic-price-surge-00267481) 
+
 * Bloomberg, Stephen Lee, January 22, 2025 [Trump Aims to End Carbon Metric That Puts Price on Climate Harms](https://news.bloomberglaw.com/environment-and-energy/trump-aims-to-end-carbon-metric-that-puts-price-on-climate-harms)
 
 * E&E News, Garret Downs, January 22, 2025 ["Republicans need big offsets for tax cuts. Drilling may not deliver"](https://subscriber.politicopro.com/article/eenews/2025/01/22/republicans-need-big-offsets-for-tax-cuts-drilling-may-not-deliver-001996965) 
