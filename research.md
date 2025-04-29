@@ -49,7 +49,7 @@ DOI: 10.1126/science.adi5943.
 
 1. ["Accounting for Biodiversity Loss Raises the Social Cost of CO<sub>2</sub>"](https://www.rff.org/publications/working-papers/accounting-for-biodiversity-loss-raises-the-social-cost-of-co2/), with Jordan Wingenroth, Lisa Rennels, Kevin Rennert, Frank Errickson, and David Anthoff.
 
-1. ["Disentangling the Roles of Growth Uncertainty, Discounting, and the Climate Beta on the Social Cost of Carbon"](https://www.rff.org/publications/working-papers/disentangling-the-roles-of-growth-uncertainty-discounting-and-the-climate-beta-on-the-social-cost-of-carbon/)
+1. ["Disentangling the Roles of Growth Uncertainty, Discounting, and the Climate Beta on the Social Cost of Carbon"](https://www.rff.org/publications/working-papers/disentangling-the-roles-of-growth-uncertainty-discounting-and-the-climate-beta-on-the-social-cost-of-carbon/).
 
 <!-- 
 
@@ -58,6 +58,8 @@ DOI: 10.1126/science.adi5943.
 -->
 
 ## Other Reports and Articles
+
+* RFF Report, Daniel Raimi, Yuqi Zhu, Emily Joiner, Brandon Holmes, and Brian C. Prest. April 7, 2025, ["Global Energy Outlook 2025: Headwinds and Tailwinds in the Energy Transition"](https://www.rff.org/publications/reports/global-energy-outlook-2024)
 
 * RFF Issue Brief, Brian C. Prest, Alan Krupnick, and Jordan Wingenroth, March 4, 2025, ["Unpacking the Department of Energy’s Report on US Liquefied Natural Gas Exports"](https://www.rff.org/publications/issue-briefs/unpacking-the-department-of-energys-report-on-us-liquefied-natural-gas-exports/)
 

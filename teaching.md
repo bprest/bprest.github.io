@@ -7,6 +7,7 @@ layout: default
 
 | Course Title | Position | Semester |
 |:-------------|:------------------|:------|
+| Economics of Climate Change |	Adjunct Professor, Georgetown University | 2024-present
 | Calculus Review, Nicholas School Master of Environmental Management Program |	Instructor | Summer 2017
 | PUBPOL 585: Climate Change Economics and Policy |	TA | Spring 2017
 | ECON 690: Applied Big Data Science | TA | Spring 2016
