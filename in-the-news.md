@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* _USEA Power Sector Podcast_, Herman K. Trabish, May 8, 2025 ["USEA Power Sector Podcast Episode 137: Resources for the Future Fellow \& Director of its Social Cost of Carbon Initiative Brian Prest"](https://usea.org/event/usea-power-sector-podcast-episode-137-resources-future-fellow-director-its-social-cost-carbon)
+
 * New York Times, Lydia DePillis, April 29, 2025 ["How Trump May Unintentionally Cut Carbon Emissions"](https://www.nytimes.com/2025/04/29/business/economy/trump-recession-carbon-emissions.html)
 
 * E&E News, Mike Soraghan, April 14, 2025 ["Trump’s push for more LNG exports risks domestic price surge"](https://subscriber.politicopro.com/article/eenews/2025/04/14/trumps-push-for-more-lng-exports-risks-domestic-price-surge-00267481) 
