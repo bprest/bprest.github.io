@@ -47,6 +47,8 @@ DOI: 10.1126/science.adi5943.
 
 1. ["Where Does the Marginal Methane Molecule Come From? Implications of LNG Exports for US Natural Gas Supply and Methane Emissions"](https://www.rff.org/publications/working-papers/where-does-the-marginal-methane-molecule-come-from-implications-of-lng-exports-for-us-natural-gas-supply-and-methane-emissions/).
 
+1. ["The Energy Transition for Oil- and Gas-Producing Tribal Nations: Assessing Options for Energy Development with the Southern Ute Indian Tribe"](https://www.rff.org/publications/working-papers/the-energy-transition-for-oil-and-gas-producing-tribal-nations-assessing-options-for-energy-development-with-the-southern-ute-indian-tribe/), with Daniel Raimi and Alexandra Thompson.
+
 1. ["Accounting for Biodiversity Loss Raises the Social Cost of CO<sub>2</sub>"](https://www.rff.org/publications/working-papers/accounting-for-biodiversity-loss-raises-the-social-cost-of-co2/), with Jordan Wingenroth, Lisa Rennels, Kevin Rennert, Frank Errickson, and David Anthoff.
 
 1. ["Disentangling the Roles of Growth Uncertainty, Discounting, and the Climate Beta on the Social Cost of Carbon"](https://www.rff.org/publications/working-papers/disentangling-the-roles-of-growth-uncertainty-discounting-and-the-climate-beta-on-the-social-cost-of-carbon/).
