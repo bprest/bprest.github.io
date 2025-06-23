@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* E&E News, Jean Chemnick, June 23, 2025 ["EPA leaves social cost of carbon on the cutting-room floor"](https://subscriber.politicopro.com/article/eenews/2025/06/23/epa-leaves-social-cost-of-carbon-on-the-cutting-room-floor-00413514)
+
 * The Washington Post, Evan Halper, June 18, 2025 ["Senate GOP seeks to reward oil drillers amid deep cuts to wind and solar"](https://www.washingtonpost.com/business/2025/06/18/climate-solar-oil-tax-senate-trump/)
 
 * _USEA Power Sector Podcast_, Herman K. Trabish, May 8, 2025 ["USEA Power Sector Podcast Episode 137: Resources for the Future Fellow \& Director of its Social Cost of Carbon Initiative Brian Prest"](https://usea.org/event/usea-power-sector-podcast-episode-137-resources-future-fellow-director-its-social-cost-carbon)
