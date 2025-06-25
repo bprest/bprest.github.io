@@ -6,6 +6,8 @@ layout: default
 
 ## Publications
 
+1. ["Circular A-4: Practical Advances in Discounting for Policy Decisions"](https://www.journals.uchicago.edu/doi/10.1086/735539), with William A. Pizer. _Review of Environmental Economics and Policy_ (2025).
+
 1. ["Assessing the future of oil and gas production and local government revenue in five western US basins"](https://journals.sagepub.com/doi/10.1177/01956574241290609), with Daniel Raimi, Zachary Whitlock. _The Energy Journal_ (2024).
  
 1. ["Equity weighting increases the social cost of carbon"](https://www.science.org/doi/full/10.1126/science.adn1488), with Lisa Rennels, Frank Errickson, and David Anthoff. _Science_. Policy Forum. 385, no. 6710 (2024): 715-717.
