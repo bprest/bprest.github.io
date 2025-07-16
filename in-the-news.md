@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* E&E News, Ian M. Stevenson, July 16, 2025 ["What the megalaw’s royalty rate cuts mean for oil and gas producers"](https://subscriber.politicopro.com/article/eenews/2025/07/16/what-the-megalaws-royalty-rate-cuts-mean-for-oil-and-gas-producers-00449049)
+
 * E&E News, Jean Chemnick, June 23, 2025 ["EPA leaves social cost of carbon on the cutting-room floor"](https://subscriber.politicopro.com/article/eenews/2025/06/23/epa-leaves-social-cost-of-carbon-on-the-cutting-room-floor-00413514)
 
 * The Washington Post, Evan Halper, June 18, 2025 ["Senate GOP seeks to reward oil drillers amid deep cuts to wind and solar"](https://www.washingtonpost.com/business/2025/06/18/climate-solar-oil-tax-senate-trump/)
