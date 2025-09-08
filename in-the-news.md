@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* E&E News, Ian M. Stevenson, September 8, 2025 ["New Mexico officials fear oil royalty budget crunch"](https://subscriber.politicopro.com/article/eenews/2025/09/08/new-mexico-officials-fear-knock-on-effects-of-oil-royalty-cuts-00541655)
+
  * New York Times, Lisa Friedman, July 30, 2025 ["Candidate Trump Promised Oil Executives a Windfall. Now, They’re Getting It."](https://www.nytimes.com/2025/07/30/climate/trump-campaign-funding-oil-industry-tax-breaks.html?smid=nytcore-ios-share&referringSource=articleShare)
 
 * E&E News, Ian M. Stevenson, July 16, 2025 ["What the megalaw’s royalty rate cuts mean for oil and gas producers"](https://subscriber.politicopro.com/article/eenews/2025/07/16/what-the-megalaws-royalty-rate-cuts-mean-for-oil-and-gas-producers-00449049)
