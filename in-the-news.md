@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* E&E News, Ian M. Stevenson, September 16, 2025 ["BLM nets $38M in Montana, North Dakota oil and gas lease sales"](https://subscriber.politicopro.com/article/eenews/2025/09/16/blm-nets-38m-in-montana-north-dakota-oil-and-gas-lease-sales-00564420)
+
 * E&E News, Ian M. Stevenson, September 8, 2025 ["New Mexico officials fear oil royalty budget crunch"](https://subscriber.politicopro.com/article/eenews/2025/09/08/new-mexico-officials-fear-knock-on-effects-of-oil-royalty-cuts-00541655)
 
  * New York Times, Lisa Friedman, July 30, 2025 ["Candidate Trump Promised Oil Executives a Windfall. Now, They’re Getting It."](https://www.nytimes.com/2025/07/30/climate/trump-campaign-funding-oil-industry-tax-breaks.html?smid=nytcore-ios-share&referringSource=articleShare)
