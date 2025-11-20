@@ -4,6 +4,10 @@ layout: default
 
 # In the News
 
+* Vital City NYC, Charles Komanoff, November 19, 2025 ["A Pipeline to Somewhere: The governor's critics need to step back and see the larger picture."](https://www.vitalcitynyc.org/articles/kathy-hochul-nese-pipeline-empire-wind)
+
+* Reuters, Simon Jessop and Sebastian Rocandio, November 18, 2025 ["Ukraine plans $44 billion claim against Russia for wartime emissions"](https://www.reuters.com/sustainability/cop/ukraine-plans-44-billion-claim-against-russia-wartime-emissions-2025-11-18/)
+
 * E&E News, Ian M. Stevenson, September 16, 2025 ["BLM nets $38M in Montana, North Dakota oil and gas lease sales"](https://subscriber.politicopro.com/article/eenews/2025/09/16/blm-nets-38m-in-montana-north-dakota-oil-and-gas-lease-sales-00564420)
 
 * E&E News, Ian M. Stevenson, September 8, 2025 ["New Mexico officials fear oil royalty budget crunch"](https://subscriber.politicopro.com/article/eenews/2025/09/08/new-mexico-officials-fear-knock-on-effects-of-oil-royalty-cuts-00541655)
