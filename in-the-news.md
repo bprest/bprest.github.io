@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* Inside Climate News, Keerti Gopal, November 21, 2025 ["Trump’s Plans to Expand Offshore Drilling Meet Bipartisan Opposition"](https://insideclimatenews.org/news/21112025/trumps-plans-to-expand-offshore-drilling-meet-bipartisan-opposition/)
+
 * Vital City NYC, Charles Komanoff, November 19, 2025 ["A Pipeline to Somewhere: The governor's critics need to step back and see the larger picture."](https://www.vitalcitynyc.org/articles/kathy-hochul-nese-pipeline-empire-wind)
 
 * Reuters, Simon Jessop and Sebastian Rocandio, November 18, 2025 ["Ukraine plans $44 billion claim against Russia for wartime emissions"](https://www.reuters.com/sustainability/cop/ukraine-plans-44-billion-claim-against-russia-wartime-emissions-2025-11-18/)
