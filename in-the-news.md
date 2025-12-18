@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* Associated Press, Morgan Lee, December 17, 2025 ["States brace for Trump’s push to make oil drilling cheap again"](https://apnews.com/article/trump-new-mexico-oil-gas-drilling-royalties-91bbddbf3448daf7ff5d534f7086626f)
+
 * Inside Climate News, Keerti Gopal, November 21, 2025 ["Trump’s Plans to Expand Offshore Drilling Meet Bipartisan Opposition"](https://insideclimatenews.org/news/21112025/trumps-plans-to-expand-offshore-drilling-meet-bipartisan-opposition/)
 
 * Vital City NYC, Charles Komanoff, November 19, 2025 ["A Pipeline to Somewhere: The governor's critics need to step back and see the larger picture."](https://www.vitalcitynyc.org/articles/kathy-hochul-nese-pipeline-empire-wind)
