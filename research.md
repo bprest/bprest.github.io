@@ -63,6 +63,8 @@ DOI: 10.1126/science.adi5943.
 
 ## Other Reports and Articles
 
+* Resources, Brian C. Prest. May 9, 2025, ["If/Then: New Cuts to Oil and Gas Royalty Rates in Budget Reconciliation Will Reduce Federal Revenues"](https://www.resources.org/common-resources/if-then-new-cuts-to-oil-and-gas-royalty-rates-in-budget-reconciliation-will-reduce-federal-revenues/)
+
 * RFF Report, Daniel Raimi, Yuqi Zhu, Emily Joiner, Brandon Holmes, and Brian C. Prest. April 7, 2025, ["Global Energy Outlook 2025: Headwinds and Tailwinds in the Energy Transition"](https://www.rff.org/publications/reports/global-energy-outlook-2024)
 
 * RFF Issue Brief, Brian C. Prest, Alan Krupnick, and Jordan Wingenroth, March 4, 2025, ["Unpacking the Department of Energy’s Report on US Liquefied Natural Gas Exports"](https://www.rff.org/publications/issue-briefs/unpacking-the-department-of-energys-report-on-us-liquefied-natural-gas-exports/)
