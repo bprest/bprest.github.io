@@ -4,6 +4,9 @@ layout: default
 
 # In the News
 
+
+* E&E News, Ian M. Stevenson, February 3, 2026, ["Oil and gas revenue to fall after royalty cut, analysis says"](https://subscriber.politicopro.com/article/eenews/2026/02/03/oil-and-gas-revenue-to-fall-after-royalty-cut-analysis-says-00754010)
+
 * Associated Press, Morgan Lee, December 17, 2025 ["States brace for Trump’s push to make oil drilling cheap again"](https://apnews.com/article/trump-new-mexico-oil-gas-drilling-royalties-91bbddbf3448daf7ff5d534f7086626f)
 
 * Inside Climate News, Keerti Gopal, November 21, 2025 ["Trump’s Plans to Expand Offshore Drilling Meet Bipartisan Opposition"](https://insideclimatenews.org/news/21112025/trumps-plans-to-expand-offshore-drilling-meet-bipartisan-opposition/)
