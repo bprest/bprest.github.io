@@ -4,6 +4,7 @@ layout: default
 
 # In the News
 
+* CNBC, Garrett Downs, March 13, 2026,  ["Trump can’t ‘drill, baby, drill’ his way out of this Iran-inspired oil crisis: Experts"](https://www.cnbc.com/2026/03/13/iran-war-oil-trump-drilling.html)
 
 * E&E News, Ian M. Stevenson, February 3, 2026, ["Oil and gas revenue to fall after royalty cut, analysis says"](https://subscriber.politicopro.com/article/eenews/2026/02/03/oil-and-gas-revenue-to-fall-after-royalty-cut-analysis-says-00754010)
 
