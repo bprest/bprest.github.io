@@ -63,6 +63,8 @@ DOI: 10.1126/science.adi5943.
 
 ## Other Reports and Articles
 
+* Resources, Daniel Raimi, Alan Krupnick, and Brian C. Prest. March 17, 2026, ["IEnergy and the Iran War: What We’re Watching"](https://www.resources.org/common-resources/energy-and-the-iran-war-what-were-watching/)
+
 * Resources, Brian C. Prest. May 9, 2025, ["If/Then: New Cuts to Oil and Gas Royalty Rates in Budget Reconciliation Will Reduce Federal Revenues"](https://www.resources.org/common-resources/if-then-new-cuts-to-oil-and-gas-royalty-rates-in-budget-reconciliation-will-reduce-federal-revenues/)
 
 * RFF Report, Daniel Raimi, Yuqi Zhu, Emily Joiner, Brandon Holmes, and Brian C. Prest. April 7, 2025, ["Global Energy Outlook 2025: Headwinds and Tailwinds in the Energy Transition"](https://www.rff.org/publications/reports/global-energy-outlook-2024)
