@@ -6,6 +6,8 @@ layout: default
 
 ## Publications
 
+1. ["The energy transition for oil-and gas-producing tribal nations: assessing options for energy development with the Southern Ute Indian tribe"](https://iopscience.iop.org/article/10.1088/2753-3751/ae6598), with Daniel Raimi and Alexandra Thompson. _Environmental Research: Energy_ (2026)).
+
 1. ["Circular A-4: Practical Advances in Discounting for Policy Decisions"](https://www.journals.uchicago.edu/doi/10.1086/735539), with William A. Pizer. _Review of Environmental Economics and Policy_ 19, no. 2 (2025).
 
 1. ["Assessing the future of oil and gas production and local government revenue in five western US basins"](https://journals.sagepub.com/doi/10.1177/01956574241290609), with Daniel Raimi, Zachary Whitlock. _The Energy Journal_ (2024).
