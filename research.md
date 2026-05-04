@@ -6,7 +6,7 @@ layout: default
 
 ## Publications
 
-1. ["The energy transition for oil-and gas-producing tribal nations: assessing options for energy development with the Southern Ute Indian tribe"](https://iopscience.iop.org/article/10.1088/2753-3751/ae6598), with Daniel Raimi and Alexandra Thompson. _Environmental Research: Energy_ (2026).
+1. ["The energy transition for oil-and gas-producing tribal nations: assessing options for energy development with the Southern Ute Indian tribe"](https://iopscience.iop.org/article/10.1088/2753-3751/ae6598), with Daniel Raimi and Alexandra Thompson. _Environmental Research: Energy_ (2026). Preprint available at [RFF](https://www.rff.org/publications/working-papers/the-energy-transition-for-oil-and-gas-producing-tribal-nations-assessing-options-for-energy-development-with-the-southern-ute-indian-tribe/)
 
 1. ["Circular A-4: Practical Advances in Discounting for Policy Decisions"](https://www.journals.uchicago.edu/doi/10.1086/735539), with William A. Pizer. _Review of Environmental Economics and Policy_ 19, no. 2 (2025).
 
@@ -50,8 +50,6 @@ DOI: 10.1126/science.adi5943.
 ## Work in Progress
 
 1. ["Where Does the Marginal Methane Molecule Come From? Implications of LNG Exports for US Natural Gas Supply and Methane Emissions"](https://www.rff.org/publications/working-papers/where-does-the-marginal-methane-molecule-come-from-implications-of-lng-exports-for-us-natural-gas-supply-and-methane-emissions/).
-
-1. ["The Energy Transition for Oil- and Gas-Producing Tribal Nations: Assessing Options for Energy Development with the Southern Ute Indian Tribe"](https://www.rff.org/publications/working-papers/the-energy-transition-for-oil-and-gas-producing-tribal-nations-assessing-options-for-energy-development-with-the-southern-ute-indian-tribe/), with Daniel Raimi and Alexandra Thompson.
 
 1. ["Accounting for Biodiversity Loss Raises the Social Cost of CO<sub>2</sub>"](https://www.rff.org/publications/working-papers/accounting-for-biodiversity-loss-raises-the-social-cost-of-co2/), with Jordan Wingenroth, Lisa Rennels, Kevin Rennert, Frank Errickson, and David Anthoff.
 
