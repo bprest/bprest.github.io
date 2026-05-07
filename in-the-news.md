@@ -4,6 +4,8 @@ layout: default
 
 # In the News
 
+* USA Today, Dian Zhang and Andrea Riquier, May 6, 2026,  ["US rushes to fill global oil supply gap as exports reach record high"](https://www.usatoday.com/story/money/economy/2026/05/06/record-high-oil-exports-gas-prices/89964296007/)
+
 * CNBC, Garrett Downs, March 13, 2026,  ["Trump can’t ‘drill, baby, drill’ his way out of this Iran-inspired oil crisis: Experts"](https://www.cnbc.com/2026/03/13/iran-war-oil-trump-drilling.html)
 
 * E&E News, Ian M. Stevenson, February 3, 2026, ["Oil and gas revenue to fall after royalty cut, analysis says"](https://subscriber.politicopro.com/article/eenews/2026/02/03/oil-and-gas-revenue-to-fall-after-royalty-cut-analysis-says-00754010)
