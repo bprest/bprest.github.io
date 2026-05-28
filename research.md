@@ -6,7 +6,9 @@ layout: default
 
 ## Publications
 
-1. ["The energy transition for oil-and gas-producing tribal nations: assessing options for energy development with the Southern Ute Indian tribe"](https://iopscience.iop.org/article/10.1088/2753-3751/ae6598), with Daniel Raimi and Alexandra Thompson. _Environmental Research: Energy_ (2026). Preprint available at [RFF](https://www.rff.org/publications/working-papers/the-energy-transition-for-oil-and-gas-producing-tribal-nations-assessing-options-for-energy-development-with-the-southern-ute-indian-tribe/)
+1. ["Incorporating air quality health impacts into the social cost of carbon"](https://www.nature.com/articles/s41558-026-02653-6), with Cora Kingdon, Kevin R. Cromar, Susan C. Anenberg, Gaige Hunter Kerr, Kristine Rabii and David Anthoff _Nature Climate Change_ (2025).
+
+1. ["The energy transition for oil-and gas-producing tribal nations: assessing options for energy development with the Southern Ute Indian Tribe"](https://iopscience.iop.org/article/10.1088/2753-3751/ae6598), with Daniel Raimi and Alexandra Thompson. _Environmental Research: Energy_ (2026). Preprint available at [RFF](https://www.rff.org/publications/working-papers/the-energy-transition-for-oil-and-gas-producing-tribal-nations-assessing-options-for-energy-development-with-the-southern-ute-indian-tribe/).
 
 1. ["Circular A-4: Practical Advances in Discounting for Policy Decisions"](https://www.journals.uchicago.edu/doi/10.1086/735539), with William A. Pizer. _Review of Environmental Economics and Policy_ 19, no. 2 (2025).
 
