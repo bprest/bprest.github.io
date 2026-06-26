@@ -65,6 +65,10 @@ DOI: 10.1126/science.adi5943.
 
 ## Other Reports and Articles
 
+* Resources, Brian C. Prest and Dallas Burtraw June 22, 2026, ["Virginia's Upcoming Re-entry into the Regional Greenhouse Gas Initiative Can Reduce Household Electricity Bills"](https://www.resources.org/common-resources/virginias-upcoming-re-entry-into-the-regional-greenhouse-gas-initiative-can-reduce-household-electricity-bills/)
+
+* Resources, Brian C. Prest, Emma DeAngeli, and Dallas Burtraw June 22, 2026, ["Affordability Data Tool: Explore Virginia’s Re-entry into the Regional Greenhouse Gas Initiative"](https://www.rff.org/publications/data-tools/affordability-data-tool-explore-virginias-re-entry-into-the-regional-greenhouse-gas-initiative/)
+
 * Resources, Daniel Raimi, Alan Krupnick, and Brian C. Prest. March 17, 2026, ["Energy and the Iran War: What We’re Watching"](https://www.resources.org/common-resources/energy-and-the-iran-war-what-were-watching/)
 
 * Resources, Brian C. Prest. May 9, 2025, ["If/Then: New Cuts to Oil and Gas Royalty Rates in Budget Reconciliation Will Reduce Federal Revenues"](https://www.resources.org/common-resources/if-then-new-cuts-to-oil-and-gas-royalty-rates-in-budget-reconciliation-will-reduce-federal-revenues/)
