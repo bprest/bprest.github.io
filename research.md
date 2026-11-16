@@ -6,56 +6,56 @@ layout: default
 
 ## Publications
 
-1. ["Incorporating air quality health impacts into the social cost of carbon"](https://www.nature.com/articles/s41558-026-02653-6), with Cora Kingdon, Kevin R. Cromar, Susan C. Anenberg, Gaige Hunter Kerr, Kristine Rabii and David Anthoff. _Nature Climate Change_ (2026).
+21\. ["Incorporating air quality health impacts into the social cost of carbon"](https://www.nature.com/articles/s41558-026-02653-6), with Cora Kingdon, Kevin R. Cromar, Susan C. Anenberg, Gaige Hunter Kerr, Kristine Rabii and David Anthoff. _Nature Climate Change_ (2026).
 
-1. ["The energy transition for oil-and gas-producing tribal nations: assessing options for energy development with the Southern Ute Indian Tribe"](https://iopscience.iop.org/article/10.1088/2753-3751/ae6598), with Daniel Raimi and Alexandra Thompson. _Environmental Research: Energy_ (2026). 3 025019. Preprint available at [RFF](https://www.rff.org/publications/working-papers/the-energy-transition-for-oil-and-gas-producing-tribal-nations-assessing-options-for-energy-development-with-the-southern-ute-indian-tribe/).
+20\. ["The energy transition for oil-and gas-producing tribal nations: assessing options for energy development with the Southern Ute Indian Tribe"](https://iopscience.iop.org/article/10.1088/2753-3751/ae6598), with Daniel Raimi and Alexandra Thompson. _Environmental Research: Energy_ (2026). 3 025019. Preprint available at [RFF](https://www.rff.org/publications/working-papers/the-energy-transition-for-oil-and-gas-producing-tribal-nations-assessing-options-for-energy-development-with-the-southern-ute-indian-tribe/).
 
-1. ["Circular A-4: Practical Advances in Discounting for Policy Decisions"](https://www.journals.uchicago.edu/doi/10.1086/735539), with William A. Pizer. _Review of Environmental Economics and Policy_ 19, no. 2 (2025).
+19\. ["Circular A-4: Practical Advances in Discounting for Policy Decisions"](https://www.journals.uchicago.edu/doi/10.1086/735539), with William A. Pizer. _Review of Environmental Economics and Policy_ 19, no. 2 (2025).
 
-1. ["Assessing the future of oil and gas production and local government revenue in five western US basins"](https://journals.sagepub.com/doi/10.1177/01956574241290609), with Daniel Raimi, Zachary Whitlock. _The Energy Journal_ (2024).
+18\. ["Assessing the future of oil and gas production and local government revenue in five western US basins"](https://journals.sagepub.com/doi/10.1177/01956574241290609), with Daniel Raimi, Zachary Whitlock. _The Energy Journal_ (2024).
  
-1. ["Equity weighting increases the social cost of carbon"](https://www.science.org/doi/full/10.1126/science.adn1488), with Lisa Rennels, Frank Errickson, and David Anthoff. _Science_. Policy Forum. 385, no. 6710 (2024): 715-717.
+17\. ["Equity weighting increases the social cost of carbon"](https://www.science.org/doi/full/10.1126/science.adn1488), with Lisa Rennels, Frank Errickson, and David Anthoff. _Science_. Policy Forum. 385, no. 6710 (2024): 715-717.
 
-1. ["Estimating the Emissions Reductions from Supply-side Fossil Fuel Interventions"](https://www.sciencedirect.com/science/article/pii/S0140988324004286), with Harrison Fell, Deborah Gordon, and TJ Conway. _Energy Economics_. Vol. 136, (August 2024).
+16\. ["Estimating the Emissions Reductions from Supply-side Fossil Fuel Interventions"](https://www.sciencedirect.com/science/article/pii/S0140988324004286), with Harrison Fell, Deborah Gordon, and TJ Conway. _Energy Economics_. Vol. 136, (August 2024).
 
-1. ["The Shadow Price of Capital: Accounting for Capital Displacement in Benefit–Cost Analysis"](https://www.journals.uchicago.edu/doi/abs/10.1086/727878), with Richard Newell and Billy Pizer. _Environmental and Energy Policy and the Economy_. Vol. 5, (2024).
+15\. ["The Shadow Price of Capital: Accounting for Capital Displacement in Benefit–Cost Analysis"](https://www.journals.uchicago.edu/doi/abs/10.1086/727878), with Richard Newell and Billy Pizer. _Environmental and Energy Policy and the Economy_. Vol. 5, (2024).
  
-1. ["US benefit-cost analysis requires revision"](https://www.science.org/doi/10.1126/science.adi5943), 2023, with Peter H. Howard , Max Sarinsky, Michael Bauer, Caroline Cecot, Maureen Cropper, Moritz Drupp, Mark Freeman, Kenneth T. Gillingham, Christian Gollier, Ben Groom, Qingran Li, Michael Livermore, Richard Newell, William A. Pizer, Glenn Rudebusch, Thomas Sterner, and Gernot Wagner. May 25, (2023). _Science_. Vol 380, Issue 6647. p. 803.
+14\. ["US benefit-cost analysis requires revision"](https://www.science.org/doi/10.1126/science.adi5943), 2023, with Peter H. Howard , Max Sarinsky, Michael Bauer, Caroline Cecot, Maureen Cropper, Moritz Drupp, Mark Freeman, Kenneth T. Gillingham, Christian Gollier, Ben Groom, Qingran Li, Michael Livermore, Richard Newell, William A. Pizer, Glenn Rudebusch, Thomas Sterner, and Gernot Wagner. May 25, (2023). _Science_. Vol 380, Issue 6647. p. 803.
 DOI: 10.1126/science.adi5943.
 
-1. ["Climate Royalty Surcharges"](https://www.sciencedirect.com/science/article/pii/S0095069623000621), with James Stock. Working version available at [RFF](https://www.rff.org/publications/working-papers/climate-royalty-surcharges/). _Journal of Environmental Economics and Management_ 120 (2023): 102844.
+13\. ["Climate Royalty Surcharges"](https://www.sciencedirect.com/science/article/pii/S0095069623000621), with James Stock. Working version available at [RFF](https://www.rff.org/publications/working-papers/climate-royalty-surcharges/). _Journal of Environmental Economics and Management_ 120 (2023): 102844.
 
-1. ["RCTs Against the Machine: Can Machine Learning Prediction Methods Recover Experimental Treatment Effects?"](https://www.journals.uchicago.edu/doi/10.1086/724518), with Casey Wichman and Karen Palmer. _Journal of the Association of Environmental and Resource Economists_ 10, no. 5 (2023): 1231-1264. Preprint available at [RFF](https://www.rff.org/publications/working-papers/rcts-against-the-machine-can-machine-learning-prediction-methods-recover-experimental-treatment-effects/).
+12\. ["RCTs Against the Machine: Can Machine Learning Prediction Methods Recover Experimental Treatment Effects?"](https://www.journals.uchicago.edu/doi/10.1086/724518), with Casey Wichman and Karen Palmer. _Journal of the Association of Environmental and Resource Economists_ 10, no. 5 (2023): 1231-1264. Preprint available at [RFF](https://www.rff.org/publications/working-papers/rcts-against-the-machine-can-machine-learning-prediction-methods-recover-experimental-treatment-effects/).
 
-1. [“Comprehensive Evidence Implies a Higher Social Cost of CO<sub>2</sub>”](https://www.nature.com/articles/s41586-022-05224-9), Kevin Rennert, Frank Errickson, Brian C. Prest, Lisa Rennels, Richard G. Newell, William Pizer, Cora Kingdon, Jordan Wingenroth, Roger Cooke, Bryan Parthum, David Smith, Kevin Cromar, Delavane Diaz, Frances C. Moore, Ulrich K. Müller, Richard J. Plevin, Adrian E. Raftery, Hana Ševčíková, Hannah Sheets, James H. Stock, Tammy Tan, Mark Watson, Tony E. Wong, David Anthoff, _Nature_, (2022)
+11\. [“Comprehensive Evidence Implies a Higher Social Cost of CO<sub>2</sub>”](https://www.nature.com/articles/s41586-022-05224-9), Kevin Rennert, Frank Errickson, Brian C. Prest, Lisa Rennels, Richard G. Newell, William Pizer, Cora Kingdon, Jordan Wingenroth, Roger Cooke, Bryan Parthum, David Smith, Kevin Cromar, Delavane Diaz, Frances C. Moore, Ulrich K. Müller, Richard J. Plevin, Adrian E. Raftery, Hana Ševčíková, Hannah Sheets, James H. Stock, Tammy Tan, Mark Watson, Tony E. Wong, David Anthoff, _Nature_, (2022)
 
-1. [“A Discounting Rule for the Social Cost of Carbon”](https://www.journals.uchicago.edu/doi/10.1086/718145), with Richard Newell and Billy Pizer, _Journal of the Association of Environmental and Resource Economists_, 9 , no. 5 (September 2022): 1017-1046. Preprint available at [RFF](https://www.rff.org/publications/working-papers/a-discounting-rule-for-the-social-cost-of-carbon/).
+10\. [“A Discounting Rule for the Social Cost of Carbon”](https://www.journals.uchicago.edu/doi/10.1086/718145), with Richard Newell and Billy Pizer, _Journal of the Association of Environmental and Resource Economists_, 9 , no. 5 (September 2022): 1017-1046. Preprint available at [RFF](https://www.rff.org/publications/working-papers/a-discounting-rule-for-the-social-cost-of-carbon/).
 
-1. [“Supply-side Reforms to Oil and Gas Production on Federal Lands: Modeling the Implications for CO<sub>2</sub> Emissions, Revenues, and Leakage”](https://www.journals.uchicago.edu/doi/10.1086/718963), _Journal of the Association of Environmental and Resource Economists_, 9, no. 4 (July 2022): 681-720. Preprint available at [RFF](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/).
+9\. [“Supply-side Reforms to Oil and Gas Production on Federal Lands: Modeling the Implications for CO<sub>2</sub> Emissions, Revenues, and Leakage”](https://www.journals.uchicago.edu/doi/10.1086/718963), _Journal of the Association of Environmental and Resource Economists_, 9, no. 4 (July 2022): 681-720. Preprint available at [RFF](https://www.rff.org/publications/working-papers/supply-side-reforms-oil-and-gas-production-federal-lands/).
 
-1. [“The Social Cost of Carbon: Advances in Long-Term Probabilistic Projections of Population, GDP, Emissions, and Discount Rates“](https://www.brookings.edu/bpea-articles/the-social-cost-of-carbon/), with K. Rennert, W. Pizer, R. Newell, D. Anthoff, C. Kingdon, L. Rennels, R. Cooke, A. Raftery, H. Sevcikova, and F. Errickson, _Brookings Papers on Economic Activity_, (2021). Preprint available at [RFF](https://www.rff.org/publications/working-papers/the-social-cost-of-carbon-advances-in-long-term-probabilistic-projections-of-population-gdp-emissions-and-discount-rates/).
+8\. [“The Social Cost of Carbon: Advances in Long-Term Probabilistic Projections of Population, GDP, Emissions, and Discount Rates“](https://www.brookings.edu/bpea-articles/the-social-cost-of-carbon/), with K. Rennert, W. Pizer, R. Newell, D. Anthoff, C. Kingdon, L. Rennels, R. Cooke, A. Raftery, H. Sevcikova, and F. Errickson, _Brookings Papers on Economic Activity_, (2021). Preprint available at [RFF](https://www.rff.org/publications/working-papers/the-social-cost-of-carbon-advances-in-long-term-probabilistic-projections-of-population-gdp-emissions-and-discount-rates/).
 
-1. [“The GDP-Temperature Relationship: Implications for Climate Change Damages”](https://www.sciencedirect.com/science/article/abs/pii/S0095069621000280), with Richard Newell and Steven Sexton, _Journal of Environmental Economics and Management_, 108, (July 2021), 102445. Working paper available at [RFF](https://www.rff.org/publications/working-papers/the-gdp-temperature-relationship-implications-for-climate-change-damages/).
+7\. [“The GDP-Temperature Relationship: Implications for Climate Change Damages”](https://www.sciencedirect.com/science/article/abs/pii/S0095069621000280), with Richard Newell and Steven Sexton, _Journal of Environmental Economics and Management_, 108, (July 2021), 102445. Working paper available at [RFF](https://www.rff.org/publications/working-papers/the-gdp-temperature-relationship-implications-for-climate-change-damages/).
 
-1. [“How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”](https://www.sciencedirect.com/science/article/pii/S0140988320303637), with Alan Krupnick, _Energy Economics_, 97, (May 2021), 105023. Working paper available at [RFF](https://www.rff.org/publications/reports/how-clean-is-refined-coal/).
+\6. [“How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”](https://www.sciencedirect.com/science/article/pii/S0140988320303637), with Alan Krupnick, _Energy Economics_, 97, (May 2021), 105023. Working paper available at [RFF](https://www.rff.org/publications/reports/how-clean-is-refined-coal/).
 
-1. [“Prices versus Quantities with Policy Updating”](https://www.journals.uchicago.edu/doi/abs/10.1086/707142), with Billy Pizer.  _Journal of the Association of Environmental and Resource Economists_, 7, no. 3 (May 2020): 483-518.
+5\. [“Prices versus Quantities with Policy Updating”](https://www.journals.uchicago.edu/doi/abs/10.1086/707142), with Billy Pizer.  _Journal of the Association of Environmental and Resource Economists_, 7, no. 3 (May 2020): 483-518.
 
-1. [“Peaking Interest: How awareness drives the effectiveness of time-of-use electricity pricing”](https://www.journals.uchicago.edu/doi/abs/10.1086/705798),  _Journal of the Association of Environmental and Resource Economists_, 7, no. 1 (January 2020): 103-143.
+4\. [“Peaking Interest: How awareness drives the effectiveness of time-of-use electricity pricing”](https://www.journals.uchicago.edu/doi/abs/10.1086/705798),  _Journal of the Association of Environmental and Resource Economists_, 7, no. 1 (January 2020): 103-143.
 
-1. [“Trophy Hunting vs. Manufacturing Energy: The Price-Responsiveness of Shale Gas”](https://www.journals.uchicago.edu/doi/full/10.1086/701531), with Richard Newell & Ashley Vissing. _Journal of the Association of Environmental and Resource Economists_, 6, no. 2 (March 2019): 177-217.
+3\. [“Trophy Hunting vs. Manufacturing Energy: The Price-Responsiveness of Shale Gas”](https://www.journals.uchicago.edu/doi/full/10.1086/701531), with Richard Newell & Ashley Vissing. _Journal of the Association of Environmental and Resource Economists_, 6, no. 2 (March 2019): 177-217.
  
-1. [“The Unconventional Oil Supply Boom: Aggregate Price Response from Microdata”](https://www.iaee.org/energyjournal/article/3350), with Richard Newell. _The Energy Journal_, 40, no. 3 (May 2019).
+2\. [“The Unconventional Oil Supply Boom: Aggregate Price Response from Microdata”](https://www.iaee.org/energyjournal/article/3350), with Richard Newell. _The Energy Journal_, 40, no. 3 (May 2019).
 
-1. [“Explanations for the 2014 Oil Price Decline: Supply or Demand?”](https://www.sciencedirect.com/science/article/pii/S0140988318302020), _Energy Economics_, 74 (August 2018): 63-75.
+1\. [“Explanations for the 2014 Oil Price Decline: Supply or Demand?”](https://www.sciencedirect.com/science/article/pii/S0140988318302020), _Energy Economics_, 74 (August 2018): 63-75.
 
 ## Work in Progress
 
 1. ["Where Does the Marginal Methane Molecule Come From? Implications of LNG Exports for US Natural Gas Supply and Methane Emissions"](https://www.rff.org/publications/working-papers/where-does-the-marginal-methane-molecule-come-from-implications-of-lng-exports-for-us-natural-gas-supply-and-methane-emissions/).
 
-2\. ["Accounting for Biodiversity Loss Raises the Social Cost of CO<sub>2</sub>"](https://www.rff.org/publications/working-papers/accounting-for-biodiversity-loss-raises-the-social-cost-of-co2/), with Jordan Wingenroth, Lisa Rennels, Kevin Rennert, Frank Errickson, and David Anthoff.
+2. ["Accounting for Biodiversity Loss Raises the Social Cost of CO<sub>2</sub>"](https://www.rff.org/publications/working-papers/accounting-for-biodiversity-loss-raises-the-social-cost-of-co2/), with Jordan Wingenroth, Lisa Rennels, Kevin Rennert, Frank Errickson, and David Anthoff.
 
-1\. ["Disentangling the Roles of Growth Uncertainty, Discounting, and the Climate Beta on the Social Cost of Carbon"](https://www.rff.org/publications/working-papers/disentangling-the-roles-of-growth-uncertainty-discounting-and-the-climate-beta-on-the-social-cost-of-carbon/).
+1. ["Disentangling the Roles of Growth Uncertainty, Discounting, and the Climate Beta on the Social Cost of Carbon"](https://www.rff.org/publications/working-papers/disentangling-the-roles-of-growth-uncertainty-discounting-and-the-climate-beta-on-the-social-cost-of-carbon/).
 
 <!-- 
 
