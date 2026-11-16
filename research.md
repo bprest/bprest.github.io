@@ -65,90 +65,98 @@ DOI: 10.1126/science.adi5943.
 
 ## Other Reports and Articles
 
-* Resources, Brian C. Prest and Dallas Burtraw June 22, 2026, ["Virginia's Upcoming Re-entry into the Regional Greenhouse Gas Initiative Can Reduce Household Electricity Bills"](https://www.resources.org/common-resources/virginias-upcoming-re-entry-into-the-regional-greenhouse-gas-initiative-can-reduce-household-electricity-bills/)
+\NewEntry{}{\hspace{-7em}{The View from the Top: Economic Perspectives on Environmental Pressures in a Shrinking World}}
 
-* Resources, Brian C. Prest, Emma DeAngeli, and Dallas Burtraw June 22, 2026, ["Affordability Data Tool: Explore Virginia’s Re-entry into the Regional Greenhouse Gas Initiative"](https://www.rff.org/publications/data-tools/affordability-data-tool-explore-virginias-re-entry-into-the-regional-greenhouse-gas-initiative/)
+\Description{Yusuke Kuwayama, \textbf{Brian C. Prest}, and Ethan Ziegler.  \href{}{RFF Report.}}\vspace{-0.5em}
 
-* Resources, Daniel Raimi, Alan Krupnick, and Brian C. Prest. March 17, 2026, ["Energy and the Iran War: What We’re Watching"](https://www.resources.org/common-resources/energy-and-the-iran-war-what-were-watching/)
+* RFF Report. Yusuke Kuwayama, Brian C. Prest, and Ethan Ziegler. Published on ["Doomsday", Friday, November 13, A.D.](https://www.science.org/doi/10.1126/science.132.3436.1291) 2026, ["Adopting the Social Cost of Carbon for State Benefit-Cost Analysis: A Primer for Practitioners"](https://www.rff.org/publications/reports/the-view-from-the-top-economic-perspectives-on-environmental-pressures-in-a-shrinking-world/)
 
-* Resources, Brian C. Prest. May 9, 2025, ["If/Then: New Cuts to Oil and Gas Royalty Rates in Budget Reconciliation Will Reduce Federal Revenues"](https://www.resources.org/common-resources/if-then-new-cuts-to-oil-and-gas-royalty-rates-in-budget-reconciliation-will-reduce-federal-revenues/)
+* RFF Report. Brian C. Prest. August 13, 2026, ["Adopting the Social Cost of Carbon for State Benefit-Cost Analysis: A Primer for Practitioners"](https://www.rff.org/publications/reports/adopting-the-social-cost-of-carbon-for-state-benefit-cost-analysis-a-primer-for-practitioners/)
 
-* RFF Report, Daniel Raimi, Yuqi Zhu, Emily Joiner, Brandon Holmes, and Brian C. Prest. April 7, 2025, ["Global Energy Outlook 2025: Headwinds and Tailwinds in the Energy Transition"](https://www.rff.org/publications/reports/global-energy-outlook-2024)
+* Resources. Brian C. Prest and Dallas Burtraw. June 22, 2026, ["Virginia's Upcoming Re-entry into the Regional Greenhouse Gas Initiative Can Reduce Household Electricity Bills"](https://www.resources.org/common-resources/virginias-upcoming-re-entry-into-the-regional-greenhouse-gas-initiative-can-reduce-household-electricity-bills/)
 
-* RFF Issue Brief, Brian C. Prest, Alan Krupnick, and Jordan Wingenroth, March 4, 2025, ["Unpacking the Department of Energy’s Report on US Liquefied Natural Gas Exports"](https://www.rff.org/publications/issue-briefs/unpacking-the-department-of-energys-report-on-us-liquefied-natural-gas-exports/)
+* Resources,.Brian C. Prest, Emma DeAngeli, and Dallas Burtraw. June 22, 2026, ["Affordability Data Tool: Explore Virginia’s Re-entry into the Regional Greenhouse Gas Initiative"](https://www.rff.org/publications/data-tools/affordability-data-tool-explore-virginias-re-entry-into-the-regional-greenhouse-gas-initiative/)
 
-* Resources Blog, Brian C. Prest and Kevin Rennert, February 18, 2025, ["When Put to the Test, Higher Social Cost of Carbon Stands Firm"](https://www.resources.org/common-resources/when-put-to-the-test-higher-social-cost-of-carbon-stands-firm/)
+* Resources. Daniel Raimi, Alan Krupnick, and Brian C. Prest. March 17, 2026, ["Energy and the Iran War: What We’re Watching"](https://www.resources.org/common-resources/energy-and-the-iran-war-what-were-watching/)
 
-* RFF Issue Brief, Brian C. Prest, September 5, 2024, ["How Much Would Expanding Federal Oil and Gas Leasing Increase Global Carbon Emissions?"](https://www.rff.org/publications/issue-briefs/federal-permitting-reform-expand-oil-and-gas-leasing-carbon-emissions/)
+* Resources. Brian C. Prest. May 9, 2025, ["If/Then: New Cuts to Oil and Gas Royalty Rates in Budget Reconciliation Will Reduce Federal Revenues"](https://www.resources.org/common-resources/if-then-new-cuts-to-oil-and-gas-royalty-rates-in-budget-reconciliation-will-reduce-federal-revenues/)
 
-* Resources Blog, Daniel Raimi, Alan Krupnick, Joshua Linn, Richard D. Morgenstern, William Pizer, Brian C. Prest, and Suzanne Russo, April 18, 2024, ["After the Pause: Understanding the Economic, Environmental, and Geopolitical Implications of Increased US Liquefied Natural Gas Exports"](https://www.resources.org/common-resources/after-the-pause-understanding-the-economic-environmental-and-geopolitical-implications-of-increased-us-liquefied-natural-gas-exports/)
+* RFF Report. Daniel Raimi, Yuqi Zhu, Emily Joiner, Brandon Holmes, and Brian C. Prest. April 7, 2025, ["Global Energy Outlook 2025: Headwinds and Tailwinds in the Energy Transition"](https://www.rff.org/publications/reports/global-energy-outlook-2024)
 
-* RFF Report, Daniel Raimi, Yuqi Zhu, Richard Newell, and Brian Prest. April 2, 2024, ["Global Energy Outlook 2024: Peaks or Plateaus?"](https://www.rff.org/publications/reports/global-energy-outlook-2024)
+* RFF Issue Brief. Brian C. Prest, Alan Krupnick, and Jordan Wingenroth. March 4, 2025, ["Unpacking the Department of Energy’s Report on US Liquefied Natural Gas Exports"](https://www.rff.org/publications/issue-briefs/unpacking-the-department-of-energys-report-on-us-liquefied-natural-gas-exports/)
+
+* Resources Blog. Brian C. Prest and Kevin Rennert. February 18, 2025, ["When Put to the Test, Higher Social Cost of Carbon Stands Firm"](https://www.resources.org/common-resources/when-put-to-the-test-higher-social-cost-of-carbon-stands-firm/)
+
+* RFF Issue Brief. Brian C. Prest. September 5, 2024, ["How Much Would Expanding Federal Oil and Gas Leasing Increase Global Carbon Emissions?"](https://www.rff.org/publications/issue-briefs/federal-permitting-reform-expand-oil-and-gas-leasing-carbon-emissions/)
+
+* Resources Blog. Daniel Raimi, Alan Krupnick, Joshua Linn, Richard D. Morgenstern, William Pizer, Brian C. Prest, and Suzanne Russo. April 18, 2024, ["After the Pause: Understanding the Economic, Environmental, and Geopolitical Implications of Increased US Liquefied Natural Gas Exports"](https://www.resources.org/common-resources/after-the-pause-understanding-the-economic-environmental-and-geopolitical-implications-of-increased-us-liquefied-natural-gas-exports/)
+
+* RFF Report. Daniel Raimi, Yuqi Zhu, Richard Newell, and Brian Prest. April 2, 2024, ["Global Energy Outlook 2024: Peaks or Plateaus?"](https://www.rff.org/publications/reports/global-energy-outlook-2024)
  
-* Resources Blog, Brian Prest, March 2024, ["Feedbacks between Emissions Markets and Political Outcomes: A Case Study of Washington State’s Cap-and-Trade Program"](https://www.resources.org/common-resources/feedbacks-between-emissions-markets-and-political-outcomes-a-case-study-of-washington-states-cap-and-trade-program/)
+* Resources Blog. Brian Prest. March 2024, ["Feedbacks between Emissions Markets and Political Outcomes: A Case Study of Washington State’s Cap-and-Trade Program"](https://www.resources.org/common-resources/feedbacks-between-emissions-markets-and-political-outcomes-a-case-study-of-washington-states-cap-and-trade-program/)
 
-* RFF Report, Brian Prest and Jordan Wingenroth, March 2024, ["Operational versus Capital Expenditure Risk in a Clean Energy Transition"](https://www.rff.org/publications/reports/operational-versus-capital-expenditure-risk-in-a-clean-energy-transition/)
+* RFF Report. Brian Prest and Jordan Wingenroth. March 2024, ["Operational versus Capital Expenditure Risk in a Clean Energy Transition"](https://www.rff.org/publications/reports/operational-versus-capital-expenditure-risk-in-a-clean-energy-transition/)
 
-* Resources Blog, Brian Prest, February 2024, ["Accurately Quantifying “Super-Emitting” Leaks Is Key for the Methane Fee to Be Effective"](https://www.resources.org/common-resources/accurately-quantifying-super-emitting-leaks-is-key-for-the-methane-fee-to-be-effective/)
+* Resources Blog. Brian Prest. February 2024, ["Accurately Quantifying “Super-Emitting” Leaks Is Key for the Methane Fee to Be Effective"](https://www.resources.org/common-resources/accurately-quantifying-super-emitting-leaks-is-key-for-the-methane-fee-to-be-effective/)
 
-* RFF Issue Brief, Jordan Wingenroth, Brian Prest, and Kevin Rennert. October 2023, ["The Economic Benefits of Achieving the Paris Agreement Goals"](https://www.rff.org/publications/issue-briefs/the-economic-benefits-of-achieving-the-paris-agreement-goals/)
+* RFF Issue Brief. Jordan Wingenroth, Brian Prest. and Kevin Rennert. October 2023, ["The Economic Benefits of Achieving the Paris Agreement Goals"](https://www.rff.org/publications/issue-briefs/the-economic-benefits-of-achieving-the-paris-agreement-goals/)
 
-* RFF Issue Brief, Jordan Wingenroth, Brian Prest, and Kevin Rennert. March 2023, ["Will Nations Meet the Paris Agreement’s Emissions and Temperature Goals?"](https://www.rff.org/publications/issue-briefs/will-nations-meet-the-paris-agreements-emissions-and-temperature-goals/)
+* RFF Issue Brief. Jordan Wingenroth, Brian Prest, and Kevin Rennert. March 2023, ["Will Nations Meet the Paris Agreement’s Emissions and Temperature Goals?"](https://www.rff.org/publications/issue-briefs/will-nations-meet-the-paris-agreements-emissions-and-temperature-goals/)
 
-* RFF Report, Daniel Raimi, Yuqi Zhu, Richard Newell, Brian Prest, and Aaron Bergman. March 28, 2023, ["Global Energy Outlook 2023: Sowing the Seeds of an Energy Transition"](https://www.rff.org/publications/reports/global-energy-outlook-2023/)
+* RFF Report,.Daniel Raimi, Yuqi Zhu, Richard Newell, Brian Prest, and Aaron Bergman. March 28, 2023, ["Global Energy Outlook 2023: Sowing the Seeds of an Energy Transition"](https://www.rff.org/publications/reports/global-energy-outlook-2023/)
 
-* _Resources Magazine_, Aaron Bergman, Brian C. Prest, and Karen Palmer. October 2022, ["How Can Hydrogen Producers Show That They Are “Clean”?"](https://www.resources.org/common-resources/how-can-hydrogen-producers-show-that-they-are-clean/)
+* _Resources Magazine_. Aaron Bergman, Brian C. Prest, and Karen Palmer. October 2022, ["How Can Hydrogen Producers Show That They Are “Clean”?"](https://www.resources.org/common-resources/how-can-hydrogen-producers-show-that-they-are-clean/)
 
-* Barron's, Commentary, by Maureen Cropper, Richard Newell, Brian Prest, and Kevin Rennert. September 8, 2022, ["The Damage from Carbon Is More Costly Than We Thought"](https://www.barrons.com/articles/carbon-emissions-climate-change-economic-cost-51662649886)
+* Barron's Commentary. Maureen Cropper, Richard Newell, Brian Prest, and Kevin Rennert. September 8, 2022, ["The Damage from Carbon Is More Costly Than We Thought"](https://www.barrons.com/articles/carbon-emissions-climate-change-economic-cost-51662649886)
 
 * _Resources Magazine_, by Brian C. Prest, Jordan Wingenroth, and Kevin Rennert. September 1, 2022, ["The Social Cost of Carbon: Reaching a New Estimate"](https://www.resources.org/archives/the-social-cost-of-carbon-reaching-a-new-estimate/)
 
-* RFF Blog, August 15, 2022, ["Inflation Reduction Act Can Achieve Emissions Reductions Even with Oil and Gas Provisions"](https://www.resources.org/common-resources/inflation-reduction-act-can-achieve-emissions-reductions-even-with-oil-and-gas-provisions/)
+* RFF Blog. Brian C. Prest. August 15, 2022, ["Inflation Reduction Act Can Achieve Emissions Reductions Even with Oil and Gas Provisions"](https://www.resources.org/common-resources/inflation-reduction-act-can-achieve-emissions-reductions-even-with-oil-and-gas-provisions/)
 
-* RFF Report, with Karen Palmer, Brian Prest, Seth Villanueva, and Stuart Iler. August 11, 2022, ["Options for EIA to Publish CO<sub>2</sub> Emissions Rates for Electricity"](https://www.rff.org/publications/reports/options-for-eia-to-publish-co2-emissions-rates-for-electricity/)
+* RFF Report. with Karen Palmer, Brian Prest, Seth Villanueva, and Stuart Iler. August 11, 2022, ["Options for EIA to Publish CO<sub>2</sub> Emissions Rates for Electricity"](https://www.rff.org/publications/reports/options-for-eia-to-publish-co2-emissions-rates-for-electricity/)
 
-* RFF Report, April 21, 2022, ["Partners, Not Rivals: The Power of Parallel Supply-Side and Demand-Side Climate Policy"](https://www.rff.org/publications/reports/partners-not-rivals-the-power-of-parallel-supply-side-and-demand-side-climate-policy/)
+* RFF Report. Brian C. Prest. April 21, 2022, ["Partners, Not Rivals: The Power of Parallel Supply-Side and Demand-Side Climate Policy"](https://www.rff.org/publications/reports/partners-not-rivals-the-power-of-parallel-supply-side-and-demand-side-climate-policy/)
 
-* RFF Report, with Daniel Raimi, Erin Campbell, Richard Newell, Seth Villanueva, and Jordan Wingenroth, April 7, 2022, ["Global Energy Outlook 2022: Turning Points and Tension in the Energy Transition"](https://www.rff.org/publications/reports/global-energy-outlook-2022/)
+* RFF Report. with Daniel Raimi, Erin Campbell, Richard Newell, Seth Villanueva, and Jordan Wingenroth. April 7, 2022, ["Global Energy Outlook 2022: Turning Points and Tension in the Energy Transition"](https://www.rff.org/publications/reports/global-energy-outlook-2022/)
 
-* _Resources Magazine_, K. Rennert, W. Pizer, R. Newell, D. Anthoff, C. Kingdon, L. Rennels, R. Cooke, A. Raftery, H. Sevcikova, F. Errickson, and J. Wingenroth. October 21, 2021, ["Working Toward a New Social Cost of Carbon"](https://www.resources.org/archives/working-toward-a-new-social-cost-of-carbon/)
+* _Resources Magazine_. K. Rennert, W. Pizer, R. Newell, D. Anthoff, C. Kingdon, L. Rennels, R. Cooke, A. Raftery, H. Sevcikova, F. Errickson, and J. Wingenroth. October 21, 2021, ["Working Toward a New Social Cost of Carbon"](https://www.resources.org/archives/working-toward-a-new-social-cost-of-carbon/)
 
-* _Resources Magazine_, Brian C. Prest, William Pizer, and Richard G. Newell. October 21, 2021, ["Improving Discounting in the Social Cost of Carbon"](https://www.resources.org/archives/improving-discounting-in-the-social-cost-of-carbon/)
+* _Resources Magazine_. Brian C. Prest, William Pizer, and Richard G. Newell. October 21, 2021, ["Improving Discounting in the Social Cost of Carbon"](https://www.resources.org/archives/improving-discounting-in-the-social-cost-of-carbon/)
 
-* RFF Issue Brief, September 9, 2021, ["Methane Fees' Effects on Natural Gas Prices and Methane Leakage"](https://www.rff.org/publications/issue-briefs/methane-fees-effects-on-natural-gas-prices-and-methane-leakage/)
+* RFF Issue Brief. Brian C. Prest. September 9, 2021, ["Methane Fees' Effects on Natural Gas Prices and Methane Leakage"](https://www.rff.org/publications/issue-briefs/methane-fees-effects-on-natural-gas-prices-and-methane-leakage/)
  
-* RFF Report, with Richard Newell, Daniel Raimi, and Seth Villanueva, June 8, 2021, ["The Global Energy Outlook 2021: Pathways from Paris"](https://www.rff.org/publications/reports/global-energy-outlook-2021-pathways-from-paris/)
+* RFF Report. with Richard Newell, Daniel Raimi, and Seth Villanueva. June 8, 2021, ["The Global Energy Outlook 2021: Pathways from Paris"](https://www.rff.org/publications/reports/global-energy-outlook-2021-pathways-from-paris/)
 
-* RFF Explainer, April 21, 2021, ["Federal Climate Policy 108: The Oil and Gas Industry"](https://www.rff.org/publications/explainers/federal-climate-policy-108-the-oil-and-gas-industry/)
+* RFF Explainer. Brian C. Prest. April 21, 2021, ["Federal Climate Policy 108: The Oil and Gas Industry"](https://www.rff.org/publications/explainers/federal-climate-policy-108-the-oil-and-gas-industry/)
 
 * RFF Report, with Dallas Burtraw and Karen Palmer, April 13, 2021, ["Waiting for Clarity: How a Price on Carbon Can Inspire Investment"](https://www.rff.org/publications/reports/waiting-for-clarity-how-a-price-on-carbon-can-inspire-investment/)
 
-* RFF Blog, October 1, 2020, ["Examining the Effects of a Federal Leasing Ban: Drilling into an Industry Study
+* RFF Blog. Brian C. Prest. October 1, 2020, ["Examining the Effects of a Federal Leasing Ban: Drilling into an Industry Study
 "](https://www.resourcesmag.org/common-resources/examining-effects-federal-leasing-ban-drilling-industry-study/)
 
-* _Resources Magazine_, December 21, 2020, ["Policy Options for Oil and Gas Leasing Reform on Federal Lands and Waters"](https://www.resourcesmag.org/archives/policy-options-oil-and-gas-leasing-reform-federal-lands-and-waters/)
+* _Resources Magazine_. Brian C. Prest. December 21, 2020, ["Policy Options for Oil and Gas Leasing Reform on Federal Lands and Waters"](https://www.resourcesmag.org/archives/policy-options-oil-and-gas-leasing-reform-federal-lands-and-waters/)
 
-* RFF Blog, October 1, 2020, ["Examining the Effects of a Federal Leasing Ban: Drilling into an Industry Study"](https://www.resourcesmag.org/common-resources/examining-effects-federal-leasing-ban-drilling-industry-study/)
+* RFF Blog. Brian C. Prest. October 1, 2020, ["Examining the Effects of a Federal Leasing Ban: Drilling into an Industry Study"](https://www.resourcesmag.org/common-resources/examining-effects-federal-leasing-ban-drilling-industry-study/)
 
-* RFF Blog, September 16, 2020, ["The Economic and Emissions Consequences of Supply-Side Reforms to Oil and Gas Production on Federal Lands"](https://www.resourcesmag.org/common-resources/economic-and-emissions-consequences-supply-side-reforms-oil-and-gas-production-federal-lands)
+* RFF Blog. Brian C. Prest. September 16, 2020, ["The Economic and Emissions Consequences of Supply-Side Reforms to Oil and Gas Production on Federal Lands"](https://www.resourcesmag.org/common-resources/economic-and-emissions-consequences-supply-side-reforms-oil-and-gas-production-federal-lands)
 
-* RFF Report, with Richard Newell, Daniel Raimi, and Seth Villanueva, May 20, 2020, ["The Global Energy Outlook 2020: Energy Transition or Energy Addition?"](https://www.rff.org/publications/reports/global-energy-outlook-2020/)
+* RFF Report. with Richard Newell, Daniel Raimi, and Seth Villanueva, May 20, 2020, ["The Global Energy Outlook 2020: Energy Transition or Energy Addition?"](https://www.rff.org/publications/reports/global-energy-outlook-2020/)
 
-* RFF Blog, with Alan Krupnick, March 2, 2020, ["'Refined Coal' is Still No Bargain"](https://www.resourcesmag.org/common-resources/refined-coal-is-still-no-bargain/)
+* RFF Blog. with Alan Krupnick, March 2, 2020, ["'Refined Coal' is Still No Bargain"](https://www.resourcesmag.org/common-resources/refined-coal-is-still-no-bargain/)
 
-* RFF Explainer, January 16, 2020, ["Discounting 101"](https://www.rff.org/publications/explainers/discounting-101/)
+* RFF Explainer. January 16, 2020, ["Discounting 101"](https://www.rff.org/publications/explainers/discounting-101/)
 
 * Resources Magazine, October 9, 2019, ["How Clean is 'Refined Coal'? The billion-dollar subsidy you've never heard of"](https://www.resourcesmag.org/archives/how-clean-is-refined-coal/)
 
-* RFF Blog, with Karen L. Palmer, June 7, 2018, ["A Strategic Electricity Generating Reserve: Not Enticing Enough to Add to the Menu"](http://www.rff.org/blog/2018/strategic-electricity-generating-reserve-not-enticing-enough-add-menu)
+* RFF Blog. with Karen L. Palmer, June 7, 2018, ["A Strategic Electricity Generating Reserve: Not Enticing Enough to Add to the Menu"](http://www.rff.org/blog/2018/strategic-electricity-generating-reserve-not-enticing-enough-add-menu)
 
 * Contributing author, ["Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) Global Assessment Report on Biodiversity and Ecosystem Services"](https://ipbes.net/global-assessment). 2019.
 
-* RFF Issue Brief, November 29, 2017, ["How the Shale Boom Has Transformed the US Oil and Gas Industry"](https://www.rff.org/publications/issue-briefs/how-the-shale-boom-has-transformed-the-us-oil-and-gas-industry/)
+* RFF Issue Brief. November 29, 2017, ["How the Shale Boom Has Transformed the US Oil and Gas Industry"](https://www.rff.org/publications/issue-briefs/how-the-shale-boom-has-transformed-the-us-oil-and-gas-industry/)
 
-* Congressional Budget Office report, with Terry Dinan, 2011, ["The Effects of Renewable or Clean Electricity Standards"](http://www.cbo.gov/sites/default/files/cbofiles/ftpdocs/121xx/doc12166/07-26-energy.pdf)
+* Congressional Budget Office report. with Terry Dinan, 2011, ["The Effects of Renewable or Clean Electricity Standards"](http://www.cbo.gov/sites/default/files/cbofiles/ftpdocs/121xx/doc12166/07-26-energy.pdf)
 
-* Congressional Budget Office report, with Paige Piper-Bach, 2010, ["Immigration Policy in the United States: An Update"](http://www.cbo.gov/sites/default/files/cbofiles/ftpdocs/119xx/doc11959/12-03-immigration_chartbook.pdf)
+* Congressional Budget Office report. with Paige Piper-Bach, 2010, ["Immigration Policy in the United States: An Update"](http://www.cbo.gov/sites/default/files/cbofiles/ftpdocs/119xx/doc11959/12-03-immigration_chartbook.pdf)
 
 
 [back](./)
