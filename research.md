@@ -53,9 +53,9 @@ DOI: 10.1126/science.adi5943.
 
 1. ["Where Does the Marginal Methane Molecule Come From? Implications of LNG Exports for US Natural Gas Supply and Methane Emissions"](https://www.rff.org/publications/working-papers/where-does-the-marginal-methane-molecule-come-from-implications-of-lng-exports-for-us-natural-gas-supply-and-methane-emissions/).
 
-1. ["Accounting for Biodiversity Loss Raises the Social Cost of CO<sub>2</sub>"](https://www.rff.org/publications/working-papers/accounting-for-biodiversity-loss-raises-the-social-cost-of-co2/), with Jordan Wingenroth, Lisa Rennels, Kevin Rennert, Frank Errickson, and David Anthoff.
+2\. ["Accounting for Biodiversity Loss Raises the Social Cost of CO<sub>2</sub>"](https://www.rff.org/publications/working-papers/accounting-for-biodiversity-loss-raises-the-social-cost-of-co2/), with Jordan Wingenroth, Lisa Rennels, Kevin Rennert, Frank Errickson, and David Anthoff.
 
-1. ["Disentangling the Roles of Growth Uncertainty, Discounting, and the Climate Beta on the Social Cost of Carbon"](https://www.rff.org/publications/working-papers/disentangling-the-roles-of-growth-uncertainty-discounting-and-the-climate-beta-on-the-social-cost-of-carbon/).
+1\. ["Disentangling the Roles of Growth Uncertainty, Discounting, and the Climate Beta on the Social Cost of Carbon"](https://www.rff.org/publications/working-papers/disentangling-the-roles-of-growth-uncertainty-discounting-and-the-climate-beta-on-the-social-cost-of-carbon/).
 
 <!-- 
 
@@ -65,11 +65,7 @@ DOI: 10.1126/science.adi5943.
 
 ## Other Reports and Articles
 
-\NewEntry{}{\hspace{-7em}{The View from the Top: Economic Perspectives on Environmental Pressures in a Shrinking World}}
-
-\Description{Yusuke Kuwayama, \textbf{Brian C. Prest}, and Ethan Ziegler.  \href{}{RFF Report.}}\vspace{-0.5em}
-
-* RFF Report. Yusuke Kuwayama, Brian C. Prest, and Ethan Ziegler. Published on ["Doomsday", Friday, November 13, A.D.](https://www.science.org/doi/10.1126/science.132.3436.1291) 2026, ["Adopting the Social Cost of Carbon for State Benefit-Cost Analysis: A Primer for Practitioners"](https://www.rff.org/publications/reports/the-view-from-the-top-economic-perspectives-on-environmental-pressures-in-a-shrinking-world/)
+* RFF Report. Yusuke Kuwayama, Brian C. Prest, and Ethan Ziegler. [Published on "Doomsday", Friday, November 13, A.D.](https://www.science.org/doi/10.1126/science.132.3436.1291) 2026, ["The View from the Top: Economic Perspectives on Environmental Pressures in a Shrinking World"](https://www.rff.org/publications/reports/the-view-from-the-top-economic-perspectives-on-environmental-pressures-in-a-shrinking-world/)
 
 * RFF Report. Brian C. Prest. August 13, 2026, ["Adopting the Social Cost of Carbon for State Benefit-Cost Analysis: A Primer for Practitioners"](https://www.rff.org/publications/reports/adopting-the-social-cost-of-carbon-for-state-benefit-cost-analysis-a-primer-for-practitioners/)
 
