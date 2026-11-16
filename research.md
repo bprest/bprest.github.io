@@ -37,7 +37,7 @@ DOI: 10.1126/science.adi5943.
 
 7\. [“The GDP-Temperature Relationship: Implications for Climate Change Damages”](https://www.sciencedirect.com/science/article/abs/pii/S0095069621000280), with Richard Newell and Steven Sexton, _Journal of Environmental Economics and Management_, 108, (July 2021), 102445. Working paper available at [RFF](https://www.rff.org/publications/working-papers/the-gdp-temperature-relationship-implications-for-climate-change-damages/).
 
-\6. [“How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”](https://www.sciencedirect.com/science/article/pii/S0140988320303637), with Alan Krupnick, _Energy Economics_, 97, (May 2021), 105023. Working paper available at [RFF](https://www.rff.org/publications/reports/how-clean-is-refined-coal/).
+6\. [“How Clean is ‘Refined Coal’? An Empirical Assessment of a Billion Dollar Tax Credit”](https://www.sciencedirect.com/science/article/pii/S0140988320303637), with Alan Krupnick, _Energy Economics_, 97, (May 2021), 105023. Working paper available at [RFF](https://www.rff.org/publications/reports/how-clean-is-refined-coal/).
 
 5\. [“Prices versus Quantities with Policy Updating”](https://www.journals.uchicago.edu/doi/abs/10.1086/707142), with Billy Pizer.  _Journal of the Association of Environmental and Resource Economists_, 7, no. 3 (May 2020): 483-518.
 
@@ -51,11 +51,11 @@ DOI: 10.1126/science.adi5943.
 
 ## Work in Progress
 
-1. ["Where Does the Marginal Methane Molecule Come From? Implications of LNG Exports for US Natural Gas Supply and Methane Emissions"](https://www.rff.org/publications/working-papers/where-does-the-marginal-methane-molecule-come-from-implications-of-lng-exports-for-us-natural-gas-supply-and-methane-emissions/).
+1\. ["Where Does the Marginal Methane Molecule Come From? Implications of LNG Exports for US Natural Gas Supply and Methane Emissions"](https://www.rff.org/publications/working-papers/where-does-the-marginal-methane-molecule-come-from-implications-of-lng-exports-for-us-natural-gas-supply-and-methane-emissions/).
 
-2. ["Accounting for Biodiversity Loss Raises the Social Cost of CO<sub>2</sub>"](https://www.rff.org/publications/working-papers/accounting-for-biodiversity-loss-raises-the-social-cost-of-co2/), with Jordan Wingenroth, Lisa Rennels, Kevin Rennert, Frank Errickson, and David Anthoff.
+2\. ["Accounting for Biodiversity Loss Raises the Social Cost of CO<sub>2</sub>"](https://www.rff.org/publications/working-papers/accounting-for-biodiversity-loss-raises-the-social-cost-of-co2/), with Jordan Wingenroth, Lisa Rennels, Kevin Rennert, Frank Errickson, and David Anthoff.
 
-1. ["Disentangling the Roles of Growth Uncertainty, Discounting, and the Climate Beta on the Social Cost of Carbon"](https://www.rff.org/publications/working-papers/disentangling-the-roles-of-growth-uncertainty-discounting-and-the-climate-beta-on-the-social-cost-of-carbon/).
+3\. ["Disentangling the Roles of Growth Uncertainty, Discounting, and the Climate Beta on the Social Cost of Carbon"](https://www.rff.org/publications/working-papers/disentangling-the-roles-of-growth-uncertainty-discounting-and-the-climate-beta-on-the-social-cost-of-carbon/).
 
 <!-- 
 
